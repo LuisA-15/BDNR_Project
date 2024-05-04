@@ -1,0 +1,2255 @@
+,Facility.Name,Facility.City,Facility.State,Facility.Type,Rating.Overall,Procedure.Heart_Attack.Cost,Procedure.Heart_Attack.Quality
+0,Southeast Alabama Medical Center,Dothan,AL,Government,2,23394,Average
+1,Marshall Medical Center South,Boaz,AL,Government,1,22579,Average
+2,Eliza Coffee Memorial Hospital,Florence,AL,Government,3,24002,Average
+5,St Vincent's East,Birmingham,AL,Private,2,23940,Average
+6,Dekalb Regional Medical Center,Fort Payne,AL,Proprietary,2,23853,Average
+7,Shelby Baptist Medical Center,Alabaster,AL,Private,2,24008,Average
+9,Helen Keller Memorial Hospital,Sheffield,AL,Government,3,22948,Average
+12,Baptist Medical Center South,Montgomery,AL,Government,2,23467,Average
+13,Jackson Hospital & Clinic Inc,Montgomery,AL,Private,2,25850,Average
+14,East Alabama Medical Center,Opelika,AL,Government,4,23682,Worse
+16,University Of Alabama Hospital,Birmingham,AL,Government,2,21355,Average
+18,Cullman Regional Medical Center,Cullman,AL,Government,2,23153,Average
+19,Andalusia Health,Andalusia,AL,Proprietary,4,22544,Average
+20,Stringfellow Memorial Hospital,Anniston,AL,Proprietary,3,23828,Average
+21,Huntsville Hospital,Huntsville,AL,Government,2,22856,Average
+22,Gadsden Regional Medical Center,Gadsden,AL,Proprietary,2,23546,Average
+25,Riverview Regional Medical Center,Gadsden,AL,Proprietary,4,24160,Average
+30,Flowers Hospital,Dothan,AL,Proprietary,3,21779,Average
+31,St Vincent's Birmingham,Birmingham,AL,Private,4,24141,Average
+36,Russell Medical Center,Alexander City,AL,Private,3,23992,Average
+39,Northeast Alabama Regional Medical Center,Anniston,AL,Government,2,23858,Average
+41,South Baldwin Regional Medical Center,Foley,AL,Proprietary,3,23186,Average
+42,Decatur Morgan Hospital-decatur Campus,Decatur,AL,Government,3,23363,Average
+45,Walker Baptist Medical Center,Jasper,AL,Private,2,25214,Average
+46,Providence Hospital,Mobile,AL,Church,2,25291,Worse
+48,D C H Regional Medical Center,Tuscaloosa,AL,Government,2,23789,Average
+51,D W Mcmillan Memorial Hospital,Brewton,AL,Government,3,23399,Average
+52,Thomas Hospital,Fairhope,AL,Private,3,22488,Average
+55,Princeton Baptist Medical Center,Birmingham,AL,Church,2,24603,Average
+56,Grandview Medical Center,Birmingham,AL,Proprietary,2,22177,Average
+57,Prattville Baptist Hospital,Prattville,AL,Government,3,26147,Average
+61,Mobile Infirmary Medical Center,Mobile,AL,Private,1,22788,Average
+62,"Medical West, An Affiliate Of Uab Health System",Bessemer,AL,Government,3,23781,Average
+63,Vaughan Regional Medical Center Parkway Campus,Selma,AL,Proprietary,2,22320,Average
+70,Crestwood Medical Center,Huntsville,AL,Proprietary,2,21174,Average
+72,Brookwood Baptist Medical Center,Birmingham,AL,Proprietary,3,23022,Average
+73,Springhill Memorial Hospital,Mobile,AL,Proprietary,1,22208,Average
+76,Baptist Medical Center East,Montgomery,AL,Government,4,26578,Average
+80,Coosa Valley Medical Center,Sylacauga,AL,Unknown,2,22743,Average
+90,Providence Alaska Medical Center,Anchorage,AK,Church,4,23925,Average
+91,Mat-su Regional Medical Center,Palmer,AK,Unknown,3,21695,Average
+93,Fairbanks Memorial Hospital,Fairbanks,AK,Private,5,23917,Average
+94,Alaska Regional Hospital,Anchorage,AK,Proprietary,5,23733,Average
+97,Alaska Native Medical Center,Anchorage,AK,Government,2,22695,Average
+112,Banner - University Medical Center Phoenix,Phoenix,AZ,Unknown,2,24922,Average
+113,Tucson Medical Center,Tucson,AZ,Private,3,24370,Average
+114,Verde Valley Medical Center,Cottonwood,AZ,Private,5,22775,Average
+115,St. Mary's Hospital,Tucson,AZ,Private,2,23302,Average
+116,St Joseph's Hospital,Tucson,AZ,Unknown,2,23107,Average
+117,Yavapai Regional Medical Center,Prescott,AZ,Private,3,23918,Average
+118,Yuma Regional Medical Center,Yuma,AZ,Private,3,24631,Average
+119,John C. Lincoln North Mountain Hospital,Phoenix,AZ,Private,2,24620,Average
+120,Banner Casa Grande Medical Center,Casa Grande,AZ,Unknown,3,23695,Average
+122,Flagstaff Medical Center,Flagstaff,AZ,Private,5,24350,Average
+123,St. Joseph's Hospital And Medical Center,Phoenix,AZ,Church,2,27437,Average
+124,Abrazo Central Campus,Phoenix,AZ,Proprietary,3,25769,Average
+125,Chandler Regional Medical Center,Chandler,AZ,Unknown,3,24112,Average
+126,St Luke's Medical Center,Phoenix,AZ,Proprietary,2,26607,Average
+127,Scottsdale Osborn Medical Center,Scottsdale,AZ,Proprietary,4,24399,Average
+128,Canyon Vista Medical Center,Sierra Vista,AZ,Unknown,1,21489,Average
+129,Kingman Regional Medical Center,Kingman,AZ,Government,2,26281,Average
+130,Banner Boswell Medical Center,Sun City,AZ,Unknown,4,21990,Average
+131,Summit Healthcare Regional Medical Center,Show Low,AZ,Private,4,24708,Average
+132,Banner - University Medical Center Tucson Campus,Tucson,AZ,Private,2,23106,Average
+133,Banner Desert Medical Center,Mesa,AZ,Private,2,24071,Average
+135,Havasu Regional Medical Center,Lake Havasu City,AZ,Proprietary,3,23317,Average
+141,Abrazo Scottsdale Campus,Phoenix,AZ,Proprietary,3,25192,Average
+143,Northwest Medical Center,Tucson,AZ,Proprietary,2,23260,Average
+144,Scottsdale Shea Medical Center,Scottsdale,AZ,Proprietary,4,23301,Average
+145,Banner Baywood Medical Center,Mesa,AZ,Private,4,25224,Average
+146,Banner Thunderbird Medical Center,Glendale,AZ,Government,2,22732,Average
+147,Honorhealth Deer Valley Medical Center,Phoenix,AZ,Private,3,24315,Average
+148,Banner Del E. Webb Medical Center,Sun City West,AZ,Private,4,23111,Average
+149,Abrazo Arrowhead Campus,Glendale,AZ,Proprietary,3,25293,Average
+150,Western Arizona Regional Medical Center,Bullhead City,AZ,Proprietary,1,26191,Average
+151,Mayo Clinic Hospital,Phoenix,AZ,Private,5,20975,Average
+152,Banner Heart Hospital,Mesa,AZ,Private,4,24141,Average
+155,Abrazo West Campus,Goodyear,AZ,Proprietary,3,24973,Average
+156,Banner-university Medical Center South Campus,Tucson,AZ,Private,2,22734,Average
+159,Oro Valley Hospital,Oro Valley,AZ,Proprietary,4,23921,Average
+160,Banner Estrella Medical Center,Phoenix,AZ,Private,4,22965,Average
+161,Valley View Medical Center,Fort Mohave,AZ,Proprietary,3,22279,Average
+162,Mercy Gilbert Medical Center,Gilbert,AZ,Church,3,23666,Average
+163,"Mountain Vista Medical Center, Lp",Mesa,AZ,Proprietary,2,25230,Average
+164,Banner Gateway Medical Center,Gilbert,AZ,Unknown,3,24001,Average
+165,Scottsdale Thompson Peak Medical Center,Scottsdale,AZ,Proprietary,5,23570,Average
+183,Cobre Valley Regional Medical Center,Globe,AZ,Private,3,25331,Average
+185,La Paz Regional Hospital,Parker,AZ,Private,2,22009,Average
+191,Washington Regional Medical Center,Fayetteville,AR,Private,2,23918,Average
+192,Chi-st Vincent Infirmary,Little Rock,AR,Private,1,26033,Average
+193,Mercy Hospital Northwest Arkansas,Rogers,AR,Church,4,24212,Average
+194,Chambers Memorial Hospital,Danville,AR,Private,3,22946,Average
+195,White County Medical Center,Searcy,AR,Private,4,21960,Average
+197,Uams Medical Center,Little Rock,AR,Government,1,23850,Average
+201,St Bernards Medical Center,Jonesboro,AR,Private,2,27055,Worse
+202,Northwest Medical Center-springdale,Springdale,AR,Proprietary,3,25222,Average
+203,Chi St. Vincent Hospital Hot Springs,Hot Springs,AR,Church,3,20995,Average
+204,Baxter Regional Medical Center,Mountain Home,AR,Private,3,25016,Average
+205,Conway Regional Medical Center,Conway,AR,Private,3,20100,Average
+206,Baptist Health Medical Center North Little Rock,North Little Rock,AR,Private,2,24238,Average
+207,Arkansas Methodist Medical Center,Paragould,AR,Private,2,23965,Worse
+208,St Marys Regional Medical Center,Russellville,AR,Proprietary,2,23888,Average
+212,Sparks Regional Medical Center,Fort Smith,AR,Proprietary,1,24876,Average
+213,Mercy Hospital Fort Smith,Fort Smith,AR,Private,3,23545,Average
+216,Jefferson Regional Medical Center,Pine Bluff,AR,Private,1,23425,Average
+220,National Park Medical Center,Hot Springs,AR,Proprietary,1,23826,Average
+221,Saline Memorial Hospital,Benton,AR,Proprietary,1,23424,Average
+223,Medical Center Of South Arkansas,El Dorado,AR,Proprietary,2,25385,Average
+224,Baptist Health Medical Center-little Rock,Little Rock,AR,Private,1,25112,Average
+225,Nea Baptist Memorial Hospital,Jonesboro,AR,Private,2,23310,Average
+226,White River Medical Center,Batesville,AR,Private,3,25729,Average
+228,"Arkansas Heart Hospital, Llc",Little Rock,AR,Proprietary,5,23490,Average
+229,St Vincent Medical Center/north,Sherwood,AR,Church,3,26544,Average
+266,St Rose Hospital,Hayward,CA,Church,2,27618,Average
+267,St Joseph Hospital,Eureka,CA,Private,2,21152,Average
+268,Mills-peninsula Medical Center,Burlingame,CA,Private,5,23897,Average
+270,Queen Of The Valley Medical Center,Napa,CA,Church,3,23484,Average
+271,Adventist Health St Helena,Saint Helena,CA,Private,3,24816,Average
+273,Mercy General Hospital,Sacramento,CA,Church,3,25177,Average
+274,Riverside Community Hospital,Riverside,CA,Proprietary,2,26609,Average
+275,Paradise Valley Hospital,National City,CA,Proprietary,2,25196,Average
+276,Uc San Diego Health Hillcrest - Hillcrest Med Ctr,San Diego,CA,Unknown,4,25182,Average
+277,Grossmont Hospital,La Mesa,CA,Government,2,26107,Average
+279,Oroville Hospital,Oroville,CA,Private,1,23987,Average
+280,Bakersfield Memorial Hospital,Bakersfield,CA,Private,2,22921,Average
+281,Santa Clara Valley Medical Center,San Jose,CA,Government,1,24495,Average
+282,Enloe Medical Center,Chico,CA,Private,4,24569,Average
+285,Alta Bates Summit Medical Center,Oakland,CA,Private,5,22574,Average
+286,El Centro Regional Medical Center,El Centro,CA,Government,2,24176,Average
+287,California Pacific Medical Ctr-pacific Campus Hosp,San Francisco,CA,Private,4,21972,Average
+288,San Gorgonio Memorial Hospital,Banning,CA,Government,3,24081,Average
+290,Antelope Valley Hospital,Lancaster,CA,Government,1,20574,Average
+291,Kaweah Delta Medical Center,Visalia,CA,Government,3,25480,Average
+292,Glendale Mem Hospital & Hlth Center,Glendale,CA,Private,3,25307,Average
+293,Community Regional Medical Center,Fresno,CA,Private,2,24337,Average
+294,Hollywood Presbyterian Medical Center,Los Angeles,CA,Proprietary,1,25447,Average
+296,St Joseph Hospital,Orange,CA,Church,3,25913,Average
+300,Kaiser Foundation Hospital And Rehab Center,Vallejo,CA,Unknown,3,22247,Average
+301,Kaiser Foundation Hospital - Oakland/richmond,Oakland,CA,Unknown,2,20687,Average
+303,Scripps Mercy Hospital,San Diego,CA,Private,2,24834,Average
+305,St Johns Regional Medical Center,Oxnard,CA,Private,4,27713,Average
+306,St Joseph's Medical Center Of Stockton,Stockton,CA,Church,2,25231,Average
+309,Community Hospital Of Huntington Park,Huntington Park,CA,Proprietary,2,22763,Average
+310,Saint Agnes Medical Center,Fresno,CA,Church,2,22896,Average
+312,San Antonio Regional Hospital,Upland,CA,Unknown,3,22634,Better
+313,Sharp Memorial Hospital,San Diego,CA,Private,4,23706,Average
+314,Sutter Solano Medical Center,Vallejo,CA,Private,2,25881,Average
+316,White Memorial Medical Center,Los Angeles,CA,Church,3,26568,Average
+317,Saint Francis Medical Center,Lynwood,CA,Church,2,25207,Average
+318,Marian Regional Medical Center,Santa Maria,CA,Church,4,24146,Average
+319,"Sutter Medical Center, Sacramento",Sacramento,CA,Private,4,23334,Average
+321,Santa Monica - Ucla Med Ctr & Orthopaedic Hospital,Santa Monica,CA,Private,5,24227,Average
+323,Palomar Health Downtown Campus,Escondido,CA,Government,4,25059,Average
+324,Northridge Hospital Medical Center,Northridge,CA,Private,2,25263,Better
+325,Doctors Hospital Of Manteca,Manteca,CA,Unknown,2,23916,Average
+326,Adventist Health Hanford,Hanford,CA,Church,2,22235,Average
+327,Dameron Hospital,Stockton,CA,Unknown,2,23183,Average
+328,Usc Verdugo Hills Hospital,Glendale,CA,Private,2,24947,Average
+329,Regional Medical Center Of San Jose,San Jose,CA,Government,1,24994,Average
+330,Valley Presbyterian Hospital,Van Nuys,CA,Unknown,2,26261,Average
+332,Tri-city Medical Center,Oceanside,CA,Government,2,21418,Average
+333,St Bernardine Medical Center,San Bernardino,CA,Private,1,23714,Average
+335,San Gabriel Valley Medical Center,San Gabriel,CA,Proprietary,4,26508,Average
+336,Rideout Memorial Hospital,Marysville,CA,Government,1,22970,Average
+337,Southern California Hospital At Hollywood,Hollywood,CA,Proprietary,4,25754,Average
+338,Petaluma Valley Hospital,Petaluma,CA,Unknown,4,23365,Average
+342,Kaiser Foundation Hospital Fontana,Fontana,CA,Private,3,22627,Average
+343,Community Hospital Of The Monterey Peninsula,Monterey,CA,Private,5,24438,Average
+344,California Hospital Medical Center La,Los Angeles,CA,Unknown,3,26070,Average
+345,Sierra Nevada Memorial Hospital,Grass Valley,CA,Unknown,3,24411,Average
+347,O'connor Hospital,San Jose,CA,Private,1,24150,Average
+348,Encino Hospital Medical Center,Encino,CA,Proprietary,3,23237,Average
+349,Ventura County Medical Center,Ventura,CA,Government,2,25083,Average
+351,St Jude Medical Center,Fullerton,CA,Church,5,25366,Average
+352,Pih Health Hospital-whittier,Whittier,CA,Private,4,21942,Average
+353,Santa Rosa Memorial Hospital,Santa Rosa,CA,Private,3,22528,Average
+354,Emanuel Medical Center,Turlock,CA,Church,1,23465,Average
+355,John Muir Medical Center - Walnut Creek Campus,Walnut Creek,CA,Unknown,4,24677,Average
+357,St Mary Medical Center,Long Beach,CA,Church,2,22592,Average
+359,Watsonville Community Hospital,Watsonville,CA,Proprietary,2,25723,Average
+360,Washington Hospital,Fremont,CA,Government,2,24580,Average
+361,Sequoia Hospital,Redwood City,CA,Private,5,23439,Average
+362,Palmdale Regional Medical Center,Palmdale,CA,Proprietary,2,21235,Average
+364,Alameda Hospital,Alameda,CA,Government,2,23169,Average
+365,Sharp Chula Vista Medical Center,Chula Vista,CA,Proprietary,4,23832,Average
+366,Hoag Memorial Hospital Presbyterian,Newport Beach,CA,Private,4,23761,Average
+367,Adventist Health Feather River,Paradise,CA,Church,3,23462,Average
+368,Ahmc Anaheim Regional Medical Center,Anaheim,CA,Private,3,24034,Average
+369,Zuckerberg San Francisco General Hosp & Trauma Ctr,San Francisco,CA,Government,1,20738,Average
+370,Garden Grove Hospital & Medical Center,Garden Grove,CA,Proprietary,4,25680,Average
+371,Pomona Valley Hospital Medical Center,Pomona,CA,Private,2,23716,Average
+372,French Hospital Medical Center,San Luis Obispo,CA,Private,4,24559,Average
+374,Providence Saint Joseph Medical Ctr,Burbank,CA,Church,2,25152,Average
+375,Adventist Health Simi Valley,Simi Valley,CA,Church,3,22144,Average
+376,Methodist Hospital Of Southern Ca,Arcadia,CA,Private,3,23414,Average
+377,Glendale Adventist Medical Center,Glendale,CA,Private,3,25942,Average
+378,Dominican Hospital,Santa Cruz,CA,Proprietary,3,23995,Average
+379,Desert Regional Medical Center,Palm Springs,CA,Proprietary,2,26153,Average
+382,Marshall Medical Center,Placerville,CA,Private,2,24116,Average
+384,Sierra View Medical Center,Porterville,CA,Private,1,22610,Average
+385,Ronald Reagan U C L A Medical Center,Los Angeles,CA,Government,3,26171,Average
+386,Redlands Community Hospital,Redlands,CA,Government,4,23661,Average
+388,Providence Holy Cross Medical Center,Mission Hills,CA,Church,3,23291,Average
+390,Mercy Medical Center Redding,Redding,CA,Private,1,26167,Worse
+391,Alhambra Hospital Medical Center,Alhambra,CA,Proprietary,4,27028,Average
+392,Stanford Health Care - Valleycare,Pleasanton,CA,Private,4,26023,Average
+393,Seton Medical Center,Daly City,CA,Church,3,25515,Average
+394,Providence Saint John's Health Center,Santa Monica,CA,Private,4,24194,Average
+395,Sutter Santa Rosa Regional Hospital,Santa Rosa,CA,Unknown,4,23597,Average
+396,Riverside University Health System-medical Center,Moreno Valley,CA,Government,1,24204,Average
+397,Mercy Hospital,Bakersfield,CA,Unknown,1,22183,Average
+398,Hazel Hawkins Memorial Hospital,Hollister,CA,Government,2,21540,Average
+399,Barstow Community Hospital,Barstow,CA,Proprietary,3,21919,Average
+400,St Mary Medical Center,Apple Valley,CA,Private,2,23418,Average
+401,Adventist Health Ukiah Valley,Ukiah,CA,Church,3,23857,Average
+402,Alta Bates Summit Medical Center - Alta Bates Camp,Berkeley,CA,Private,3,22701,Average
+403,El Camino Hospital,Mountain View,CA,Government,4,27346,Average
+404,Sutter Roseville Medical Center,Roseville,CA,Unknown,5,22294,Average
+405,Sutter Tracy Community Hospital,Tracy,CA,Private,4,23515,Average
+407,Highland Hospital,Oakland,CA,Government,2,25338,Average
+408,Scripps Memorial Hospital La Jolla,La Jolla,CA,Unknown,5,24101,Average
+409,Loma Linda University Medical Center,Loma Linda,CA,Private,3,22415,Average
+410,Corona Regional Medical Center,Corona,CA,Proprietary,2,26223,Average
+411,Salinas Valley Memorial Hospital,Salinas,CA,Unknown,3,25234,Average
+412,Adventist Health Sonora,Sonora,CA,Church,3,24508,Average
+413,Adventist Health Lodi Memorial,Lodi,CA,Unknown,2,24068,Average
+414,Pioneers Memorial Healthcare District,Brawley,CA,Government,2,25363,Average
+415,University Of California Irvine Med Center,Orange,CA,Government,3,24059,Average
+416,Beverly Hospital,Montebello,CA,Private,2,23174,Average
+417,Torrance Memorial Medical Center,Torrance,CA,Unknown,4,25310,Average
+419,Providence Little Company Of Mary Med Ctr Torrance,Torrance,CA,Church,4,25451,Average
+421,Marin General Hospital,Greenbrae,CA,Government,3,21274,Average
+422,Northbay Medical Center,Fairfield,CA,Unknown,2,24577,Average
+423,Lac+usc Medical Center,Los Angeles,CA,Government,1,22270,Average
+424,Lac/harbor-ucla Med Center,Torrance,CA,Government,2,25507,Average
+426,Good Samaritan Hospital,San Jose,CA,Proprietary,2,26927,Average
+427,Citrus Valley Medical Center-ic Campus,Covina,CA,Proprietary,2,25864,Average
+428,Hemet Valley Medical Center,Hemet,CA,Unknown,1,26088,Average
+429,Pih Hospital - Downey,Downey,CA,Private,3,20696,Average
+430,Community Memorial Hospital San Buenaventura,Ventura,CA,Private,2,26516,Average
+431,Santa Barbara Cottage Hospital,Santa Barbara,CA,Private,5,25067,Average
+433,Chinese Hospital,San Francisco,CA,Private,5,22970,Average
+435,Mercy Hospital Of Folsom,Folsom,CA,Private,3,24835,Average
+436,Sutter Coast Hospital,Crescent City,CA,Government,3,23495,Average
+438,Scripps Green Hospital,La Jolla,CA,Unknown,5,24277,Average
+440,West Anaheim Medical Center,Anaheim,CA,Proprietary,3,24367,Average
+441,Huntington Memorial Hospital,Pasadena,CA,Unknown,4,23863,Average
+442,Stanford Health Care,Stanford,CA,Private,4,21563,Average
+443,Mercy Medical Center,Merced,CA,Private,1,25973,Average
+444,Ucsf Medical Center,San Francisco,CA,Unknown,4,25764,Average
+445,Adventist Health Bakersfield,Bakersfield,CA,Private,2,23680,Average
+446,St Mary's Medical Center,San Francisco,CA,Private,2,24127,Average
+447,Doctors Medical Center,Modesto,CA,Proprietary,1,25872,Average
+448,Memorial Hospital Of Gardena,Gardena,CA,Proprietary,1,25107,Average
+449,Good Samaritan Hospital,Los Angeles,CA,Proprietary,3,24793,Average
+450,West Hills Hospital & Medical Center,West Hills,CA,Proprietary,2,25511,Average
+451,Long Beach Memorial Medical Center,Long Beach,CA,Unknown,2,24165,Average
+452,Eden Medical Center,Castro Valley,CA,Unknown,3,24688,Average
+453,Clovis Community Medical Center,Clovis,CA,Private,3,23749,Average
+454,John Muir Medical Center - Concord Campus,Concord,CA,Private,5,26238,Average
+455,Sutter Auburn Faith Hospital,Auburn,CA,Unknown,4,23402,Average
+456,Saint Vincent Medical Center,Los Angeles,CA,Church,4,24234,Average
+457,Scripps Memorial Hospital - Encinitas,Encinitas,CA,Private,4,22717,Average
+462,Mercy San Juan Medical Center,Carmichael,CA,Unknown,2,24980,Average
+464,Sutter Delta Medical Center,Antioch,CA,Private,2,22419,Average
+465,Huntington Beach Hospital,Huntington Beach,CA,Proprietary,2,24095,Average
+467,John F Kennedy Memorial Hospital,Indio,CA,Proprietary,2,23099,Average
+474,Los Robles Hospital & Medical Center,Thousand Oaks,CA,Proprietary,2,24341,Average
+475,Los Alamitos Medical Center,Los Alamitos,CA,Proprietary,3,24885,Average
+476,Memorial Medical Center,Modesto,CA,Private,3,25873,Average
+478,Mission Hospital Regional Med Center,Mission Viejo,CA,Private,2,25006,Average
+479,Madera Community Hospital,Madera,CA,Unknown,1,20473,Average
+480,Fountain Valley Regional Hospital & Medical Center,Fountain Valley,CA,Proprietary,3,28535,Average
+481,Eisenhower Medical Center,Rancho Mirage,CA,Proprietary,5,22988,Average
+482,La Palma Intercommunity Hospital,La Palma,CA,Proprietary,3,23093,Average
+483,Lakewood Regional Medical Center,Lakewood,CA,Proprietary,2,23386,Average
+486,Placentia Linda Hospital,Placentia,CA,Proprietary,3,23425,Average
+487,Methodist Hospital Of Sacramento,Sacramento,CA,Unknown,3,24180,Average
+488,Foothill Presbyterian Hospital,Glendora,CA,Private,2,26242,Average
+489,University Of California Davis Medical Center,Sacramento,CA,Unknown,3,23219,Average
+490,Memorialcare Saddleback Medical Center,Laguna Hills,CA,Private,4,24753,Average
+491,Kaiser Foundation Hospital-san Jose,San Jose,CA,Unknown,4,22534,Average
+494,St Johns Pleasant Valley Hospital,Camarillo,CA,Church,2,23660,Average
+495,Henry Mayo Newhall  Hospital,Valencia,CA,Private,2,22881,Average
+496,Cedars-sinai Medical Center,Los Angeles,CA,Unknown,5,29606,Better
+497,Twin Cities Community Hospital,Templeton,CA,Proprietary,2,22593,Average
+498,Pomerado Hospital,Poway,CA,Government,4,23477,Average
+499,East Los Angeles Doctors Hospital,Los Angeles,CA,Proprietary,2,23478,Average
+502,Kaiser Foundation Hosp So Sacramento,Sacramento,CA,Unknown,3,23160,Average
+504,Orange Coast Memorial Medical Center,Fountain Valley,CA,Proprietary,3,23352,Average
+505,Menifee Valley Medical Center,Sun City,CA,Unknown,2,24338,Average
+508,San Ramon Regional Medical Center,San Ramon,CA,Proprietary,3,22137,Average
+512,Southwest Healthcare System,Murrieta,CA,Proprietary,2,27598,Average
+515,Desert Valley Hospital,Victorville,CA,Proprietary,3,23644,Average
+520,Bakersfield Heart Hospital,Bakersfield,CA,Proprietary,2,24088,Average
+522,Community Hospital Of Long Beach,Long Beach,CA,Private,2,26399,Average
+523,Whittier Hospital Medical Center,Whittier,CA,Proprietary,3,25502,Average
+525,Garfield Medical Center,Monterey Park,CA,Proprietary,4,27753,Average
+527,Centinela Hospital Medical Center,Inglewood,CA,Proprietary,4,26204,Better
+528,Marina Del Rey Hospital,Marina Del Rey,CA,Proprietary,3,26154,Average
+529,Olympia Medical Center,Los Angeles,CA,Proprietary,2,25389,Average
+532,Orange County Global Medical Center,Santa Ana,CA,Proprietary,2,26294,Average
+537,Sherman Oaks Hospital,Sherman Oaks,CA,Private,3,26183,Better
+538,Alvarado Hospital Medical Center,San Diego,CA,Proprietary,5,24909,Average
+541,Providence Tarzana Medical Center,Tarzana,CA,Private,4,26261,Average
+543,Shasta Regional Medical Center,Redding,CA,Proprietary,4,23362,Average
+548,Loma Linda University Medical Center-murrieta,Murrieta,CA,Private,3,25206,Average
+549,Coast Plaza Hospital,Norwalk,CA,Proprietary,2,24691,Average
+551,San Leandro Hospital,San Leandro,CA,Government,2,24870,Average
+552,Temecula Valley Hospital,Temecula,CA,Proprietary,5,23532,Average
+606,North Colorado Medical Center,Greeley,CO,Private,4,21727,Average
+607,Longmont United Hospital,Longmont,CO,Private,3,22218,Average
+608,Platte Valley Medical Center,Brighton,CO,Private,4,23897,Average
+609,Montrose Memorial Hospital,Montrose,CO,Private,4,23197,Average
+611,Lutheran Medical Center,Wheat Ridge,CO,Private,3,23238,Average
+612,Poudre Valley Hospital,Fort Collins,CO,Private,5,21221,Average
+613,Denver Health Medical Center,Denver,CO,Government,3,23283,Average
+614,Centura Health-st Mary Corwin Medical Center,Pueblo,CO,Church,3,21605,Average
+615,Mercy Regional Medical Center,Durango,CO,Church,5,22157,Average
+616,Presbyterian St Lukes Medical Center,Denver,CO,Government,3,22538,Average
+617,Centura Health-st Anthony Hospital,Lakewood,CO,Church,3,23767,Average
+618,"Parkview Medical Center, Inc",Pueblo,CO,Private,3,22867,Average
+619,University Colo Health Memorial Hospital Central,Colorado Springs,CO,Government,4,24159,Average
+620,St Marys  Medical Center,Grand Junction,CO,Church,4,21421,Average
+621,University Of Colorado Hospital Authority,Aurora,CO,Government,3,23214,Average
+622,Foothills Hospital,Boulder,CO,Private,3,27525,Average
+624,Mckee Medical Center,Loveland,CO,Private,3,21346,Average
+625,Centura Health-penrose St Francis Health Services,Colorado Springs,CO,Private,5,23428,Average
+626,Rose Medical Center,Denver,CO,Proprietary,5,24150,Average
+627,Swedish Medical Center,Englewood,CO,Proprietary,4,24791,Average
+631,Centura Health-porter Adventist Hospital,Denver,CO,Church,3,24041,Average
+632,North Suburban Medical Center,Thornton,CO,Private,3,24724,Average
+634,Valley View Hospital Association,Glenwood Springs,CO,Private,4,24091,Average
+635,Sterling Regional Medcenter,Sterling,CO,Private,4,22331,Average
+637,"Medical Center Of Aurora, The",Aurora,CO,Proprietary,3,23261,Average
+638,Centura Health-avista Adventist Hospital,Louisville,CO,Church,3,23132,Average
+639,St Anthony North Health Campus,Westminster,CO,Private,3,23399,Average
+641,Sky Ridge Medical Center,Lone Tree,CO,Unknown,4,24093,Average
+642,Centura Health-littleton Adventist Hospital,Littleton,CO,Church,3,23766,Average
+643,Parker Adventist Hospital,Parker,CO,Private,4,22497,Average
+644,Good Samaritan Medical Center,Lafayette,CO,Private,4,22557,Average
+647,Medical Center Of The Rockies,Loveland,CO,Private,5,23445,Average
+649,Castle Rock Adventist Hospital,Castle Rock,CO,Private,4,24367,Average
+688,St Francis Hospital & Medical Center,Hartford,CT,Church,4,23366,Average
+689,Day Kimball Hospital,Putnam,CT,Private,3,23191,Average
+690,Sharon Hospital,Sharon,CT,Proprietary,4,23255,Average
+691,Waterbury Hospital,Waterbury,CT,Proprietary,1,24338,Average
+692,Stamford Hospital,Stamford,CT,Private,3,25240,Average
+693,Lawrence & Memorial Hospital,New London,CT,Private,4,25352,Average
+695,Bridgeport Hospital,Bridgeport,CT,Private,1,22703,Average
+696,Charlotte Hungerford Hospital,Torrington,CT,Private,1,23794,Average
+698,Saint Mary's Hospital,Waterbury,CT,Unknown,2,23638,Average
+699,Midstate Medical Center,Meriden,CT,Private,3,23480,Average
+700,Greenwich Hospital Association -,Greenwich,CT,Private,4,25035,Average
+701,"Milford Hospital, Inc",Milford,CT,Private,4,21999,Average
+702,Middlesex Hospital,Middletown,CT,Private,3,25012,Average
+703,Windham Comm Mem Hosp & Hatch Hosp,Willimantic,CT,Private,4,25652,Average
+704,Yale-new Haven Hospital,New Haven,CT,Private,4,23981,Average
+705,William W Backus Hospital,Norwich,CT,Unknown,4,24368,Average
+706,Hartford Hospital,Hartford,CT,Private,2,24502,Average
+707,Manchester Memorial Hospital,Manchester,CT,Private,1,23323,Average
+708,St Vincent's Medical Center,Bridgeport,CT,Church,1,24170,Average
+709,Bristol Hospital,Bristol,CT,Private,3,22923,Average
+710,Griffin Hospital,Derby,CT,Unknown,1,25526,Average
+711,Danbury Hospital,Danbury,CT,Private,2,23055,Average
+712,Norwalk Hospital Association,Norwalk,CT,Private,3,25982,Average
+713,"Hospital Of Central Connecticut, The",New Britain,CT,Unknown,3,24189,Average
+714,John Dempsey Hospital,Farmington,CT,Government,3,25429,Average
+719,"Christiana Care Health Services, Inc.",Newark,DE,Private,3,25821,Average
+720,St Francis Hospital,Wilmington,DE,Private,3,23518,Average
+721,"Bayhealth Hospital, Kent Campus",Dover,DE,Private,3,23726,Average
+722,Nanticoke Memorial Hospital,Seaford,DE,Private,4,23289,Average
+723,Beebe Medical Center,Lewes,DE,Private,2,26078,Average
+724,Bayhealth - Milford Memorial Hospital,Milford,DE,Private,2,27968,Average
+726,George Washington Univ Hospital,Washington,DC,Proprietary,1,25010,Average
+727,Howard University Hospital,Washington,DC,Unknown,2,24642,Average
+728,Medstar Georgetown University Hospital,Washington,DC,Private,1,23606,Average
+729,Sibley Memorial Hospital,Washington,DC,Unknown,3,23511,Average
+730,Providence Hospital,Washington,DC,Private,1,22293,Average
+731,United Medical Center,Washington,DC,Proprietary,1,23117,Average
+732,Medstar Washington Hospital Center,Washington,DC,Unknown,1,24536,Average
+734,Uf Health Jacksonville,Jacksonville,FL,Private,2,24967,Average
+735,Bethesda Hospital East,Boynton Beach,FL,Private,3,25557,Average
+736,Orlando Health Orlando Regional Medical Center,Orlando,FL,Private,4,25303,Average
+737,Florida Hospital,Orlando,FL,Private,3,26062,Average
+738,Baptist Hospital Of Miami,Miami,FL,Private,2,23097,Average
+739,Lee Memorial Hospital,Fort Myers,FL,Government,3,23802,Average
+740,Florida Hospital New Smyrna,New Smyrna Beach,FL,Church,1,24821,Average
+741,Halifax Health Medical Center,Daytona Beach,FL,Government,2,24191,Average
+742,Naples Community Hospital,Naples,FL,Private,4,22272,Average
+743,Holmes Regional Medical Center,Melbourne,FL,Private,3,23535,Average
+744,Jackson Memorial Hospital,Miami,FL,Government,1,26334,Average
+745,Citrus Memorial Hospital,Inverness,FL,Government,1,22406,Average
+746,Sacred Heart Hospital,Pensacola,FL,Private,2,22456,Average
+747,Bay Medical Center Sacred Heart Health System,Panama City,FL,Government,2,23316,Average
+748,Parrish Medical Center,Titusville,FL,Government,1,24808,Average
+749,North Shore Medical Center,Miami,FL,Proprietary,1,26059,Average
+750,Health Central,Ocoee,FL,Government,2,24907,Average
+751,Bayfront Health - St Petersburg,Saint Petersburg,FL,Private,1,24586,Average
+752,Mount Sinai Medical Center,Miami Beach,FL,Proprietary,2,23131,Average
+753,Manatee Memorial Hospital,Bradenton,FL,Proprietary,1,23669,Average
+754,Memorial Regional Hospital,Hollywood,FL,Government,3,26071,Average
+755,Broward Health Medical Center,Fort Lauderdale,FL,Government,1,26921,Average
+756,St Vincent's Medical Center Riverside,Jacksonville,FL,Private,2,26092,Average
+757,Mease Dunedin Hospital,Dunedin,FL,Private,4,24563,Average
+758,Martin Medical Center,Stuart,FL,Private,1,25750,Average
+759,Florida Hospital Deland,Deland,FL,Church,2,23022,Average
+760,Florida Hospital Zephyrhills,Zephyrhills,FL,Church,4,24265,Average
+761,Bayfront Health Punta Gorda,Punta Gorda,FL,Proprietary,2,25234,Average
+763,Highlands Regional Medical Center,Sebring,FL,Proprietary,1,25365,Average
+764,Larkin Community Hospital Palm Springs Campus,Hialeah,FL,Private,2,24894,Average
+765,South Lake Hospital,Clermont,FL,Government,4,21626,Average
+766,Winter Haven Hospital,Winter Haven,FL,Private,2,23355,Average
+767,Hialeah Hospital,Hialeah,FL,Proprietary,2,24250,Average
+768,Twin Cities Hospital,Niceville,FL,Proprietary,3,23366,Average
+769,Florida Hospital North Pinellas,Tarpon Springs,FL,Unknown,3,23700,Average
+770,Florida Hospital Waterman,Tavares,FL,Church,3,27588,Average
+771,Florida Hospital Ocala,Ocala,FL,Government,2,21582,Average
+772,Morton Plant North Bay Hospital,New Port Richey,FL,Private,4,24026,Average
+773,St Anthonys Hospital,Saint Petersburg,FL,Church,3,24418,Average
+774,Florida Hospital Memorial Medical Center,Daytona Beach,FL,Church,4,23572,Average
+776,Venice Regional Medical Center - Bayfront Health,Venice,FL,Proprietary,1,25349,Average
+777,Bayfront Health Brooksville,Brooksville,FL,Church,1,22523,Average
+778,Florida Hospital Fish Memorial,Orange City,FL,Church,2,24400,Average
+779,Holy Cross Hospital,Fort Lauderdale,FL,Church,4,25374,Average
+780,St Josephs Hospital,Tampa,FL,Church,5,24702,Better
+781,Bayfront Health Port Charlotte,Port Charlotte,FL,Proprietary,1,24691,Average
+782,Jfk Medical Center,Atlantis,FL,Proprietary,1,24223,Average
+784,Leesburg Regional Medical Center,Leesburg,FL,Private,2,22970,Average
+785,Broward Health North,Pompano Beach,FL,Government,1,25010,Average
+786,Sarasota Memorial Hospital,Sarasota,FL,Government,5,23690,Average
+787,Baptist Medical Center Jacksonville,Jacksonville,FL,Private,4,25043,Better
+788,Flagler Hospital,Saint Augustine,FL,Private,2,25510,Average
+789,Steward Rockledge Hospital,Rockledge,FL,Private,2,23836,Average
+790,Baptist Hospital,Pensacola,FL,Private,4,23687,Average
+791,Lake Wales Medical Center,Lake Wales,FL,Proprietary,2,23171,Average
+792,Shands Lake Shore Regional Medical Center,Lake City,FL,Private,4,22087,Average
+793,Indian River Medical Center,Vero Beach,FL,Government,2,24485,Average
+795,Lehigh Regional Medical Center,Lehigh Acres,FL,Private,2,25339,Average
+796,Florida Hospital Heartland Medical Center,Sebring,FL,Church,4,25247,Average
+797,Osceola Regional Medical Center,Kissimmee,FL,Proprietary,1,23020,Average
+798,Uf Health Shands Hospital,Gainesville,FL,Private,2,22809,Average
+799,Baptist Medical Center - Beaches,Jacksonville Beach,FL,Private,4,24983,Average
+800,Florida Hospital Flagler,Palm Coast,FL,Church,3,24015,Average
+801,Bartow Regional Medical Center,Bartow,FL,Proprietary,4,24727,Average
+802,North Okaloosa Medical Center,Crestview,FL,Private,4,22617,Average
+803,Santa Rosa Medical Center,Milton,FL,Proprietary,3,23438,Average
+804,Homestead Hospital,Homestead,FL,Private,2,25366,Average
+805,Palms Of Pasadena Hospital,Saint Petersburg,FL,Proprietary,3,25357,Average
+806,Morton Plant Hospital,Clearwater,FL,Private,4,23940,Average
+807,Tampa General Hospital,Tampa,FL,Private,2,24869,Average
+809,Aventura Hospital And Medical Center,Aventura,FL,Private,2,24737,Average
+810,South Florida Baptist Hospital,Plant City,FL,Private,3,23643,Average
+812,Tallahassee Memorial Hospital,Tallahassee,FL,Private,3,23079,Average
+813,Heart Of Florida Regional Medical Center,Davenport,FL,Proprietary,2,25525,Average
+814,Baptist Medical Center - Nassau,Fernandina Beach,FL,Government,4,25586,Average
+815,Jackson Hospital,Marianna,FL,Government,3,22532,Average
+816,Lower Keys Medical Center,Key West,FL,Proprietary,3,27929,Average
+817,Mayo Clinic,Jacksonville,FL,Private,4,21597,Average
+818,South Miami Hospital,South Miami,FL,Private,2,25455,Average
+819,Lake City Medical Center,Lake City,FL,Private,3,21429,Average
+820,Lakeland Regional Medical Center,Lakeland,FL,Private,1,20909,Average
+821,Central Florida Regional Hospital,Sanford,FL,Proprietary,2,23999,Better
+822,Doctors Hospital Of Sarasota,Sarasota,FL,Proprietary,4,24817,Average
+823,Plantation General Hospital,Plantation,FL,Proprietary,2,26071,Average
+824,Boca Raton Regional Hospital,Boca Raton,FL,Private,2,23751,Average
+825,Florida Hospital Tampa,Tampa,FL,Private,1,24428,Average
+827,Palm Beach Gardens Medical Center,Palm Beach Gardens,FL,Proprietary,3,26160,Average
+828,Cape Canaveral Hospital,Cocoa Beach,FL,Private,4,24828,Average
+829,Memorial Hospital Jacksonville,Jacksonville,FL,Proprietary,1,24389,Average
+830,St Petersburg General Hospital,Saint Petersburg,FL,Proprietary,2,22340,Average
+832,Coral Gables Hospital,Coral Gables,FL,Proprietary,3,23410,Average
+833,Palmetto General Hospital,Hialeah,FL,Proprietary,3,23996,Average
+834,Northwest Medical Center,Margate,FL,Proprietary,2,24083,Average
+835,Medical Center Of Trinity,Trinity,FL,Proprietary,2,22024,Average
+836,Broward Health Imperial Point,Fort Lauderdale,FL,Government,2,26856,Average
+837,North Florida Regional Medical Center,Gainesville,FL,Proprietary,2,22388,Average
+839,Kendall Regional Medical Center,Miami,FL,Proprietary,2,25529,Average
+840,Florida Hospital Dade City,Dade City,FL,Proprietary,3,25855,Average
+841,Ocala Regional Medical Center,Ocala,FL,Proprietary,2,22959,Worse
+842,Blake Medical Center,Bradenton,FL,Proprietary,2,24586,Average
+843,Steward Sebastian River Medical Center,Sebastian,FL,Proprietary,2,24081,Average
+844,Gulf Coast Medical Center Lee Mem Health System,Fort Myers,FL,Government,3,24953,Average
+845,Fort Walton Beach Medical Center,Fort Walton Beach,FL,Proprietary,2,23855,Average
+846,University Hospital And Medical Center,Tamarac,FL,Proprietary,2,25864,Average
+847,Orange Park Medical Center,Orange Park,FL,Unknown,2,26276,Average
+848,Westside Regional Medical Center,Plantation,FL,Proprietary,1,24527,Average
+849,Memorial Hospital Pembroke,Pembroke Pines,FL,Government,2,25665,Average
+850,West Florida Hospital,Pensacola,FL,Proprietary,3,23329,Average
+851,Putnam Community Medical Center,Palatka,FL,Proprietary,2,26147,Average
+852,Fawcett Memorial Hospital,Port Charlotte,FL,Proprietary,3,22785,Average
+853,Northside Hospital,Saint Petersburg,FL,Proprietary,2,24856,Average
+854,Gulf Coast Regional Medical Center,Panama City,FL,Proprietary,3,26185,Average
+855,Brandon Regional Hospital,Brandon,FL,Proprietary,2,23102,Average
+856,Cape Coral Hospital,Cape Coral,FL,Government,3,25696,Average
+857,Lawnwood Regional Medical Center & Heart Institute,Fort Pierce,FL,Proprietary,1,23979,Average
+858,Largo Medical Center,Largo,FL,Proprietary,1,24946,Average
+859,Bayfront Health Seven Rivers,Crystal River,FL,Proprietary,1,23873,Average
+860,Raulerson Hospital,Okeechobee,FL,Proprietary,2,23893,Average
+861,Jupiter Medical Center,Jupiter,FL,Private,5,23477,Average
+862,Capital Regional Medical Center,Tallahassee,FL,Proprietary,2,23999,Average
+863,Tampa Community Hospital,Tampa,FL,Proprietary,3,24231,Average
+864,Regional Medical Center Bayonet Point,Hudson,FL,Proprietary,2,21670,Average
+865,Delray Medical Center,Delray Beach,FL,Proprietary,2,25823,Average
+866,South Bay Hospital,Sun City Center,FL,Proprietary,2,25175,Average
+867,St Lucie Medical Center,Port Saint Lucie,FL,Proprietary,1,24860,Average
+868,Oak Hill Hospital,Brooksville,FL,Unknown,2,24114,Average
+869,Mease Countryside Hospital,Safety Harbor,FL,Private,3,23151,Average
+870,Gulf Breeze Hospital,Gulf Breeze,FL,Unknown,5,24499,Average
+871,Englewood Community Hospital,Englewood,FL,Proprietary,3,23472,Average
+872,West Boca Medical Center,Boca Raton,FL,Proprietary,1,25205,Average
+873,Palms West Hospital,Loxahatchee,FL,Proprietary,2,26675,Average
+874,Wellington Regional Medical Center Llc,Wellington,FL,Proprietary,1,22549,Average
+875,Broward Health Coral Springs,Coral Springs,FL,Government,3,23838,Average
+877,Memorial Hospital West,Pembroke Pines,FL,Government,3,24075,Average
+878,Westchester General Hospital,Miami,FL,Proprietary,2,24482,Average
+879,Memorial Hospital Miramar,Miramar,FL,Government,4,24986,Average
+880,Physicians Regional Medical Center - Pine Ridge,Naples,FL,Proprietary,2,23786,Average
+881,Good Samaritan Medical Center,West Palm Beach,FL,Proprietary,2,24083,Average
+883,Cleveland Clinic Hospital,Weston,FL,Proprietary,1,23177,Average
+884,"Villages Regional Hospital, The",The Villages,FL,Private,1,24086,Average
+885,Steward Melbourne Hospital,Melbourne,FL,Proprietary,1,22994,Average
+886,Sacred Heart Hospital On The Emerald Coast,Miramar Beach,FL,Unknown,5,24972,Average
+887,Doctors Hospital,Coral Gables,FL,Unknown,4,23257,Average
+889,Lakewood Ranch Medical Center,Bradenton,FL,Proprietary,3,22292,Average
+890,St Cloud Regional Medical Center,Saint Cloud,FL,Proprietary,1,24990,Average
+891,St Vincent's Medical Center Southside,Jacksonville,FL,Private,3,23126,Average
+893,West Kendall Baptist Hospital,Miami,FL,Private,3,21810,Average
+894,Viera Hospital,Melbourne,FL,Private,5,24339,Average
+895,Palm Bay Hospital,Palm Bay,FL,Proprietary,4,25449,Average
+896,Florida Hospital Wesley Chapel,Wesley Chapel,FL,Private,4,25046,Average
+898,St Vincents Medical Center - Clay County,Middleburg,FL,Private,5,25783,Average
+918,Hamilton Medical Center,Dalton,GA,Private,4,21315,Average
+919,Upson Regional Medical Center,Thomaston,GA,Unknown,2,23348,Average
+920,Memorial Satilla Health,Waycross,GA,Private,3,25000,Average
+921,Northside Hospital Forsyth,Cumming,GA,Private,4,24122,Average
+922,St Mary's Hospital,Athens,GA,Private,3,21535,Average
+923,Phoebe Putney Memorial Hospital,Albany,GA,Government,1,24432,Average
+924,Northside Hospital Cherokee,Canton,GA,Unknown,2,24680,Average
+925,Emory University Hospital,Atlanta,GA,Private,3,23358,Average
+926,Tanner Medical Center - Carrollton,Carrollton,GA,Government,2,25180,Average
+927,Tanner Medical Center Villa Rica,Villa Rica,GA,Government,3,22872,Average
+928,Wellstar West Georgia Medical Center,Lagrange,GA,Private,4,24259,Average
+929,Piedmont Newton Hospital,Covington,GA,Private,2,23951,Average
+930,Gordon Hospital,Calhoun,GA,Church,5,25201,Average
+932,Southeast Georgia Health System- Brunswick Campus,Brunswick,GA,Government,2,22677,Average
+935,University Hospital,Augusta,GA,Unknown,4,23962,Average
+936,"Northeast Georgia Medical Center, Inc",Gainesville,GA,Government,3,23437,Average
+937,Cartersville Medical Center,Cartersville,GA,Private,4,24413,Average
+938,Wellstar Spalding Regional Hospital,Griffin,GA,Proprietary,2,21715,Average
+940,Au Medical Center,Augusta,GA,Unknown,1,23592,Average
+941,Wellstar Kennestone Hospital,Marietta,GA,Government,3,24947,Average
+942,Memorial Health University Medical Center,Savannah,GA,Unknown,1,21978,Average
+943,John D Archbold Memorial Hospital,Thomasville,GA,Private,3,22747,Average
+946,Wellstar Paulding Hospital,Hiram,GA,Unknown,5,23959,Average
+947,St Joseph's Hospital - Savannah,Savannah,GA,Private,2,23812,Worse
+950,"Piedmont Walton Hospital, Inc",Monroe,GA,Proprietary,1,22835,Average
+952,Union General Hospital,Blairsville,GA,Government,4,21933,Average
+953,Floyd Medical Center,Rome,GA,Government,4,22441,Average
+954,Piedmont Columbus Regional Midtown,Columbus,GA,Unknown,1,23434,Average
+955,Houston Medical Center,Warner Robins,GA,Private,3,22419,Average
+958,Piedmont Athens Regional Medical Center,Athens,GA,Unknown,3,20859,Average
+959,East Georgia Regional Medical Center,Statesboro,GA,Proprietary,2,23998,Average
+960,Dekalb Medical Center,Decatur,GA,Private,1,22961,Average
+961,Emory University Hospital Midtown,Atlanta,GA,Private,3,23627,Average
+962,Grady Memorial Hospital,Atlanta,GA,Unknown,1,23746,Average
+963,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,Private,4,23383,Average
+964,Piedmont Hospital,Atlanta,GA,Private,2,23314,Average
+966,Gwinnett Medical Center,Lawrenceville,GA,Government,3,23113,Average
+968,Piedmont Rockdale Hospital,Conyers,GA,Proprietary,2,25537,Average
+970,Tift Regional Medical Center,Tifton,GA,Government,3,21630,Average
+973,Crisp Regional Hospital,Cordele,GA,Government,3,23737,Average
+974,Colquitt Regional Medical Center,Moultrie,GA,Government,2,23697,Average
+975,"Medical Center, Navicent Health (the)",Macon,GA,Government,3,21879,Average
+979,Wellstar Atlanta Medical Center,Atlanta,GA,Proprietary,1,24983,Average
+981,South Georgia Medical Center,Valdosta,GA,Government,4,26436,Average
+983,Fairview Park Hospital,Dublin,GA,Proprietary,4,23640,Average
+984,Meadows Regional Medical Center,Vidalia,GA,Proprietary,3,23426,Average
+985,St Francis Hospital,Columbus,GA,Private,3,22844,Average
+990,Wellstar Cobb Hospital,Austell,GA,Unknown,3,22645,Average
+993,Perry Hospital,Perry,GA,Private,4,23459,Average
+994,Northside Hospital,Atlanta,GA,Private,4,22305,Average
+995,Coliseum Medical Centers,Macon,GA,Private,3,24265,Average
+996,Southern Regional Medical Center,Riverdale,GA,Private,1,23413,Average
+997,Redmond Regional Medical Center,Rome,GA,Proprietary,4,20578,Average
+998,Doctors Hospital,Augusta,GA,Proprietary,2,23505,Average
+999,Wellstar Douglas Hospital,Douglasville,GA,Private,3,20725,Average
+1003,Piedmont Henry Hospital,Stockbridge,GA,Government,1,23582,Average
+1004,Eastside Medical Center,Snellville,GA,Proprietary,2,22578,Average
+1006,Wellstar North Fulton Hospital,Roswell,GA,Proprietary,1,24540,Average
+1010,Piedmont Fayette Hospital,Fayetteville,GA,Private,2,24323,Average
+1011,Piedmont Mountainside Hospital Inc,Jasper,GA,Unknown,4,21132,Average
+1012,Dekalb Medical Center At Hillandale,Lithonia,GA,Government,1,24211,Average
+1013,"Piedmont Newnan Hospital, Inc",Newnan,GA,Private,2,22742,Average
+1014,Emory Johns Creek Hospital,Johns Creek,GA,Proprietary,4,22634,Average
+1050,The Queens Medical Center,Honolulu,HI,Private,5,20433,Average
+1051,Maui Memorial Medical Center,Wailuku,HI,Government,3,21048,Average
+1052,Wahiawa General Hospital,Wahiawa,HI,Private,3,21484,Average
+1053,Hilo Medical Center,Hilo,HI,Government,4,22375,Average
+1054,Adventist Health Castle,Kailua,HI,Church,4,21435,Average
+1055,Kuakini Medical Center,Honolulu,HI,Private,3,23313,Average
+1057,Wilcox Memorial Hospital,Lihue,HI,Government,4,22825,Average
+1059,Straub Clinic And Hospital,Honolulu,HI,Proprietary,5,21057,Average
+1060,Pali Momi Medical Center,Aiea,HI,Proprietary,5,23902,Average
+1073,St Luke's Magic Valley Rmc,Twin Falls,ID,Private,5,24566,Average
+1074,St Joseph Regional Medical Center,Lewiston,ID,Private,3,21853,Average
+1075,St Luke's Regional Medical Center,Boise,ID,Private,5,19680,Average
+1076,Saint Alphonsus Regional Medical Center,Boise,ID,Church,4,22465,Average
+1077,Saint Alphonsus Medical Center - Nampa,Nampa,ID,Church,4,21219,Average
+1078,West Valley Medical Center,Caldwell,ID,Proprietary,4,22910,Average
+1079,Eastern Idaho Regional Medical Center,Idaho Falls,ID,Proprietary,4,23483,Average
+1081,Portneuf Medical Center,Pocatello,ID,Proprietary,4,24908,Average
+1082,Kootenai Health,Coeur D'alene,ID,Government,4,23444,Average
+1116,Alton Memorial Hospital,Alton,IL,Private,1,23266,Average
+1117,Presence Saint Joseph Medical Center,Joliet,IL,Church,1,24546,Average
+1118,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,Private,4,24951,Average
+1119,Northshore University Healthsystem Evanston Hosp,Evanston,IL,Unknown,4,23366,Better
+1120,Herrin Hospital,Herrin,IL,Private,1,25333,Average
+1121,Katherine Shaw Bethea Hospital,Dixon,IL,Private,4,23849,Average
+1122,Proctor Hospital,Peoria,IL,Private,3,21585,Average
+1123,Blessing Hospital,Quincy,IL,Private,3,25711,Average
+1124,Mt Sinai Hospital Medical Center,Chicago,IL,Private,1,22769,Average
+1126,Copley Memorial Hospital,Aurora,IL,Private,4,24764,Average
+1127,Sherman Hospital,Elgin,IL,Private,5,25573,Average
+1128,St Anthonys Memorial Hospital,Effingham,IL,Church,3,22882,Average
+1130,Ssm Health St Mary's Hospital -centralia,Centralia,IL,Church,5,26595,Average
+1132,Cgh Medical Center,Sterling,IL,Government,4,25889,Average
+1133,Good Samaritan Regional Hlth Center,Mount Vernon,IL,Private,2,26012,Average
+1134,Advocate Trinity Hospital,Chicago,IL,Unknown,3,23382,Average
+1135,West Suburban Medical Center,Oak Park,IL,Unknown,4,25505,Average
+1136,Osf Saint Anthony's Health Center,Alton,IL,Church,3,23960,Average
+1137,St Johns Hospital,Springfield,IL,Church,3,23661,Average
+1138,Macneal  Hospital,Berwyn,IL,Proprietary,2,26174,Average
+1141,Palos Community Hospital,Palos Heights,IL,Private,4,24264,Average
+1142,Rush Oak Park Hospital,Oak Park,IL,Church,4,22747,Average
+1143,St Mary Medical Center,Galesburg,IL,Church,3,23444,Average
+1144,Adventist La Grange Memorial Hospital,La Grange,IL,Church,4,23367,Average
+1145,Saint Francis Medical Center,Peoria,IL,Church,2,21801,Average
+1148,Presence Saint Francis Hospital,Evanston,IL,Church,2,25236,Average
+1149,Louis A Weiss Memorial Hospital,Chicago,IL,Proprietary,1,24544,Average
+1151,Vista Medical Center East,Waukegan,IL,Unknown,2,23392,Average
+1152,The University Of Chicago Medical Center,Chicago,IL,Private,2,26819,Average
+1154,The Carle Foundation Hospital,Urbana,IL,Private,3,23687,Average
+1155,Osf Sacred Heart Medical Center,Danville,IL,Church,2,23437,Average
+1158,Morris Hospital & Healthcare Centers,Morris,IL,Private,3,25423,Average
+1160,Ottawa Regional Hospital & Healthcare Center,Ottawa,IL,Private,4,24045,Average
+1161,Osf Heart Of Mary Medical Center,Urbana,IL,Church,2,22836,Average
+1162,Swedish Covenant Hospital,Chicago,IL,Church,3,24285,Average
+1164,Northwestern Medicine Mchenry Hospital,Mchenry,IL,Unknown,5,25535,Average
+1165,Presence Resurrection Medical Center,Chicago,IL,Church,3,27242,Better
+1166,Metrosouth Medical Center,Blue Island,IL,Proprietary,2,24426,Average
+1167,Rush University Medical Center,Chicago,IL,Private,4,24162,Average
+1168,Pekin Memorial Hospital,Pekin,IL,Private,3,23510,Average
+1169,Adventist Hinsdale Hospital,Hinsdale,IL,Private,5,22963,Average
+1170,John H Stroger Jr Hospital,Chicago,IL,Government,1,22512,Average
+1171,Gateway Regional Medical Center,Granite City,IL,Proprietary,2,24256,Average
+1172,Advocate Bromenn Medical Center,Normal,IL,Church,4,21730,Average
+1173,Northwestern Lake Forest Hospital,Lake Forest,IL,Unknown,3,25092,Average
+1174,Holy Cross Hospital,Chicago,IL,Private,2,24184,Average
+1175,Decatur Memorial Hospital,Decatur,IL,Unknown,3,23262,Average
+1180,Memorial Medical Center,Springfield,IL,Private,2,23636,Average
+1181,University Of Illinois Hospital,Chicago,IL,Government,1,23050,Average
+1182,Presence St Marys Hospital,Kankakee,IL,Private,2,23017,Average
+1183,Mercy Hospital And Medical Center,Chicago,IL,Private,1,22765,Average
+1184,Fhn Memorial Hospital,Freeport,IL,Private,3,23207,Average
+1186,St Joseph Medical Center,Bloomington,IL,Church,4,22324,Average
+1187,Memorial Hospital Of Carbondale,Carbondale,IL,Private,1,24606,Average
+1188,St Marys Hospital,Decatur,IL,Private,3,20962,Average
+1189,Iroquois Memorial Hospital,Watseka,IL,Private,3,23969,Average
+1190,Franciscan Health Olympia & Chicago Heights,Olympia Fields,IL,Church,1,23788,Average
+1191,Presence Mercy Medical Center,Aurora,IL,Church,4,24320,Average
+1194,Little Company Of Mary Hospital,Evergreen Park,IL,Unknown,2,25481,Average
+1195,Presence Saints Mary And Elizabeth Medical Center,Chicago,IL,Church,5,22193,Average
+1196,South Shore Hospital,Chicago,IL,Private,1,24237,Average
+1197,Advocate Illinois Masonic Medical Center,Chicago,IL,Church,3,24136,Average
+1198,Heartland Regional Medical Center,Marion,IL,Proprietary,3,23873,Average
+1199,Memorial Hospital,Belleville,IL,Private,2,21806,Average
+1200,Riverside Medical Center,Kankakee,IL,Private,4,25712,Average
+1201,Hshs St Elizabeth's Hospital,O Fallon,IL,Church,3,26062,Average
+1202,Sarah Bush Lincoln Health Center,Mattoon,IL,Private,3,23528,Average
+1203,Ingalls Memorial Hospital,Harvey,IL,Private,3,21875,Average
+1205,Elmhurst Memorial Hospital,Elmhurst,IL,Proprietary,4,26785,Average
+1206,Advocate Condell Medical Center,Libertyville,IL,Private,4,23199,Average
+1207,Norwegian-american Hospital,Chicago,IL,Private,1,23598,Average
+1208,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,Church,2,25959,Average
+1209,Methodist Medical Center Of Illinois,Peoria,IL,Private,4,22118,Average
+1211,Delnor Community Hospital,Geneva,IL,Private,5,24361,Average
+1212,Silver Cross Hospital  And Medical Centers,New Lenox,IL,Private,4,25507,Average
+1213,Presence Saint Joseph Hospital - Elgin,Elgin,IL,Church,4,28173,Average
+1214,Advocate Lutheran General Hospital,Park Ridge,IL,Church,5,26455,Average
+1215,Presence Saint Joseph Hospital - Chicago,Chicago,IL,Church,4,24452,Average
+1216,Swedish American Hospital,Rockford,IL,Unknown,2,22899,Average
+1217,Edward Hospital,Naperville,IL,Private,5,26724,Average
+1218,Saint Anthony Medical Center,Rockford,IL,Church,2,25166,Average
+1219,Illinois Valley Community Hospital,Peru,IL,Private,3,23626,Average
+1220,Mercyhealth Hospital Rockton Avenue,Rockford,IL,Private,3,25283,Average
+1221,Westlake Community Hospital,Melrose Park,IL,Unknown,3,23696,Average
+1222,Central Dupage Hospital,Winfield,IL,Private,5,25779,Average
+1223,Advocate South Suburban Hospital,Hazel Crest,IL,Church,3,25383,Average
+1224,Community First Medical Center,Chicago,IL,Private,1,23768,Average
+1225,Northwest Community Hospital 1,Arlington Heights,IL,Private,3,24446,Average
+1226,Alexian Brothers Medical Center 1,Elk Grove Village,IL,Church,4,26573,Average
+1227,Genesis Health System,Silvis,IL,Government,2,25050,Average
+1228,Loyola University Medical Center,Maywood,IL,Private,2,26713,Average
+1229,Trinity Rock Island,Rock Island,IL,Unknown,3,22057,Average
+1230,Northwestern Memorial Hospital,Chicago,IL,Private,3,22066,Better
+1231,Kishwaukee Community Hospital,Dekalb,IL,Private,3,23849,Average
+1232,Advocate Good Samaritan Hospital,Downers Grove,IL,Church,4,26090,Average
+1233,Anderson Hospital,Maryville,IL,Private,3,26488,Average
+1234,St Alexius Medical Center,Hoffman Estates,IL,Church,4,25798,Average
+1235,Advocate Good Shepherd Hospital,Barrington,IL,Church,4,25721,Average
+1236,Adventist Glenoaks,Glendale Heights,IL,Unknown,2,25752,Average
+1239,Adventist Bolingbrook Hospital,Bolingbrook,IL,Private,2,23003,Average
+1240,Metro-east Services Inc,Shiloh,IL,Private,3,23914,Average
+1296,Methodist Hospitals Inc,Gary,IN,Private,3,26183,Average
+1297,Franciscan Health Hammond,Hammond,IN,Church,3,26118,Average
+1298,Hendricks Regional Health,Danville,IN,Government,4,22994,Average
+1299,La Porte Hospital,La Porte,IN,Private,3,24298,Average
+1300,Community Howard Regional Health Inc,Kokomo,IN,Private,4,25682,Average
+1301,St Catherine Hospital Inc,East Chicago,IN,Private,4,27185,Average
+1302,Clark Memorial Hospital,Jeffersonville,IN,Unknown,2,24416,Average
+1303,St Vincent Kokomo,Kokomo,IN,Church,4,24111,Average
+1304,Marion General Hospital,Marion,IN,Private,3,22090,Average
+1305,Saint Joseph Regional Medical Center,Mishawaka,IN,Private,3,21996,Average
+1306,Franciscan Health Michigan City,Michigan City,IN,Church,4,22747,Average
+1307,Lutheran Hospital Of Indiana,Fort Wayne,IN,Proprietary,2,22490,Average
+1308,Elkhart General Hospital,Elkhart,IN,Government,4,22946,Average
+1309,Parkview Regional Medical Center,Fort Wayne,IN,Private,4,20628,Average
+1311,Union Hospital Inc,Terre Haute,IN,Private,3,22328,Average
+1312,Eskenazi Health,Indianapolis,IN,Government,5,18996,Average
+1313,Goshen General Hospital,Goshen,IN,Private,4,25331,Average
+1315,St Mary Medical Center Inc,Hobart,IN,Private,5,25233,Average
+1316,Porter Regional Hospital,Valparaiso,IN,Proprietary,4,25466,Average
+1317,Hancock Regional Hospital,Greenfield,IN,Government,3,22783,Average
+1318,Good Samaritan Hospital,Vincennes,IN,Unknown,4,24824,Average
+1319,Baptist Health Floyd,New Albany,IN,Private,3,24155,Average
+1321,Terre Haute Regional Hospital,Terre Haute,IN,Proprietary,2,23336,Average
+1322,St Joseph Hospital,Fort Wayne,IN,Proprietary,2,23825,Average
+1323,Reid Health,Richmond,IN,Private,5,23641,Average
+1324,Iu Health Bloomington Hospital,Bloomington,IN,Private,4,23683,Average
+1325,Indiana University Health,Indianapolis,IN,Private,4,23770,Average
+1327,Memorial Hospital Of South Bend,South Bend,IN,Private,4,21508,Average
+1328,Riverview Health,Noblesville,IN,Government,3,21510,Average
+1329,Daviess Community Hospital,Washington,IN,Unknown,4,24804,Average
+1334,Community Hospital East,Indianapolis,IN,Private,4,23683,Average
+1336,Saint Joseph Regional Medical Center - Plymouth,Plymouth,IN,Church,4,23886,Average
+1337,Deaconess Hospital Inc,Evansville,IN,Private,3,22796,Average
+1338,St Vincent Hospital & Health Services,Indianapolis,IN,Church,3,22127,Average
+1339,Highpoint Health,Lawrenceburg,IN,Government,3,22497,Average
+1340,St Vincent Anderson Regional Hospital Inc,Anderson,IN,Private,3,22385,Average
+1341,Indiana University Health Ball Memorial Hospital,Muncie,IN,Private,3,22979,Average
+1342,Franciscan Health Dyer,Dyer,IN,Church,3,26442,Average
+1344,Major Hospital,Shelbyville,IN,Government,3,23055,Average
+1345,St Vincent Evansville,Evansville,IN,Private,3,23382,Average
+1348,Witham Health Services,Lebanon,IN,Government,4,24050,Average
+1349,Franciscan Health Lafayette,Lafayette,IN,Church,4,21757,Average
+1350,Columbus Regional Hospital,Columbus,IN,Government,4,23553,Average
+1351,Community Hospital Of Anderson And Madison County,Anderson,IN,Private,3,23969,Average
+1352,Memorial Hospital And Health Care Center,Jasper,IN,Church,5,24470,Average
+1353,Community Hospital,Munster,IN,Private,4,28240,Average
+1354,Franciscan Health Crown Point,Crown Point,IN,Church,4,24437,Average
+1355,Community Hospital South,Indianapolis,IN,Private,4,22050,Average
+1356,Kosciusko Community Hospital,Warsaw,IN,Proprietary,2,24677,Average
+1360,St Vincent Heart Center Of Indiana Llc,Indianapolis,IN,Proprietary,5,22060,Average
+1362,Iu Health West Hospital,Avon,IN,Proprietary,5,24073,Average
+1364,Indiana University Health North Hospital,Carmel,IN,Private,5,25134,Average
+1365,Franciscan Health Indianapolis,Indianapolis,IN,Church,2,23764,Average
+1366,Franciscan Health Munster,Munster,IN,Private,3,24202,Average
+1370,Community Hospital North,Indianapolis,IN,Private,3,24445,Average
+1372,Indiana University Health Arnett Hospital,Lafayette,IN,Private,3,22768,Average
+1373,The Heart Hospital At Deaconess Gateway Llc,Newburgh,IN,Proprietary,4,25296,Average
+1374,Kentuckiana Medical Center Llc,Clarksville,IN,Proprietary,2,27561,Average
+1398,Dukes Memorial Hospital,Peru,IN,Private,2,23720,Average
+1415,Unitypoint Health-marshalltown,Marshalltown,IA,Private,3,24551,Average
+1419,Trinity Regional Medical Center,Fort Dodge,IA,Private,3,25226,Average
+1420,Iowa Lutheran Hospital,Des Moines,IA,Private,3,20766,Average
+1421,Chi Health Mercy Council Bluffs,Council Bluffs,IA,Private,4,24246,Average
+1422,Mercy Hospital,Iowa City,IA,Church,5,21218,Average
+1423,Mary Greeley Medical Center,Ames,IA,Government,4,22543,Average
+1425,Genesis Medical Center-davenport,Davenport,IA,Private,2,24514,Average
+1427,St Lukes Hospital,Cedar Rapids,IA,Private,5,25125,Average
+1428,Methodist Jennie Edmundson,Council Bluffs,IA,Private,4,24980,Average
+1429,Great River Medical Center,West Burlington,IA,Private,2,21723,Average
+1430,University Of Iowa Hospital & Clinics,Iowa City,IA,Government,2,23446,Average
+1431,Mercy Medical Center-north Iowa,Mason City,IA,Private,4,25886,Average
+1432,Covenant Medical Center,Waterloo,IA,Church,2,25565,Average
+1433,Mercy Medical Center-dubuque,Dubuque,IA,Church,4,23372,Average
+1434,Mercy Medical Center - Cedar Rapids,Cedar Rapids,IA,Church,5,20558,Average
+1435,Mercy Medical Center-clinton,Clinton,IA,Private,4,23292,Average
+1436,Iowa Methodist Medical Center,Des Moines,IA,Private,3,21269,Average
+1437,Mercy Medical Center-des Moines,Des Moines,IA,Private,2,22789,Average
+1438,Ottumwa Regional Health Center,Ottumwa,IA,Proprietary,4,25110,Average
+1440,Unity Point Health Trinity,Bettendorf,IA,Private,3,24109,Average
+1441,Allen Hospital,Waterloo,IA,Private,3,22350,Average
+1443,Finley Hospital,Dubuque,IA,Private,3,23863,Average
+1446,St Lukes Regional Medical Center,Sioux City,IA,Private,2,22256,Average
+1448,Mercy Medical Center-sioux City,Sioux City,IA,Private,1,22122,Average
+1510,Van Diest Medical Center,Webster City,IA,Government,3,22480,Average
+1531,Via Christi Hospital Pittsburg Inc,Pittsburg,KS,Private,2,25301,Average
+1533,Salina Regional Health Center,Salina,KS,Private,3,23780,Average
+1534,Hays Medical Center,Hays,KS,Unknown,3,25082,Average
+1536,University Of Kansas Hlth System St Francis Campus,Topeka,KS,Church,4,25101,Average
+1538,Hutchinson Regional Medical Center Inc,Hutchinson,KS,Proprietary,3,24527,Average
+1539,St Catherine Hospital,Garden City,KS,Private,2,25326,Average
+1542,University Of Kansas Hospital,Kansas City,KS,Government,5,24496,Average
+1543,Olathe Medical Center,Olathe,KS,Private,1,22743,Average
+1548,Stormont Vail Hospital,Topeka,KS,Private,4,23385,Average
+1549,Newton Medical Center,Newton,KS,Private,5,23732,Average
+1550,Shawnee Mission Medical Center,Shawnee Mission,KS,Church,4,23605,Average
+1555,"Via Christi Hospitals Wichita, Inc",Wichita,KS,Church,2,25361,Average
+1556,Wesley Medical Center,Wichita,KS,Proprietary,4,22680,Average
+1558,Lawrence Memorial Hospital,Lawrence,KS,Government,4,21925,Average
+1559,"Via Christi Hospital Manhattan, Inc",Manhattan,KS,Church,2,22704,Average
+1561,Providence Medical Center,Kansas City,KS,Church,5,22630,Average
+1564,Western Plains Medical Complex,Dodge City,KS,Proprietary,2,21063,Average
+1565,Overland Park Reg Med Ctr,Overland Park,KS,Proprietary,2,24080,Average
+1566,Menorah Medical Center,Overland Park,KS,Unknown,3,22477,Average
+1568,Saint Luke's South Hospital,Overland Park,KS,Unknown,5,22809,Average
+1569,Kansas Heart Hospital,Wichita,KS,Proprietary,5,25671,Average
+1576,Kansas Medical Center Llc,Andover,KS,Proprietary,4,24715,Average
+1579,"Via Christi Hospital Wichita St Teresa, Inc",Wichita,KS,Church,4,24620,Average
+1664,Newman Regional Health,Emporia,KS,Government,3,25074,Average
+1667,St Elizabeth Ft Thomas,Fort Thomas,KY,Private,3,22276,Average
+1668,Whitesburg Arh Hospital,Whitesburg,KY,Unknown,3,23709,Average
+1670,Highlands Regional Medical Center,Prestonsburg,KY,Proprietary,1,23145,Average
+1671,King's Daughters' Medical Center,Ashland,KY,Private,2,24641,Average
+1672,Saint Joseph Hospital,Lexington,KY,Church,2,23985,Average
+1673,Saint Joseph London,London,KY,Private,4,22789,Average
+1674,Hardin Memorial Hospital,Elizabethtown,KY,Government,3,24779,Average
+1675,The Medical Center At Bowling Green,Bowling Green,KY,Private,1,23159,Average
+1677,T J Samson Community Hospital,Glasgow,KY,Unknown,2,22347,Average
+1678,St Claire Regional Medical Center,Morehead,KY,Government,2,24968,Average
+1679,Meadowview Regional Medical Center,Maysville,KY,Proprietary,3,23149,Average
+1680,Middlesboro Appalachian Regional Healthcare Hospit,Middlesboro,KY,Private,3,24129,Average
+1683,Flaget Memorial Hospital,Bardstown,KY,Private,3,24143,Average
+1684,Murray-calloway County Hospital,Murray,KY,Unknown,2,24027,Average
+1685,Hazard Arh Regional Medical Center,Hazard,KY,Private,2,23250,Average
+1686,St Elizabeth Medical Center North,Edgewood,KY,Church,4,22768,Average
+1687,Our Lady Of Bellefonte Hospital,Ashland,KY,Private,2,24636,Average
+1688,Owensboro Health Regional Hospital,Owensboro,KY,Private,3,25319,Average
+1689,Jewish Hospital & St Mary's Healthcare,Louisville,KY,Private,2,23141,Average
+1691,Pikeville Medical Center,Pikeville,KY,Private,1,22082,Average
+1692,St Elizabeth Florence,Florence,KY,Private,3,25287,Average
+1694,Ephraim Mcdowell Regional Medical Center,Danville,KY,Private,3,25566,Average
+1695,Baptist Health Richmond,Richmond,KY,Private,4,23823,Average
+1696,Harlan Arh Hospital,Harlan,KY,Unknown,2,23570,Average
+1697,Jennie Stuart Medical Center,Hopkinsville,KY,Private,2,23319,Average
+1699,Methodist Hospital,Henderson,KY,Church,2,22612,Average
+1702,University Of Kentucky Hospital,Lexington,KY,Government,1,23268,Average
+1705,Paul B Hall Regional Medical Center,Paintsville,KY,Proprietary,3,21919,Average
+1706,Harrison Memorial Hospital,Cynthiana,KY,Unknown,2,25280,Average
+1707,Baptist Health Corbin,Corbin,KY,Private,2,22845,Average
+1708,Taylor Regional Hospital,Campbellsville,KY,Government,4,25161,Average
+1709,Norton Hospital / Norton Healthcare Pavilion / Nor,Louisville,KY,Private,2,22905,Average
+1710,Clark Regional Medical Center,Winchester,KY,Proprietary,3,22815,Average
+1711,Baptist Health Madisonville,Madisonville,KY,Private,2,23738,Average
+1714,Lourdes Hospital,Paducah,KY,Church,3,23755,Average
+1715,Baptist Health Lexington,Lexington,KY,Unknown,4,24763,Average
+1716,Baptist Health Paducah,Paducah,KY,Church,3,22200,Worse
+1720,Jackson Purchase Medical Center,Mayfield,KY,Government,4,24250,Average
+1721,Tristar Greenview Regional Hospital,Bowling Green,KY,Proprietary,3,23128,Average
+1722,Frankfort Regional Medical Center,Frankfort,KY,Proprietary,2,22799,Average
+1724,Baptist Health Louisville,Louisville,KY,Private,2,22460,Average
+1725,Lake Cumberland Regional Hospital,Somerset,KY,Proprietary,1,22727,Average
+1728,University Of Louisville Hospital,Louisville,KY,Private,1,23648,Average
+1729,Saint Joseph East,Lexington,KY,Private,4,23643,Average
+1758,Lafayette General Medical Center,Lafayette,LA,Private,3,25744,Worse
+1759,Thibodaux Regional Medical Center,Thibodaux,LA,Government,4,22868,Average
+1760,University Medical Center New Orleans,New Orleans,LA,Private,2,25328,Average
+1762,Natchitoches Regional Medical Center,Natchitoches,LA,Government,4,26035,Average
+1763,Terrebonne General Medical Center,Houma,LA,Government,2,22518,Average
+1765,West Calcasieu Cameron Hospital,Sulphur,LA,Government,3,23036,Average
+1766,Teche Regional Medical Center,Morgan City,LA,Proprietary,2,22524,Average
+1767,"North Oaks Medical Center, L L C",Hammond,LA,Government,2,24286,Average
+1768,Opelousas General Health System,Opelousas,LA,Government,3,25436,Average
+1769,Christus St Frances Cabrini Hospital,Alexandria,LA,Private,2,24491,Average
+1770,Lane Regional Medical Center,Zachary,LA,Government,3,24524,Average
+1772,Rapides Regional Medical Center,Alexandria,LA,Proprietary,2,23806,Average
+1773,Christus St Patrick Hospital,Lake Charles,LA,Private,2,23977,Average
+1775,Ochsner Medical Center,New Orleans,LA,Private,2,21387,Average
+1776,West Jefferson Medical Center,Marrero,LA,Private,3,20987,Average
+1777,Slidell Memorial Hospital,Slidell,LA,Government,3,22290,Average
+1778,Christus Health Shreveport - Bossier,Shreveport,LA,Church,3,21575,Average
+1780,St Tammany Parish Hospital,Covington,LA,Government,4,25700,Average
+1781,Touro Infirmary,New Orleans,LA,Private,3,22006,Average
+1782,Beauregard Memorial Hospital,Deridder,LA,Government,3,24708,Average
+1784,Iberia Medical Center,New Iberia,LA,Government,2,24667,Average
+1785,Lake Charles Memorial Hospital,Lake Charles,LA,Private,2,23526,Average
+1786,Our Lady Of The Lake Regional Medical Center,Baton Rouge,LA,Church,2,22790,Average
+1787,Baton Rouge General Medical Center,Baton Rouge,LA,Private,2,22558,Average
+1790,Northern Louisiana Medical Center,Ruston,LA,Proprietary,2,25418,Average
+1793,Ochsner Lsu Health Shreveport,Shreveport,LA,Private,1,23534,Average
+1795,"Our Lady Of Lourdes Regional Medical Center, Inc",Lafayette,LA,Private,4,26883,Average
+1797,"Willis Knighton Medical Center, Inc",Shreveport,LA,Private,3,23829,Average
+1801,St Francis Medical Center,Monroe,LA,Private,3,23884,Average
+1805,Minden Medical Center,Minden,LA,Proprietary,3,24476,Average
+1807,East Jefferson General Hospital,Metairie,LA,Government,4,22701,Average
+1809,Glenwood Regional Medical Center,West Monroe,LA,Proprietary,3,23073,Average
+1811,Mercy Regional Medical Center,Ville Platte,LA,Proprietary,5,24726,Average
+1812,Tulane Medical Center,New Orleans,LA,Proprietary,1,22326,Average
+1817,Ochsner Medical Center - Baton Rouge,Baton Rouge,LA,Private,3,24653,Average
+1818,"Ochsner Medical Center - Northshore, L L C",Slidell,LA,Private,3,22856,Average
+1819,Women's And Children's Hospital,Lafayette,LA,Proprietary,3,25582,Average
+1829,Heart Hospital Of Lafayette,Lafayette,LA,Proprietary,4,23960,Average
+1834,Ochsner Medical Center-kenner,Kenner,LA,Private,3,23431,Average
+1874,St Joseph Hospital,Bangor,ME,Church,3,21901,Average
+1875,Mercy Hospital,Portland,ME,Church,5,23820,Average
+1876,Maine Medical Center,Portland,ME,Private,5,24009,Average
+1877,Aroostook Medical Center,Presque Isle,ME,Private,2,19627,Average
+1878,Southern Maine Health Care,Biddeford,ME,Private,2,23902,Average
+1879,York Hospital,York,ME,Private,4,26201,Average
+1880,Mid Coast Hospital,Brunswick,ME,Private,4,23168,Average
+1881,Central Maine Medical Center,Lewiston,ME,Private,2,23572,Average
+1882,Cary Medical Center,Caribou,ME,Government,3,25632,Average
+1883,Eastern Maine Medical Center,Bangor,ME,Private,2,20632,Average
+1884,St Mary's Regional Medical Center,Lewiston,ME,Private,3,20194,Average
+1885,Franklin Memorial Hospital,Farmington,ME,Private,3,21724,Average
+1886,Mainegeneral Medical Center,Augusta,ME,Unknown,4,22256,Average
+1887,Northern Light Inland Hospital,Waterville,ME,Proprietary,4,24172,Average
+1888,Northern Light Maine Coast Hospital,Ellsworth,ME,Unknown,4,21510,Average
+1889,Northern Maine Medical Center,Fort Kent,ME,Private,5,22166,Average
+1890,Penobscot Bay Medical Center,Rockport,ME,Private,3,22325,Average
+1894,Penobscot Valley Hospital,Lincoln,ME,Private,3,21686,Average
+1896,Calais Regional Hospital,Calais,ME,Private,2,22982,Average
+1898,Millinocket Regional Hospital,Millinocket,ME,Private,4,24200,Average
+1900,Mayo Regional Hospital,Dover Foxcroft,ME,Government,3,24512,Average
+1902,Down East Community Hospital,Machias,ME,Private,4,24230,Average
+1903,Waldo County General Hospital,Belfast,ME,Private,3,23125,Average
+1904,Sebasticook Valley Health,Pittsfield,ME,Private,4,22561,Average
+1905,Redington Fairview General Hospital,Skowhegan,ME,Proprietary,4,23254,Average
+1907,Meritus Medical Center,Hagerstown,MD,Private,3,23554,Average
+1908,University Of Maryland Medical Center,Baltimore,MD,Private,1,23307,Average
+1909,University Of Md Prince George's Hospital Ctr,Cheverly,MD,Private,1,23521,Average
+1910,Holy Cross Hospital,Silver Spring,MD,Church,3,22964,Average
+1911,Frederick Memorial Hospital,Frederick,MD,Private,3,24250,Average
+1912,University Of Maryland Harford Memorial Hospital,Havre De Grace,MD,Private,1,23788,Average
+1913,Mercy Medical Center Inc,Baltimore,MD,Church,3,25111,Average
+1914,"Johns Hopkins Hospital, The",Baltimore,MD,Private,3,24313,Average
+1915,Saint Agnes Hospital,Baltimore,MD,Church,3,21671,Average
+1916,Sinai Hospital Of Baltimore,Baltimore,MD,Private,4,23837,Average
+1918,Medstar Franklin Square Medical Center,Baltimore,MD,Private,2,25525,Average
+1919,Adventist Healthcare Washington Adventist Hospital,Takoma Park,MD,Private,3,23829,Average
+1920,Garrett County Memorial Hospital,Oakland,MD,Private,4,24029,Average
+1921,Medstar Montgomery Medical Center,Olney,MD,Private,3,23458,Average
+1922,Peninsula Regional Medical Center,Salisbury,MD,Private,5,20092,Average
+1923,Suburban Hospital,Bethesda,MD,Private,4,21367,Average
+1924,Anne Arundel Medical Center,Annapolis,MD,Private,5,23308,Average
+1925,Medstar Union Memorial Hospital,Baltimore,MD,Unknown,5,24477,Average
+1926,Western Maryland Regional Medical Center,Cumberland,MD,Private,1,23325,Average
+1927,Medstar Saint Mary's Hospital,Leonardtown,MD,Private,3,21516,Average
+1928,Johns Hopkins Bayview Medical Center,Baltimore,MD,Private,3,22649,Average
+1929,University Of Md Shore Medical Ctr At Chestertown,Chestertown,MD,Private,3,22120,Average
+1930,Union Hospital Of Cecil County,Elkton,MD,Private,2,26073,Average
+1931,Carroll Hospital Center,Westminster,MD,Private,2,24827,Average
+1932,Medstar Harbor Hospital,Baltimore,MD,Private,3,24918,Average
+1933,University Of Md Charles Regional  Medical Center,La Plata,MD,Private,3,23807,Average
+1934,University Of Md Shore Medical Center At Easton,Easton,MD,Private,3,21246,Average
+1936,Calverthealth Medical Center,Prince Frederick,MD,Unknown,4,25335,Average
+1937,Northwest Hospital Center,Randallstown,MD,Private,2,24792,Average
+1938,University Of Md Balto Washington  Medical Center,Glen Burnie,MD,Unknown,2,23534,Average
+1939,Greater Baltimore Medical Center,Baltimore,MD,Private,4,24110,Average
+1941,Howard County General Hospital,Columbia,MD,Private,3,25190,Average
+1942,University Of M D Upper Chesapeake Medical Center,Bel Air,MD,Unknown,4,23509,Average
+1943,Doctors'  Community Hospital,Lanham,MD,Proprietary,4,23334,Average
+1945,Medstar Good Samaritan Hospital,Baltimore,MD,Unknown,5,22900,Average
+1946,Adventist Healthcare Shady Grove Medical Center,Rockville,MD,Private,4,23083,Average
+1949,Atlantic General Hospital,Berlin,MD,Private,4,24157,Average
+1950,Medstar Southern Maryland Hospital Center,Clinton,MD,Private,1,23783,Average
+1951,University Of Maryland St Joseph Medical Center,Towson,MD,Private,5,23429,Better
+1953,Holy Cross Germantown Hospital,Germantown,MD,Private,3,24337,Average
+1956,Health Alliance - Clinton Hospital,Leominster,MA,Unknown,4,23108,Average
+1957,Mount Auburn Hospital,Cambridge,MA,Private,4,26793,Average
+1958,Sturdy Memorial Hospital,Attleboro,MA,Unknown,2,24063,Average
+1959,Lawrence General Hospital,Lawrence,MA,Private,2,26059,Average
+1960,Cambridge Health Alliance,Cambridge,MA,Government,3,22995,Average
+1961,Cape Cod Hospital,Hyannis,MA,Private,5,24552,Better
+1962,"Cooley Dickinson Hospital Inc,the",Northampton,MA,Private,3,22430,Average
+1963,Baystate Franklin Medical Center,Greenfield,MA,Private,4,25374,Average
+1964,Carney Hospital,Boston,MA,Proprietary,2,23168,Average
+1965,Harrington Memorial Hospital-1,Southbridge,MA,Private,3,23903,Average
+1966,Saint Anne's Hospital,Fall River,MA,Proprietary,3,22729,Average
+1967,Holyoke Medical Center,Holyoke,MA,Private,3,24149,Average
+1968,Anna Jaques Hospital,Newburyport,MA,Private,4,26716,Average
+1969,Baystate Wing Hospital And Medical Centers,Palmer,MA,Unknown,3,21610,Average
+1970,Boston Medical Center Corporation-,Boston,MA,Private,2,23960,Average
+1971,Beverly Hospital Corporation,Beverly,MA,Private,3,24510,Average
+1972,North Shore Medical Center -,Salem,MA,Private,4,24468,Average
+1973,St Elizabeth's Medical Center,Brighton,MA,Proprietary,2,27580,Average
+1974,Berkshire Medical Center Inc - 1,Pittsfield,MA,Unknown,3,23960,Average
+1975,Marlborough Hospital,Marlborough,MA,Private,2,21736,Average
+1976,Signature Healthcare Brockton Hospital,Brockton,MA,Unknown,4,24315,Average
+1977,Beth Israel Deaconess Hospital - Plymouth,Plymouth,MA,Private,4,24665,Average
+1979,Lowell General Hospital,Lowell,MA,Private,2,24361,Average
+1981,Mercy Medical Ctr,Springfield,MA,Private,2,23367,Average
+1982,Melrosewakefield Healthcare,Melrose,MA,Private,2,24711,Average
+1983,Massachusetts General Hospital,Boston,MA,Private,5,24378,Better
+1984,Morton Hospital,Taunton,MA,Proprietary,1,26054,Average
+1985,"Southcoast Hospital Group, Inc",Fall River,MA,Private,2,22290,Better
+1987,Baystate Medical Center,Springfield,MA,Private,3,22437,Average
+1988,Holy Family Hospital,Methuen,MA,Proprietary,2,25013,Average
+1989,Beth Israel Deaconess Hospital - Needham,Needham,MA,Private,4,22929,Average
+1990,Emerson Hospital -,W Concord,MA,Private,3,25755,Average
+1991,Beth Israel Deaconess Medical Center,Boston,MA,Private,2,24363,Average
+1993,Milford Regional Medical Center,Milford,MA,Unknown,3,25412,Average
+1994,Heywood Hospital -,Gardner,MA,Private,3,23522,Average
+1996,South Shore Hospital,South Weymouth,MA,Private,3,24515,Average
+1997,Newton-wellesley Hospital,Newton,MA,Unknown,5,23524,Average
+1998,Winchester Hospital,Winchester,MA,Private,5,25743,Average
+1999,Beth Israel Deaconess Hospital-milton Inc,Milton,MA,Government,2,25742,Average
+2000,Brigham And Women's Hospital,Boston,MA,Private,4,24654,Better
+2001,Good Samaritan Medical Center,Brockton,MA,Proprietary,1,24902,Average
+2002,Tufts Medical Center,Boston,MA,Private,3,24863,Average
+2003,Brigham And Women's Faulkner Hospital,Boston,MA,Private,5,23919,Average
+2004,Norwood Hospital,Norwood,MA,Proprietary,1,24654,Average
+2005,Falmouth Hospital,Falmouth,MA,Private,4,22894,Better
+2006,Umass Memorial Medical Center Inc,Worcester,MA,Private,1,26191,Average
+2007,"Lahey Hospital & Medical Center, Burlington",Burlington,MA,Private,4,23983,Average
+2008,Metrowest Medical Center,Framingham,MA,Private,3,26028,Average
+2009,St Vincent Hospital,Worcester,MA,Proprietary,2,25687,Average
+2018,St Mary Mercy Hospital,Livonia,MI,Private,3,24009,Average
+2020,Promedica Bixby Hospital,Adrian,MI,Private,4,22655,Average
+2023,Bronson Methodist Hospital,Kalamazoo,MI,Private,4,21749,Average
+2024,Providence - Providence Park Hospital,Southfield,MI,Church,4,19872,Average
+2025,Beaumont Hospital - Dearborn,Dearborn,MI,Private,3,24471,Better
+2026,"Lakeland Hospital, St Joseph",St Joseph,MI,Private,4,22062,Average
+2028,Sinai-grace Hospital,Detroit,MI,Proprietary,1,22522,Average
+2029,St Joseph Mercy Oakland,Pontiac,MI,Private,3,22943,Better
+2030,Midmichigan Medical Center-gratiot,Alma,MI,Private,3,25031,Average
+2031,Lake Huron Medical Center,Port Huron,MI,Church,4,24018,Average
+2033,Midmichigan Medical Center - Alpena,Alpena,MI,Proprietary,3,23297,Average
+2034,Hillsdale Hospital,Hillsdale,MI,Private,3,24322,Average
+2035,Spectrum Health - Butterworth Campus,Grand Rapids,MI,Private,3,23051,Average
+2037,Mclaren Bay Region,Bay City,MI,Private,3,24036,Average
+2038,University Of Michigan Health System,Ann Arbor,MI,Private,5,23084,Better
+2039,Henry Ford Macomb Hospital,Clinton Township,MI,Proprietary,4,24190,Better
+2040,Henry Ford Hospital,Detroit,MI,Private,2,23696,Average
+2041,Up Health System - Marquette,Marquette,MI,Government,2,21801,Average
+2042,Dickinson County Memorial Hospital,Iron Mountain,MI,Government,4,22411,Average
+2043,Munson Healthcare Grayling Hospital,Grayling,MI,Church,3,22561,Average
+2044,Saint Mary's Health Care,Grand Rapids,MI,Church,3,24070,Average
+2045,Mercy Health Muskegon,Muskegon,MI,Private,5,25534,Average
+2047,Covenant Medical Center,Saginaw,MI,Private,2,23580,Average
+2049,Holland Community Hospital,Holland,MI,Private,5,24111,Average
+2050,Bronson Battle Creek Hospital,Battle Creek,MI,Proprietary,4,23532,Average
+2051,St Mary's Of Michigan Medical Center,Saginaw,MI,Church,2,22178,Average
+2053,Mclaren Central Michigan,Mount Pleasant,MI,Private,3,23597,Average
+2054,Munson Healthcare Cadillac Hospital,Cadillac,MI,Church,5,23170,Average
+2056,"Beaumont Hospital, Grosse Pointe",Grosse Pointe,MI,Private,4,24600,Average
+2057,Henry Ford Allegiance Health,Jackson,MI,Unknown,4,21166,Average
+2059,Midmichigan Medical Center - West Branch,West Branch,MI,Government,4,24917,Average
+2061,Munson Medical Center,Traverse City,MI,Unknown,4,20947,Better
+2062,Promedica Monroe Regional Hospital,Monroe,MI,Unknown,3,24531,Average
+2064,Harper University Hospital,Detroit,MI,Proprietary,2,25785,Average
+2065,Mclaren Northern Michigan,Petoskey,MI,Unknown,5,21856,Average
+2066,Up Health System Portage,Hancock,MI,Unknown,4,22122,Average
+2068,Borgess Medical Center,Kalamazoo,MI,Unknown,3,22894,Average
+2069,Mclaren Thumb Region,Bad Axe,MI,Private,4,21165,Average
+2070,Memorial Healthcare,Owosso,MI,Unknown,3,22752,Average
+2071,"Beaumont Hospital, Royal Oak",Royal Oak,MI,Private,3,23734,Better
+2072,Hurley Medical Center,Flint,MI,Unknown,1,24763,Average
+2074,Mclaren Flint,Flint,MI,Private,1,25967,Average
+2075,Beaumont Hospital - Wayne,Wayne,MI,Private,2,24245,Average
+2077,Henry Ford Wyandotte Hospital,Wyandotte,MI,Private,2,24823,Average
+2078,Beaumont Hospital - Farmington Hills,Farmington Hills,MI,Private,3,23137,Average
+2079,St Joseph Mercy Hospital,Ann Arbor,MI,Church,3,23532,Better
+2080,Ascension St John Hospital,Detroit,MI,Church,2,23997,Average
+2081,Mclaren Greater Lansing,Lansing,MI,Private,3,23274,Average
+2083,Beaumont Hospital - Trenton,Trenton,MI,Private,5,24775,Average
+2085,Mclaren Lapeer Region,Lapeer,MI,Private,3,26383,Average
+2086,St John Macomb-oakland Hospital-macomb Center,Warren,MI,Private,2,23382,Average
+2087,Genesys Regional Medical Center - Health Park,Grand Blanc,MI,Church,2,22096,Average
+2088,Mclaren Oakland,Pontiac,MI,Private,3,22092,Average
+2090,Mclaren Port Huron,Port Huron,MI,Private,3,20124,Average
+2092,Midmichigan Medical Center-midland,Midland,MI,Unknown,3,24450,Average
+2093,Mclaren Macomb,Mount Clemens,MI,Private,3,21245,Average
+2094,Edward W Sparrow Hospital,Lansing,MI,Unknown,2,22886,Average
+2095,Metro Health Hospital,Wyoming,MI,Private,4,21348,Average
+2096,Chippewa County War Memorial Hospital,Sault Sainte Marie,MI,Private,3,23161,Average
+2098,Garden City Hospital,Garden City,MI,Private,2,27067,Average
+2099,Ascension Crittenton Hospital,Rochester,MI,Private,3,23634,Average
+2102,"Beaumont Hospital, Troy",Troy,MI,Private,5,22684,Average
+2103,Beaumont Hospital - Taylor,Taylor,MI,Private,4,24369,Average
+2104,Detroit Receiving Hospital & Univ Health Center,Detroit,MI,Proprietary,2,24667,Average
+2106,Huron Valley-sinai Hospital,Commerce Township,MI,Proprietary,3,25116,Average
+2110,Henry Ford West Bloomfield Hospital,West Bloomfield,MI,Private,5,25038,Average
+2111,Munson Healthcare Manistee Hospital,Manistee,MI,Unknown,4,22619,Average
+2146,St Francis Hospital,Escanaba,MI,Church,4,22638,Average
+2149,North Memorial Medical Center,Robbinsdale,MN,Private,2,22725,Average
+2150,Essentia Health St Mary's Medical Center,Duluth,MN,Private,4,24574,Average
+2151,Hennepin County Medical Center 1,Minneapolis,MN,Government,1,24404,Average
+2153,Mayo Clinic Hospital Rochester,Rochester,MN,Church,5,23482,Average
+2160,St Cloud Hospital,Saint Cloud,MN,Private,5,24751,Average
+2161,United Hospital,Saint Paul,MN,Private,4,25436,Average
+2163,Mayo Clinic Health System - Albert Lea And Austin,Albert Lea,MN,Private,5,23388,Average
+2165,St Lukes Hospital,Duluth,MN,Private,3,25466,Average
+2168,Park Nicollet Methodist Hospital,Saint Louis Park,MN,Private,3,25236,Average
+2169,Ridgeview Medical Center,Waconia,MN,Private,3,24210,Average
+2170,Abbott Northwestern Hospital,Minneapolis,MN,Private,4,21776,Average
+2172,St Joseph's Hospital,Saint Paul,MN,Private,2,24379,Average
+2177,Essentia Health St Joseph's Medical Center,Brainerd,MN,Private,4,22346,Average
+2179,Fairview Southdale Hospital,Edina,MN,Unknown,5,22161,Average
+2180,"University Of Minnesota  Medical Center, Fairview",Minneapolis,MN,Private,3,26833,Average
+2183,Mayo Clinic Health System - Mankato,Mankato,MN,Private,4,24133,Average
+2184,Sanford Bemidji Medical Center,Bemidji,MN,Private,2,22054,Average
+2187,Regions Hospital,Saint Paul,MN,Private,3,24062,Average
+2188,Mercy Hospital,Coon Rapids,MN,Private,4,23834,Average
+2194,Fairview Ridges Hospital,Burnsville,MN,Church,5,23186,Average
+2195,Healtheast St John's Hospital,Maplewood,MN,Private,2,25898,Average
+2279,University Of Mississippi Med Center,Jackson,MS,Government,1,24379,Average
+2281,North Mississippi Medical Center,Tupelo,MS,Private,3,25516,Worse
+2284,Magnolia Regional Health Center,Corinth,MS,Unknown,2,23265,Worse
+2288,Memorial Hospital At Gulfport,Gulfport,MS,Government,1,28645,Average
+2292,Merit Health River Region,Vicksburg,MS,Proprietary,1,22308,Average
+2293,Baptist Memorial Hospital North Ms,Oxford,MS,Private,2,23298,Average
+2296,Singing River Hospital,Pascagoula,MS,Government,2,25638,Average
+2297,Northwest Mississippi Medical Center,Clarksdale,MS,Proprietary,3,21700,Average
+2300,St Dominic-jackson Memorial Hospital,Jackson,MS,Church,2,19128,Average
+2304,South Central Reg Med Ctr,Laurel,MS,Government,3,22446,Average
+2308,Rush Foundation Hospital,Meridian,MS,Private,2,25489,Average
+2309,Merit Health Central,Jackson,MS,Proprietary,2,25091,Average
+2311,Forrest General Hospital,Hattiesburg,MS,Government,1,26602,Average
+2314,Delta Regional Medical Center,Greenville,MS,Government,2,24845,Average
+2315,Merit Health Natchez,Natchez,MS,Proprietary,2,22758,Average
+2318,Merit Health Wesley,Hattiesburg,MS,Private,2,26378,Average
+2321,Southwest Ms Regional Medical Center,Mccomb,MS,Government,2,22920,Average
+2322,Greenwood Leflore Hospital,Greenwood,MS,Government,2,23094,Average
+2323,Baptist Mem Hosp/ Golden Triangle Inc,Columbus,MS,Private,2,25110,Average
+2324,Mississippi Baptist Medical Center,Jackson,MS,Private,3,21861,Average
+2325,Anderson Regional Medical Ctr,Meridian,MS,Private,1,22399,Average
+2335,Baptist Memorial Hospital Desoto,Southaven,MS,Private,1,27082,Average
+2340,Methodist Healthcare - Olive Branch Hospital,Olive Branch,MS,Private,4,26986,Average
+2341,University Of Mississippi Medical Center- Grenada,Grenada,MS,Government,2,23794,Average
+2374,Mercy Hospital Joplin,Joplin,MO,Church,3,26825,Average
+2376,Ssm Health St Joseph Hospital-st Charles,Saint Charles,MO,Private,2,23977,Average
+2377,Mosaic Life Care At St Joseph,Saint Joseph,MO,Private,5,23846,Average
+2378,Bothwell Regional Health Center,Sedalia,MO,Government,3,23355,Average
+2379,Ssm Health St. Mary's Hospital - Jefferson City,Jefferson City,MO,Proprietary,4,25162,Average
+2380,Phelps County Regional Medical Center,Rolla,MO,Government,3,26109,Average
+2381,Mercy Hospital St Louis,Saint Louis,MO,Private,5,25396,Average
+2382,Northeast Regional Medical Center,Kirksville,MO,Proprietary,4,24585,Average
+2383,Mercy Hospital Jefferson,Festus,MO,Private,3,25343,Average
+2385,Hannibal Regional Hospital,Hannibal,MO,Private,3,20992,Average
+2386,Research Medical Center,Kansas City,MO,Proprietary,2,25350,Average
+2387,Barnes Jewish Hospital,Saint Louis,MO,Unknown,2,23029,Better
+2388,Bates County Memorial Hospital,Butler,MO,Government,3,22060,Average
+2389,Cox Medical Centers,Springfield,MO,Private,3,22231,Average
+2390,Capital Region Medical Center,Jefferson City,MO,Private,3,23399,Average
+2393,Mercy Hospital Washington,Washington,MO,Private,4,23370,Average
+2397,Saint Lukes North Hospital,Kansas City,MO,Private,4,25944,Average
+2398,Ssm Health St. Mary's Hospital-audrain,Mexico,MO,Private,3,22358,Average
+2399,Mercy Hospital Springfield,Springfield,MO,Private,5,22744,Average
+2400,Boone Hospital Center,Columbia,MO,Unknown,5,25517,Average
+2403,St Anthony's Medical Center,Saint Louis,MO,Private,1,26003,Average
+2404,Ozarks Medical Center,West Plains,MO,Unknown,2,21164,Average
+2406,Ssm Health St Clare Hospital - Fenton,Fenton,MO,Private,4,23814,Average
+2407,St Joseph Medical Center,Kansas City,MO,Private,4,21957,Average
+2408,Ssm Health St Mary's Hospital - St Louis,Richmond Heights,MO,Private,2,25069,Average
+2409,Cox Medical Center Branson,Branson,MO,Private,3,24641,Average
+2410,Centerpoint Medical Center,Independence,MO,Proprietary,2,23290,Average
+2411,North Kansas City Hospital,North Kansas City,MO,Government,3,23686,Average
+2414,Ssm Health Depaul Hospital St Louis,Bridgeton,MO,Private,2,23930,Average
+2415,Ssm Health Saint Louis University Hospital,Saint Louis,MO,Proprietary,1,21805,Average
+2416,Missouri Baptist Medical Center,Town And Country,MO,Private,4,23356,Average
+2417,Southeasthealth,Cape Girardeau,MO,Private,1,25582,Average
+2418,Missouri Delta Medical Center,Sikeston,MO,Unknown,2,23405,Average
+2419,Poplar Bluff Regional Medical Center,Poplar Bluff,MO,Proprietary,1,25430,Average
+2420,Freeman Health System - Freeman West,Joplin,MO,Private,2,23964,Worse
+2421,St Lukes Hospital Of Kansas City,Kansas City,MO,Government,4,22830,Average
+2422,University Of Missouri Health Care,Columbia,MO,Government,1,21590,Average
+2427,Golden Valley Memorial Hospital,Clinton,MO,Government,3,23998,Average
+2428,St Luke's Des Peres Hospital,Saint Louis,MO,Proprietary,2,24309,Average
+2429,Liberty Hospital,Liberty,MO,Government,4,25414,Average
+2430,St Lukes Hospital,Chesterfield,MO,Private,5,25162,Average
+2431,Christian Hospital Northeast-northwest,Saint Louis,MO,Private,1,25712,Average
+2432,Saint Francis Medical Center,Cape Girardeau,MO,Church,3,24113,Average
+2433,Lake Regional Health System,Osage Beach,MO,Unknown,3,23627,Worse
+2434,Lee's Summit Medical Center,Lees Summit,MO,Proprietary,3,23144,Average
+2435,Barnes-jewish St Peters Hospital,Saint Peters,MO,Unknown,2,23819,Average
+2436,St Mary's Medical Center,Blue Springs,MO,Church,4,24350,Average
+2437,Citizens Memorial Hospital,Bolivar,MO,Government,2,22804,Average
+2438,Ssm Health Saint Joseph Hospital-lake Saint Louis,Lake Saint Louis,MO,Church,4,24911,Average
+2442,Saint Luke's East Lee's Summit Hospital,Lees Summit,MO,Private,4,22620,Average
+2443,Progress West Hospital,O Fallon,MO,Private,4,23937,Average
+2485,St Peters Hospital,Helena,MT,Private,3,20647,Average
+2486,Billings Clinic Hospital,Billings,MT,Private,3,25587,Average
+2487,Benefis Hospitals Inc,Great Falls,MT,Private,3,23130,Average
+2488,St Patrick Hospital,Missoula,MT,Church,5,22751,Average
+2489,St James Healthcare,Butte,MT,Private,3,22600,Average
+2490,Community Medical Center,Missoula,MT,Private,4,24834,Average
+2492,St Vincent Healthcare,Billings,MT,Church,5,22758,Average
+2493,Kalispell Regional Medical Center,Kalispell,MT,Private,5,23427,Average
+2494,Bozeman Health Deaconess Hospital,Bozeman,MT,Private,4,22556,Average
+2547,Bryan Medical Center,Lincoln,NE,Private,3,26686,Average
+2548,Chi Health Good Samaritan,Kearney,NE,Church,2,27764,Average
+2549,The Nebraska Medical Center,Omaha,NE,Private,3,22781,Average
+2550,Chi Health St Elizabeth,Lincoln,NE,Private,3,24848,Average
+2551,Chi Health St Francis,Grand Island,NE,Church,3,22889,Average
+2552,Mary Lanning Healthcare,Hastings,NE,Unknown,3,25650,Average
+2553,Methodist Hospital,Omaha,NE,Private,4,24650,Average
+2554,Chi Health Creighton University Medical Center - B,Omaha,NE,Private,3,25064,Average
+2555,Regional West Medical Center,Scottsbluff,NE,Private,1,25212,Average
+2556,Great Plains Health,North Platte,NE,Private,3,23461,Average
+2557,Methodist Fremont Health,Fremont,NE,Government,4,25299,Average
+2558,Chi Health Immanuel,Omaha,NE,Private,3,24165,Average
+2559,Chi Health Midlands,Papillion,NE,Church,4,23785,Average
+2561,Faith Regional Health Services,Norfolk,NE,Private,4,27775,Average
+2563,Chi Health Nebraska Heart,Lincoln,NE,Private,5,28251,Average
+2565,Chi Health Lakeside,Omaha,NE,Church,3,24334,Average
+2567,Bellevue Medical Center,Bellevue,NE,Proprietary,2,25098,Average
+2569,Kearney Regional Medical Center,Kearney,NE,Proprietary,4,29353,Average
+2636,Renown Regional Medical Center,Reno,NV,Private,1,21326,Average
+2637,Sunrise Hospital And Medical Center,Las Vegas,NV,Proprietary,1,28066,Average
+2638,North Vista Hospital,North Las Vegas,NV,Private,2,25895,Average
+2639,University Medical Center,Las Vegas,NV,Government,1,25480,Average
+2640,Northeastern Nevada Regional Hospital,Elko,NV,Proprietary,3,23789,Average
+2641,Saint Mary's Regional Medical Center,Reno,NV,Private,4,21146,Average
+2642,St Rose Dominican Hospitals - Rose De Lima Campus,Henderson,NV,Church,2,26478,Average
+2643,Carson Tahoe Regional Medical Center,Carson City,NV,Private,4,22062,Average
+2644,Valley Hospital Medical Center,Las Vegas,NV,Proprietary,1,22883,Average
+2645,Desert Springs Hospital,Las Vegas,NV,Proprietary,1,26009,Average
+2646,Northern Nevada Medical Center,Sparks,NV,Proprietary,3,23722,Average
+2647,Mountainview Hospital,Las Vegas,NV,Proprietary,3,26268,Average
+2648,Summerlin Hospital Medical Center,Las Vegas,NV,Proprietary,1,23728,Average
+2650,St Rose Dominican Hospitals - Siena Campus,Henderson,NV,Private,1,26473,Average
+2651,Spring Valley Hospital Medical Center,Las Vegas,NV,Proprietary,1,26401,Average
+2652,Southern Hills Hospital And Medical Center,Las Vegas,NV,Private,1,24402,Average
+2654,St Rose Dominican Hospitals - San Martin Campus,Las Vegas,NV,Church,1,26610,Average
+2655,Centennial Hills Hospital Medical Center,Las Vegas,NV,Proprietary,2,26975,Average
+2667,Desert View Hospital,Pahrump,NV,Proprietary,2,25165,Average
+2671,Concord Hospital,Concord,NH,Private,4,24646,Average
+2672,Mary Hitchcock Memorial Hospital,Lebanon,NH,Private,3,23350,Better
+2673,Lakes Region General Hospital,Laconia,NH,Private,3,23907,Average
+2674,St Joseph Hospital,Nashua,NH,Unknown,4,23006,Average
+2675,Elliot Hospital,Manchester,NH,Private,2,23266,Average
+2676,Frisbie Memorial Hospital,Rochester,NH,Private,5,21653,Average
+2677,Parkland Medical Center,Derry,NH,Proprietary,2,22587,Average
+2678,Wentworth-douglass Hospital,Dover,NH,Private,5,24669,Average
+2679,Cheshire Medical Center,Keene,NH,Private,3,22303,Average
+2680,Southern Nh Medical Center,Nashua,NH,Private,3,23489,Average
+2681,Exeter Hospital Inc,Exeter,NH,Private,5,24229,Average
+2682,Portsmouth Regional Hospital,Portsmouth,NH,Proprietary,3,25215,Average
+2683,Catholic Medical Center,Manchester,NH,Private,3,23738,Average
+2687,Weeks Medical Center,Lancaster,NH,Private,4,24496,Average
+2688,New London Hospital,New London,NH,Private,3,24761,Average
+2691,"Memorial Hospital, The",North Conway,NH,Private,2,23994,Average
+2694,Androscoggin Valley Hospital,Berlin,NH,Private,4,23749,Average
+2697,Hackensack University Medical Center,Hackensack,NJ,Private,3,25672,Average
+2698,Newark Beth Israel Medical Center,Newark,NJ,Private,1,25874,Average
+2699,Palisades Medical Center,North Bergen,NJ,Private,2,24901,Average
+2700,Hunterdon Medical Center,Flemington,NJ,Private,2,24025,Average
+2701,St Mary's General Hospital,Passaic,NJ,Proprietary,3,25960,Average
+2702,Holy Name Medical Center,Teaneck,NJ,Private,3,25510,Average
+2703,Clara Maass Medical Center,Belleville,NJ,Private,4,26003,Average
+2704,Penn Medicine Princeton Medical Center,Plainsboro,NJ,Private,3,26697,Average
+2705,Cape Regional Medical Center Inc,Cape May Court House,NJ,Private,3,24949,Average
+2706,Valley Hospital,Ridgewood,NJ,Private,4,26216,Average
+2707,Cooper University Hospital,Camden,NJ,Private,2,24235,Average
+2708,Morristown Medical Center,Morristown,NJ,Private,5,25644,Better
+2709,Carepoint Health-christ Hospital,Jersey City,NJ,Church,1,23522,Average
+2710,Chilton Medical Center,Pompton Plains,NJ,Private,3,25243,Average
+2711,St Joseph's University Medical Center,Paterson,NJ,Church,1,25378,Average
+2712,St Francis Medical Center,Trenton,NJ,Church,1,24163,Average
+2713,Virtua West Jersey Hospitals Voorhees,Voorhees,NJ,Private,4,26470,Average
+2714,Robert Wood Johnson University Hospital At Rahway,Rahway,NJ,Private,2,26596,Average
+2715,Carepoint Health - Bayonne Medical Center,Bayonne,NJ,Private,2,24864,Average
+2716,Trinitas Regional Medical Center,Elizabeth,NJ,Private,1,24966,Average
+2717,Newton Medical Center,Newton,NJ,Private,3,26100,Average
+2718,Our Lady Of Lourdes Medical Center,Camden,NJ,Private,2,23434,Worse
+2719,Deborah Heart And Lung Center,Browns Mills,NJ,Private,5,26220,Average
+2720,Inspira Medical Center Vineland,Vineland,NJ,Private,2,26815,Average
+2721,Riverview Medical Center,Red Bank,NJ,Private,4,25857,Average
+2722,Robert Wood Johnson University Hospital,New Brunswick,NJ,Private,2,27480,Average
+2723,Raritan Bay Medical Center Perth Amboy Division,Perth Amboy,NJ,Private,3,27729,Average
+2724,Carepoint Health-hoboken University Medical Center,Hoboken,NJ,Church,2,24813,Average
+2725,Community Medical Center,Toms River,NJ,Private,2,26296,Average
+2726,Capital Health Medical Center - Hopewell,Pennington,NJ,Private,3,27614,Average
+2727,Englewood Hospital And Medical Center,Englewood,NJ,Private,2,26023,Average
+2728,Shore Medical Center,Somers Point,NJ,Private,2,25241,Average
+2729,Robert Wood Johnson University Hospital Somerset,Somerville,NJ,Private,3,26227,Average
+2730,Saint Clare's Hospital/ Denville Campus,Denville,NJ,Proprietary,5,28158,Average
+2731,Overlook Medical Center,Summit,NJ,Unknown,3,23820,Average
+2732,Ocean Medical Center,Brick,NJ,Unknown,4,27093,Average
+2733,Hackensack-umc Mountainside,Montclair,NJ,Private,2,24761,Average
+2734,Virtua Memorial Hospital Of Burlington County,Mount Holly,NJ,Private,2,26291,Average
+2736,St Luke's Warren Hospital,Phillipsburg,NJ,Unknown,5,24278,Average
+2737,Lourdes Medical Center Of Burlington County,Willingboro,NJ,Private,2,24770,Average
+2738,Atlanticare Regional Medical Center - City Campus,Atlantic City,NJ,Unknown,5,23675,Average
+2739,Inspira Medical Center Elmer,Elmer,NJ,Private,4,25898,Average
+2740,Saint Peter's University Hospital,New Brunswick,NJ,Church,2,27722,Average
+2741,Jersey Shore University Medical Center,Neptune,NJ,Private,4,24806,Average
+2742,Jersey City Medical Center,Jersey City,NJ,Private,1,23516,Average
+2743,Monmouth Medical Center,Long Branch,NJ,Private,4,25400,Average
+2744,Saint Barnabas Medical Center,Livingston,NJ,Unknown,4,25042,Average
+2745,Inspira Medical Center Woodbury,Woodbury,NJ,Private,2,24089,Average
+2746,East Orange General Hospital,East Orange,NJ,Private,1,25034,Average
+2747,Monmouth Medical Center-southern Campus,Lakewood,NJ,Private,3,26387,Average
+2748,Jefferson Stratford Hospital,Stratford,NJ,Private,2,24987,Average
+2749,Memorial Hospital Of Salem County,Salem,NJ,Private,2,25135,Average
+2750,Capital Health System-fuld Campus,Trenton,NJ,Private,2,24311,Average
+2751,Saint Michael's Medical Center,Newark,NJ,Private,5,26124,Better
+2752,Jfk Medical Ctr - Anthony M. Yelencsics Community,Edison,NJ,Private,2,27764,Average
+2753,Robert Wood Johnson University Hospital Hamilton,Hamilton,NJ,Private,3,29530,Average
+2754,Centrastate Medical Center,Freehold,NJ,Private,3,27223,Average
+2755,Bayshore Medical Center,Holmdel,NJ,Private,2,28622,Average
+2756,Southern Ocean Medical Center,Manahawkin,NJ,Private,4,26165,Average
+2757,Hackettstown Medical Center,Hackettstown,NJ,Church,2,27253,Average
+2758,Hudson Regional Hospital,Secaucus,NJ,Proprietary,2,23697,Average
+2759,University Hospital,Newark,NJ,Government,1,24444,Average
+2760,Hackensack Meridian Health Pascack Valley Medical,Westwood,NJ,Proprietary,2,25067,Average
+2763,Unm Hospital,Albuquerque,NM,Unknown,1,22378,Average
+2764,Christus St Vincent Regional Medical Center,Santa Fe,NM,Private,4,19991,Average
+2766,Gerald Champion Regional Medical Center,Alamogordo,NM,Private,3,23187,Average
+2767,San Juan Regional Medical Center,Farmington,NM,Private,3,25094,Average
+2768,Eastern New Mexico Medical Center,Roswell,NM,Proprietary,2,23530,Average
+2769,Lovelace Medical Center,Albuquerque,NM,Private,4,24270,Average
+2773,Memorial Medical Center,Las Cruces,NM,Proprietary,2,22011,Average
+2774,Presbyterian Hospital,Albuquerque,NM,Private,2,20214,Average
+2785,Carlsbad Medical Center,Carlsbad,NM,Proprietary,2,25067,Average
+2786,Lea Regional Medical Center,Hobbs,NM,Proprietary,2,23294,Average
+2791,Mountain View Regional Medical Center,Las Cruces,NM,Proprietary,1,26119,Average
+2792,Lovelace Regional Hospital - Roswell,Roswell,NM,Proprietary,3,22471,Average
+2804,Albany Memorial Hospital,Albany,NY,Private,4,23141,Average
+2805,Healthalliance Hospital Broadway Campus,Kingston,NY,Private,1,23186,Average
+2806,Kaleida Health,Buffalo,NY,Private,1,21582,Average
+2807,St Joseph's Medical Center,Yonkers,NY,Private,1,24343,Average
+2809,Bronx-lebanon Hospital Center,Bronx,NY,Proprietary,2,23110,Average
+2810,"Our Lady Of Lourdes Memorial Hospital, Inc",Binghamton,NY,Private,3,20305,Average
+2811,Albany Medical Center Hospital,Albany,NY,Private,1,24747,Average
+2812,Jamaica Hospital Medical Center,Jamaica,NY,Private,1,23775,Average
+2813,"New York Community Hospital Of Brooklyn, Inc.",Brooklyn,NY,Private,3,24628,Average
+2814,Vassar Brothers Medical Center,Poughkeepsie,NY,Private,1,23453,Average
+2815,Mount Sinai Hospital,New York,NY,Private,3,24493,Average
+2816,Nassau University Medical Center,East Meadow,NY,Government,1,25050,Average
+2817,Richmond University Medical Center,Staten Island,NY,Private,1,21686,Average
+2818,Newark-wayne Community Hospital,Newark,NY,Private,2,23175,Average
+2819,Chenango Memorial Hospital,Norwich,NY,Private,3,22363,Average
+2820,Southside Hospital,Bay Shore,NY,Private,2,25972,Average
+2821,Faxton-st Luke's Healthcare,Utica,NY,Private,2,24612,Worse
+2822,Huntington Hospital,Huntington,NY,Private,3,25456,Average
+2823,Mount Sinai West,New York,NY,Private,3,25968,Average
+2824,St Mary's Hospital At Amsterdam,Amsterdam,NY,Private,2,22175,Average
+2825,Northern Dutchess Hospital,Rhinebeck,NY,Private,4,23722,Average
+2826,New York-presbyterian/queens,Flushing,NY,Private,2,21636,Average
+2827,Brooklyn Hospital Center At Downtown Campus,Brooklyn,NY,Private,1,23727,Average
+2828,St Peter's Hospital,Albany,NY,Private,2,23471,Average
+2830,Montefiore Medical Center,Bronx,NY,Private,1,23031,Average
+2831,Niagara Falls Memorial Medical Center,Niagara Falls,NY,Unknown,1,24015,Average
+2832,United Memorial Medical Center,Batavia,NY,Private,2,24088,Average
+2833,F F Thompson Hospital,Canandaigua,NY,Private,2,23559,Average
+2834,Sisters Of Charity Hospital,Buffalo,NY,Private,2,24570,Average
+2835,Adirondack Medical Center,Saranac Lake,NY,Unknown,4,21643,Average
+2836,Lincoln Medical & Mental Health Center,Bronx,NY,Government,1,23098,Average
+2837,Alice Hyde Medical Center,Malone,NY,Unknown,1,22623,Average
+2838,Aurelia Osborn Fox Memorial Hospital,Oneonta,NY,Private,3,20934,Average
+2841,Arnot Ogden Medical Center,Elmira,NY,Private,2,23224,Average
+2842,Columbia Memorial Hospital,Hudson,NY,Private,2,22771,Average
+2845,New York-presbyterian Hospital,New York,NY,Private,3,24751,Better
+2846,Kenmore Mercy Hospital,Kenmore,NY,Church,4,23342,Average
+2847,Olean General Hospital,Olean,NY,Proprietary,3,25355,Average
+2848,Nyack Hospital,Nyack,NY,Unknown,2,26887,Average
+2849,North Shore University Hospital,Manhasset,NY,Private,2,25198,Average
+2850,Peconic Bay Medical Center,Riverhead,NY,Private,1,25338,Average
+2854,Lenox Hill Hospital,New York,NY,Private,3,26758,Average
+2855,Rochester General Hospital,Rochester,NY,Private,2,24514,Average
+2856,Orange Regional Medical Center,Middletown,NY,Private,3,26417,Better
+2857,Jacobi Medical Center,Bronx,NY,Government,1,25175,Average
+2858,Elmhurst Hospital Center,Elmhurst,NY,Government,1,22796,Average
+2860,Bon Secours Community Hospital,Port Jervis,NY,Church,4,24134,Average
+2861,Mary Imogene Bassett Hospital,Cooperstown,NY,Private,1,23597,Average
+2862,St Joseph's Hospital Health Center,Syracuse,NY,Private,2,22759,Better
+2863,Long Island Community Hospital,Patchogue,NY,Private,1,25742,Average
+2866,Ellis Hospital,Schenectady,NY,Proprietary,2,20315,Average
+2867,Samaritan Medical Center,Watertown,NY,Private,3,21645,Average
+2868,Good Samaritan Hospital Of Suffern,Suffern,NY,Church,1,26518,Average
+2869,Staten Island University Hospital,Staten Island,NY,Private,1,23739,Average
+2870,Northern Westchester Hospital,Mount Kisco,NY,Private,3,24462,Average
+2871,Eastern Niagara Hospital,Lockport,NY,Private,1,23618,Average
+2872,Highland Hospital,Rochester,NY,Private,3,22581,Average
+2874,Nyu Winthrop Hospital,Mineola,NY,Private,3,22644,Average
+2875,Mount Sinai Beth Israel,New York,NY,Private,2,23532,Better
+2876,"Cortland Regional Medical Center, Inc",Cortland,NY,Private,3,23301,Average
+2877,Samaritan Hospital,Troy,NY,Private,1,23394,Average
+2878,Glen Cove Hospital,Glen Cove,NY,Private,2,23315,Average
+2879,"St Francis Hospital, Roslyn",Roslyn,NY,Church,4,27144,Average
+2880,Montefiore New Rochelle Hospital,New Rochelle,NY,Private,2,25876,Average
+2881,John T Mather Memorial Hospital  Of Port Jefferson,Port Jefferson,NY,Private,3,25447,Average
+2882,Mount St Mary's Hospital And  Health Center,Lewiston,NY,Church,3,22500,Average
+2883,Glens Falls Hospital,Glens Falls,NY,Private,3,21365,Average
+2884,Flushing Hospital Medical Center,Flushing,NY,Private,1,25556,Average
+2885,Maimonides Medical Center,Brooklyn,NY,Private,1,23004,Better
+2886,Long Island Jewish Medical Center,New Hyde Park,NY,Private,2,22430,Average
+2887,Coney Island Hospital,Brooklyn,NY,Government,1,24605,Average
+2888,Canton-potsdam Hospital,Potsdam,NY,Private,3,21729,Average
+2889,South Nassau Communities Hospital,Oceanside,NY,Private,2,23938,Average
+2890,Metropolitan Hospital Center,New York,NY,Government,2,22024,Average
+2891,Kingsbrook Jewish Medical Center,Brooklyn,NY,Private,1,25553,Average
+2892,Kings County Hospital Center,Brooklyn,NY,Government,1,19585,Average
+2893,Crouse Hospital,Syracuse,NY,Private,2,20361,Average
+2894,Bellevue Hospital Center,New York,NY,Government,1,21469,Average
+2895,St Anthony Community Hospital,Warwick,NY,Church,2,25360,Average
+2896,St John's Riverside Hospital,Yonkers,NY,Private,2,24577,Average
+2897,Claxton-hepburn Medical Center,Ogdensburg,NY,Private,3,22872,Average
+2898,Nyu Langone Hospitals,New York,NY,Private,4,24995,Average
+2899,"Rome Memorial Hospital, Inc",Rome,NY,Private,3,24753,Average
+2900,Oswego Hospital,Oswego,NY,Private,3,23391,Average
+2902,Wyckoff Heights Medical Center,Brooklyn,NY,Private,1,24593,Average
+2903,Saratoga Hospital,Saratoga Springs,NY,Private,4,22895,Average
+2904,Massena Memorial Hospital,Massena,NY,Government,2,21799,Average
+2906,Unity Hospital Of Rochester,Rochester,NY,Private,2,22359,Average
+2908,Queens Hospital Center,Jamaica,NY,Government,1,22812,Average
+2909,St Mary's Hospital ( Troy ),Troy,NY,Private,3,22060,Average
+2910,Brookdale Hospital Medical Center,Brooklyn,NY,Private,1,23588,Average
+2911,Westchester Medical Center,Valhalla,NY,Government,1,26233,Average
+2912,Auburn  Community  Hospital,Auburn,NY,Private,1,22024,Average
+2913,New York-presbyterian Brooklyn Methodist Hospital,Brooklyn,NY,Private,3,22548,Average
+2915,Upmc Chautauqua Wca,Jamestown,NY,Private,2,21425,Average
+2917,University Hospital S U N Y Health Science Center,Syracuse,NY,Government,2,22839,Average
+2918,St Elizabeth Medical Center,Utica,NY,Private,1,23744,Average
+2919,St Charles Hospital,Port Jefferson,NY,Private,3,22223,Average
+2920,Champlain Valley Physicians Hospital Medical Ctr,Plattsburgh,NY,Private,3,20370,Average
+2921,Mercy Medical Center,Rockville Centre,NY,Private,1,26407,Average
+2922,Phelps Memorial Hospital Assn,Sleepy Hollow,NY,Unknown,4,24352,Average
+2923,St Luke's Cornwall Hospital,Newburgh,NY,Unknown,2,23787,Average
+2925,New York-presbyterian/hudson Valley Hospital,Cortlandt Manor,NY,Private,3,25173,Average
+2928,Putnam Hospital Center,Carmel,NY,Private,2,25019,Average
+2930,Corning Hospital,Corning,NY,Private,4,23287,Average
+2931,Mercy Hospital Of Buffalo,Buffalo,NY,Private,1,23033,Average
+2932,Strong Memorial Hospital,Rochester,NY,Private,2,23020,Average
+2933,Good Samaritan Hospital Medical Center,West Islip,NY,Church,1,25150,Average
+2934,White Plains Hospital Center,White Plains,NY,Private,3,26150,Average
+2935,Cayuga Medical Center At Ithaca,Ithaca,NY,Private,2,22140,Average
+2936,Plainview Hospital,Plainview,NY,Private,3,26647,Average
+2937,St Joseph Hospital,Bethpage,NY,Private,1,27141,Average
+2938,University Hospital Of Brooklyn ( Downstate ),Brooklyn,NY,Government,1,22874,Average
+2940,Catskill Regional Medical Center,Harris,NY,Private,2,24770,Average
+2942,University Hospital At Stony Brook,Stony Brook,NY,Government,3,24213,Better
+2943,"United Health Services Hospitals, Inc",Binghamton,NY,Private,1,20369,Average
+2944,St John's Episcopal Hospital At South Shore,Far Rockaway,NY,Church,1,24851,Average
+2946,Interfaith Medical Center,Brooklyn,NY,Private,1,22907,Average
+2948,St Catherine Of Siena Hospital,Smithtown,NY,Private,2,25460,Average
+2972,Carolinas Healthcare System Northeast,Concord,NC,Government,2,21365,Average
+2973,Memorial Mission Hospital And Asheville Surgery Ce,Asheville,NC,Private,5,22314,Better
+2974,Northern Hospital Of Surry County,Mount Airy,NC,Government,4,23323,Average
+2975,High Point Regional Hospital,High Point,NC,Private,2,22643,Average
+2976,Scotland Memorial Hospital,Laurinburg,NC,Private,3,24471,Average
+2977,Wayne Memorial Hospital,Goldsboro,NC,Private,2,22002,Average
+2978,Rutherford Regional Medical Center,Rutherfordton,NC,Proprietary,3,23957,Average
+2979,Novant Health Forsyth Medical Center,Winston-salem,NC,Private,3,21494,Average
+2980,Novant Health Rowan Medical Center,Salisbury,NC,Private,1,19947,Average
+2981,Harris Regional Hospital,Sylva,NC,Proprietary,1,22784,Average
+2982,Margaret R Pardee Memorial Hospital,Hendersonville,NC,Government,3,24023,Average
+2983,Central Carolina Hospital,Sanford,NC,Private,2,25536,Average
+2984,Carolinas Healthcare System Cleveland,Shelby,NC,Government,3,24418,Average
+2985,Park Ridge Health,Hendersonville,NC,Private,4,23803,Average
+2987,Unc Lenoir Health Care,Kinston,NC,Private,1,21717,Average
+2988,Cape Fear Valley Medical Center,Fayetteville,NC,Private,3,22027,Average
+2989,Duke University Hospital,Durham,NC,Proprietary,4,22444,Average
+2990,Caromont Regional Medical Center,Gastonia,NC,Government,2,22952,Average
+2992,Iredell Memorial Hospital Inc,Statesville,NC,Private,3,25127,Average
+2993,Vidant Medical Center,Greenville,NC,Private,3,22745,Average
+2994,Caldwell Memorial Hospital,Lenoir,NC,Unknown,2,22359,Average
+2995,Onslow Memorial Hospital,Jacksonville,NC,Government,2,24058,Average
+2996,North Carolina Baptist Hospital,Winston-salem,NC,Private,3,22230,Average
+2998,Southeastern Regional Medical Center,Lumberton,NC,Private,2,22126,Average
+2999,Watauga Medical Center,Boone,NC,Government,4,23117,Average
+3000,Novant Health Presbyterian Medical Center,Charlotte,NC,Private,3,23500,Average
+3001,Unc Rockingham,Eden,NC,Private,3,24448,Average
+3002,University Of North Carolina Hospital,Chapel Hill,NC,Government,3,21391,Average
+3003,Wilkes Regional Medical Center,North Wilkesboro,NC,Government,3,22765,Average
+3004,Columbus Regional Healthcare System,Whiteville,NC,Unknown,3,25056,Average
+3005,"Wakemed, Raleigh Campus",Raleigh,NC,Private,3,23298,Average
+3006,Alamance Regional Medical Center,Burlington,NC,Private,1,21146,Average
+3007,Betsy Johnson Regional  Hospital,Dunn,NC,Private,2,23889,Average
+3008,Duke Health Raleigh Hospital,Raleigh,NC,Private,4,23294,Average
+3009,Carolinas Healthcare System-blue Ridge,Morganton,NC,Proprietary,3,20853,Average
+3013,Johnston Health,Smithfield,NC,Government,4,24205,Average
+3014,The Moses H Cone Memorial Hospital,Greensboro,NC,Private,5,20606,Average
+3016,Hugh Chatham Memorial Hospital,Elkin,NC,Private,3,22737,Average
+3017,Carolinas Healthcare System Pineville,Charlotte,NC,Government,3,22260,Average
+3018,Vidant Roanoke Chowan Hospital,Ahoskie,NC,Private,2,23530,Average
+3019,Vidant Edgecombe Hospital,Tarboro,NC,Government,3,24595,Average
+3020,Sentara Albemarle Medical Center,Elizabeth City,NC,Government,1,24573,Average
+3021,Carolinas Medical Center/behav Health,Charlotte,NC,Government,3,22692,Average
+3022,Rex Hospital,Raleigh,NC,Government,4,21360,Average
+3023,Firsthealth Moore Regional Hospital,Pinehurst,NC,Private,4,21294,Average
+3024,Frye Regional Medical Center,Hickory,NC,Proprietary,3,23826,Average
+3025,Carolinas Healthcare System Stanly,Albemarle,NC,Private,2,23644,Average
+3026,Vidant Duplin  Hospital,Kenansville,NC,Government,4,23654,Average
+3027,Randolph Hospital,Asheboro,NC,Private,3,22337,Average
+3028,Wilson Medical Center,Wilson,NC,Private,3,24880,Average
+3029,Granville Health Systems,Oxford,NC,Government,2,21099,Average
+3030,Lake Norman Regional Medical Center,Mooresville,NC,Proprietary,2,24187,Average
+3031,Carolinas Healthcare System Union,Monroe,NC,Government,1,23099,Average
+3032,Carolina East Medical Center,New Bern,NC,Government,5,22701,Average
+3033,Maria Parham Medical Center,Henderson,NC,Proprietary,2,23012,Average
+3035,New Hanover Regional Medical Center,Wilmington,NC,Government,3,24018,Average
+3036,Carteret General Hospital,Morehead City,NC,Proprietary,4,22907,Average
+3037,Catawba Valley Medical Center,Hickory,NC,Unknown,3,23906,Average
+3038,Davis Regional Medical Center,Statesville,NC,Proprietary,3,23238,Average
+3039,Carolinas Healthcare System Lincoln,Lincolnton,NC,Government,4,22462,Average
+3040,Nash General Hospital,Rocky Mount,NC,Government,1,23105,Average
+3042,Halifax Regional Medical Center Inc,Roanoke Rapids,NC,Private,2,22353,Average
+3043,Duke Regional Hospital,Durham,NC,Government,5,21867,Average
+3045,Novant Health Brunswick Medical Center,Supply,NC,Unknown,3,24580,Average
+3047,Carolinas Med Ctr-university,Charlotte,NC,Government,3,23426,Average
+3049,Novant Health Matthews Medical Center,Matthews,NC,Unknown,5,21375,Average
+3050,"Wakemed, Cary Hospital",Cary,NC,Private,3,22810,Average
+3051,Novant Health Huntersville Medical Center,Huntersville,NC,Private,4,22972,Average
+3052,Haywood Regional Medical Center,Clyde,NC,Government,4,22381,Average
+3067,"Transylvania Regional Hospital, Inc",Brevard,NC,Private,4,24847,Average
+3072,Ashe Memorial Hospital,Jefferson,NC,Private,4,21429,Average
+3073,Angel Medical Center,Franklin,NC,Private,4,23700,Average
+3077,Chi St Alexius Health,Bismarck,ND,Church,3,21653,Average
+3078,Trinity Hospitals,Minot,ND,Private,2,25109,Average
+3079,Sanford,Fargo,ND,Private,3,23667,Average
+3080,Sanford Medical Center Bismarck,Bismarck,ND,Private,1,22439,Average
+3081,Altru Hospital,Grand Forks,ND,Government,2,24165,Average
+3084,Essentia Health Fargo,Fargo,ND,Private,4,23881,Average
+3100,Chi Oakes Hospital,Oakes,ND,Private,3,23934,Average
+3120,Chi St Alexius Health Dickinson,Dickinson,ND,Church,3,21234,Average
+3121,Mercy Hospital Anderson,Cincinnati,OH,Private,4,25821,Average
+3122,University Hospitals Samaritan Medical Center,Ashland,OH,Unknown,4,22242,Average
+3123,"University Of Cincinnati Medical Center, Llc",Cincinnati,OH,Private,2,22433,Average
+3124,Riverside Methodist Hospital,Columbus,OH,Private,4,23033,Average
+3125,Southern Ohio Medical Center,Portsmouth,OH,Unknown,3,24804,Average
+3126,Lima Memorial Health System,Lima,OH,Unknown,2,26156,Average
+3127,Union Hospital,Dover,OH,Unknown,3,22629,Average
+3128,Marion General Hospital,Marion,OH,Private,2,24726,Average
+3129,Mount Carmel St Ann's,Westerville,OH,Church,3,23258,Average
+3132,"Jewish Hospital, Llc",Cincinnati,OH,Private,4,25688,Average
+3133,Grant Medical Center,Columbus,OH,Church,2,23005,Average
+3134,Summa Health System,Akron,OH,Private,3,24583,Average
+3135,Firelands Regional Medical Center,Sandusky,OH,Private,4,22306,Average
+3137,Akron General Medical Center,Akron,OH,Private,3,22678,Average
+3139,Grand Lake Health System,Saint Marys,OH,Private,4,23336,Average
+3140,Mount Carmel West,Columbus,OH,Unknown,2,22020,Average
+3141,Wooster Community Hospital,Wooster,OH,Government,4,24356,Average
+3142,St Vincent Charity Medical Center,Cleveland,OH,Private,3,23117,Average
+3143,Genesis Hospital,Zanesville,OH,Private,4,23925,Average
+3144,Knox Community Hospital,Mount Vernon,OH,Unknown,2,24704,Average
+3145,Parma Community General Hospital,Parma,OH,Private,5,25536,Average
+3146,Wayne Hospital,Greenville,OH,Private,4,25979,Average
+3148,University Of Toledo Medical Center,Toledo,OH,Government,1,26604,Average
+3149,Miami Valley Hospital,Dayton,OH,Private,5,23020,Average
+3150,Good Samaritan Hospital,Dayton,OH,Church,2,25974,Average
+3151,Holzer Medical Center,Gallipolis,OH,Private,2,25657,Average
+3152,Trumbull Regional Medical Center,Warren,OH,Proprietary,2,24401,Average
+3153,Mercy Hospital Fairfield,Fairfield,OH,Private,3,23291,Average
+3154,Mercer County Joint Township Community Hospital,Coldwater,OH,Government,4,24490,Average
+3155,Metrohealth System,Cleveland,OH,Unknown,2,21855,Average
+3156,Mh St Elizabeth Youngstown Hospital,Youngstown,OH,Church,2,24214,Average
+3157,Fisher-titus Hospital,Norwalk,OH,Private,4,23531,Average
+3158,St Rita's Medical Center,Lima,OH,Private,5,23581,Average
+3159,Toledo Hospital The,Toledo,OH,Private,5,24107,Average
+3160,Mercy Medical Center,Canton,OH,Private,4,27024,Average
+3162,Fairfield Medical Center,Lancaster,OH,Unknown,3,24395,Average
+3163,Flower Hospital,Sylvania,OH,Private,3,24949,Average
+3164,Uhhs Richmond Heights Hospital,Richmond Heights,OH,Proprietary,4,25366,Average
+3165,Atrium Medical Center,Franklin,OH,Private,4,25858,Average
+3166,Fairview Hospital,Cleveland,OH,Private,4,22542,Average
+3167,University Hospitals Portage Medical Center,Ravenna,OH,Private,2,24130,Average
+3168,Kettering Medical Center,Kettering,OH,Church,3,24150,Average
+3169,East Ohio Regional Hospital,Martins Ferry,OH,Unknown,2,23169,Average
+3172,Aultman Hospital,Canton,OH,Unknown,3,23735,Average
+3173,Ohio State University Hospitals,Columbus,OH,Government,4,22807,Average
+3174,Mercy Health - Springfield Regional Medical Center,Springfield,OH,Private,2,27326,Average
+3177,St Luke's Hospital,Maumee,OH,Unknown,3,22445,Average
+3180,Blanchard Valley Hospital,Findlay,OH,Unknown,4,22565,Average
+3182,Lake Health,Concord,OH,Private,2,22948,Average
+3185,Mercy Health St Vincent Medical Center,Toledo,OH,Church,3,26635,Average
+3186,Ohiohealth Mansfield Hospital,Mansfield,OH,Private,3,23223,Average
+3187,Community Hospitals And Wellness Centers,Bryan,OH,Unknown,3,28340,Average
+3188,St John Medical Center,Westlake,OH,Private,5,23668,Average
+3189,Ashtabula County Medical Center,Ashtabula,OH,Private,1,24834,Average
+3191,Fort Hamilton Hughes Memorial Hospital,Hamilton,OH,Private,3,23302,Average
+3192,Grandview Hospital & Medical Center,Dayton,OH,Unknown,4,24054,Average
+3193,Good Samaritan Hospital,Cincinnati,OH,Church,4,23320,Average
+3194,Uh Cleveland Medical Center,Cleveland,OH,Private,4,25638,Average
+3195,"Steward Northside Medical Center, Inc",Youngstown,OH,Proprietary,2,27419,Average
+3196,Marymount Hospital,Garfield Heights,OH,Private,5,25524,Average
+3197,South Pointe Hospital,Warrensville Heights,OH,Unknown,4,23945,Average
+3198,University Hospitals - Elyria Medical Center,Elyria,OH,Private,4,21560,Average
+3199,Marietta Memorial Hospital,Marietta,OH,Unknown,3,23196,Average
+3202,Doctors Hospital,Columbus,OH,Church,3,23847,Average
+3204,Southwest General Health Center,Middleburg Heights,OH,Private,5,22501,Average
+3206,Adena Regional Medical Center,Chillicothe,OH,Private,4,22854,Average
+3207,St Joseph Warren Hospital,Warren,OH,Church,4,24457,Average
+3208,Christ Hospital,Cincinnati,OH,Private,5,24613,Average
+3210,Mercy Health-lorain Hospital,Lorain,OH,Private,4,23877,Better
+3211,Upper Valley Medical Center,Troy,OH,Private,2,23126,Average
+3213,Bethesda North,Cincinnati,OH,Church,3,25190,Average
+3214,Cleveland Clinic,Cleveland,OH,Private,5,24524,Better
+3215,Salem Regional Medical Center,Salem,OH,Private,3,26635,Average
+3217,Uh Geauga Medical Center,Chardon,OH,Private,4,25889,Average
+3219,Southeastern Ohio Regional Medical Center,Cambridge,OH,Private,3,23528,Average
+3221,Trinity Medical Ctr East &trinity Medical Ctr West,Steubenville,OH,Unknown,3,25515,Average
+3222,Licking Memorial Hospital,Newark,OH,Private,3,21276,Average
+3223,Hillcrest Hospital,Mayfield Heights,OH,Private,5,23449,Average
+3224,Mercy Health - West Hospital,Cincinnati,OH,Private,4,25749,Average
+3225,Mercy Hospital Clermont,Batavia,OH,Church,4,24160,Average
+3226,Sycamore Medical Center,Miamisburg,OH,Church,4,25102,Average
+3231,Mercy St Anne Hospital,Toledo,OH,Church,5,25871,Average
+3236,Mh St Elizabeth Boardman Hospital,Boardman,OH,Church,3,23251,Average
+3240,"West Chester Hospital, Llc",West Chester,OH,Private,4,24371,Average
+3243,University Hospitals Ahuja Medical Center,Beachwood,OH,Private,4,22052,Average
+3244,Soin Medical Center,Beaver Creek,OH,Private,4,24466,Average
+3279,Highland District Hospital,Hillsboro,OH,Government,3,24709,Average
+3289,Hillcrest Medical Center,Tulsa,OK,Proprietary,1,22578,Average
+3291,Integris Miami Hospital,Miami,OK,Private,2,23665,Average
+3292,Alliancehealth Ponca City,Ponca City,OK,Proprietary,3,22705,Average
+3293,Norman Regional,Norman,OK,Government,3,22131,Average
+3296,Alliancehealth Durant,Durant,OK,Proprietary,2,22573,Average
+3298,Integris Bass Baptist Health Center,Enid,OK,Private,4,23931,Average
+3299,"Jane Phillips Memorial Medical Center, Inc",Bartlesville,OK,Private,3,22473,Average
+3303,"Duncan Regional Hospital, Inc",Duncan,OK,Private,3,24414,Average
+3304,Saint Francis Hospital Muskogee,Muskogee,OK,Proprietary,2,24720,Average
+3305,St Mary's Regional Medical Center,Enid,OK,Proprietary,5,26048,Average
+3306,"Integris Baptist Medical Center, Inc",Oklahoma City,OK,Private,4,24200,Average
+3309,Alliancehealth Deaconess,Oklahoma City,OK,Proprietary,1,24588,Average
+3310,Mcalester Regional Health Center Authority,Mcalester,OK,Unknown,2,24266,Average
+3311,Ssm Health St Anthony Hospital - Oklahoma City,Oklahoma City,OK,Private,3,25474,Average
+3312,Hillcrest Hospital Claremore,Claremore,OK,Proprietary,4,24729,Average
+3314,"Mercy Hospital Ardmore, Inc",Ardmore,OK,Private,4,23279,Average
+3316,Stillwater Medical Center,Stillwater,OK,Unknown,4,24397,Average
+3318,Comanche County Memorial Hospital,Lawton,OK,Government,1,23994,Average
+3321,Oklahoma State University Medical Center,Tulsa,OK,Government,2,24610,Average
+3323,Northeastern Health System,Tahlequah,OK,Government,2,22217,Average
+3324,"Saint Francis Hospital, Inc",Tulsa,OK,Private,4,22320,Average
+3325,O U Medicine,Oklahoma City,OK,Private,1,24396,Average
+3326,Alliancehealth Midwest,Midwest City,OK,Proprietary,1,23076,Average
+3330,Integris Southwest Medical Center,Oklahoma City,OK,Private,2,24892,Average
+3332,Integris Grove Hospital,Grove,OK,Private,3,25349,Average
+3333,"St John Medical Center, Inc",Tulsa,OK,Private,2,23813,Average
+3335,Ssm Health St Anthony Hospital - Shawnee,Shawnee,OK,Private,2,24133,Average
+3351,Hillcrest Hospital South,Tulsa,OK,Proprietary,2,22668,Average
+3358,"Oklahoma Heart Hospital, Llc",Oklahoma City,OK,Unknown,5,23281,Average
+3360,"Saint Francis Hospital South, Llc",Tulsa,OK,Private,4,23329,Average
+3368,"Oklahoma Heart Hospital South, Llc",Oklahoma City,OK,Unknown,5,22423,Average
+3370,Integris Health Edmond,Edmond,OK,Private,3,24942,Average
+3413,Asante Three Rivers Medical Center,Grants Pass,OR,Unknown,5,20266,Average
+3414,Providence St Vincent Medical Center,Portland,OR,Private,4,22236,Average
+3416,Legacy Emanuel Medical Center,Portland,OR,Private,3,24317,Average
+3417,Ohsu Hospital And Clinics,Portland,OR,Unknown,5,21312,Average
+3418,Good Samaritan Regional Medical Center,Corvallis,OR,Private,4,21435,Average
+3419,Legacy Good Samaritan Medical Center,Portland,OR,Private,4,22354,Average
+3420,Asante Rogue Regional Medical Center,Medford,OR,Private,5,21688,Average
+3421,Mckenzie-willamette Medical Center,Springfield,OR,Private,3,23597,Average
+3422,Tuality Community Hospital,Hillsboro,OR,Private,4,22747,Average
+3424,Legacy Mount Hood Medical Center,Gresham,OR,Private,3,24081,Average
+3425,Mercy Medical Center,Roseburg,OR,Government,2,23319,Average
+3428,Providence Newberg Medical Center,Newberg,OR,Church,4,21904,Average
+3429,Providence Willamette Falls Medical Center,Oregon City,OR,Private,3,21775,Average
+3431,St Charles Bend,Bend,OR,Private,4,22607,Average
+3432,Sky Lakes Medical Center,Klamath Falls,OR,Private,3,24666,Average
+3433,Salem Hospital,Salem,OR,Unknown,3,23391,Average
+3434,"Saint Alphonsus Medical Center - Ontario, Inc",Ontario,OR,Church,4,22848,Average
+3436,Adventist Health Portland,Portland,OR,Church,3,20978,Average
+3437,Providence Portland Medical Center,Portland,OR,Church,4,20880,Average
+3438,Willamette Valley Medical Center,Mcminnville,OR,Private,4,21630,Average
+3439,Providence Medford Medical Center,Medford,OR,Church,4,23611,Average
+3440,Providence Milwaukie Hospital,Milwaukie,OR,Church,3,23171,Average
+3441,Legacy Meridian Park Medical Center,Tualatin,OR,Private,3,23091,Average
+3442,Bay Area Hospital,Coos Bay,OR,Government,3,22269,Average
+3444,Sacred Heart Medical Center - Riverbend,Springfield,OR,Private,3,22530,Average
+3472,Geisinger-community Medical Center,Scranton,PA,Private,2,23596,Average
+3473,Upmc Mckeesport,Mc Keesport,PA,Private,2,23605,Average
+3475,Holy Spirit Hospital,Camp Hill,PA,Private,3,23803,Average
+3476,Geisinger Medical Center,Danville,PA,Private,2,21182,Average
+3478,Saint Vincent Hospital,Erie,PA,Private,3,25631,Average
+3479,Lansdale Hospital,Lansdale,PA,Unknown,4,24500,Average
+3480,Evangelical Community Hospital,Lewisburg,PA,Unknown,4,24119,Average
+3481,Upmc Jameson,New Castle,PA,Unknown,1,24757,Average
+3484,Chestnut Hill Hospital,Philadelphia,PA,Proprietary,3,24409,Average
+3485,Temple University Hospital,Philadelphia,PA,Private,2,25411,Average
+3486,Upmc Mercy,Pittsburgh,PA,Private,2,23720,Average
+3487,Lehigh Valley Hospital-schuylkill S. Jackson Stree,Pottsville,PA,Private,3,23152,Average
+3488,Allegheny Valley Hospital,Natrona,PA,Unknown,2,26666,Average
+3490,Heritage Valley Beaver,Beaver,PA,Private,3,25097,Average
+3492,Somerset Hospital,Somerset,PA,Private,3,22993,Average
+3493,Uniontown Hospital,Uniontown,PA,Unknown,2,22841,Average
+3494,"Washington Hospital, The",Washington,PA,Private,3,25655,Average
+3495,Reading Hospital,Reading,PA,Unknown,5,23115,Average
+3496,Williamsport Regional Medical Center,Williamsport,PA,Unknown,3,23391,Average
+3497,York Hospital,York,PA,Private,4,25765,Average
+3498,Geisinger-lewistown Hospital,Lewistown,PA,Private,3,23724,Average
+3499,St Luke's Hospital Bethlehem,Bethlehem,PA,Private,4,21343,Average
+3500,Allegheny General Hospital,Pittsburgh,PA,Private,1,25479,Average
+3501,Penn Highlands Clearfield,Clearfield,PA,Unknown,2,25339,Average
+3503,Grand View Hospital,Sellersville,PA,Unknown,4,25129,Average
+3504,Carlisle Regional Medical Center,Carlisle,PA,Proprietary,4,23570,Average
+3505,Lancaster Regional Medical Center,Lancaster,PA,Proprietary,2,23079,Average
+3507,Upmc Hamot,Erie,PA,Private,2,24633,Average
+3508,Gettysburg Hospital,Gettysburg,PA,Unknown,4,23010,Average
+3509,Good Samaritan Hospital,Lebanon,PA,Unknown,3,20241,Average
+3510,Pinnacle Health Hospitals,Harrisburg,PA,Unknown,3,21774,Average
+3512,Lower Bucks Hospital,Bristol,PA,Proprietary,3,24774,Average
+3514,Berwick Hospital Center,Berwick,PA,Proprietary,2,21880,Average
+3515,Upmc Altoona,Altoona,PA,Private,2,26018,Average
+3516,Brandywine Hospital,Coatesville,PA,Proprietary,2,25572,Average
+3517,Robert Packer Hospital,Sayre,PA,Unknown,2,22332,Better
+3518,Jeanes Hospital,Philadelphia,PA,Private,4,24487,Average
+3519,Delaware County Memorial Hospital,Drexel Hill,PA,Private,2,24719,Average
+3521,Penn Highlands Dubois,Dubois,PA,Unknown,3,23407,Average
+3522,West Penn Hospital,Pittsburgh,PA,Private,3,27651,Average
+3523,Upmc Northwest,Seneca,PA,Unknown,3,24493,Average
+3524,Clarion Hospital,Clarion,PA,Unknown,2,22633,Average
+3525,St Joseph Medical Center,Reading,PA,Church,2,23274,Average
+3526,Holy Redeemer Hospital And Medical Center,Meadowbrook,PA,Church,4,24709,Average
+3527,Lancaster General Hospital,Lancaster,PA,Unknown,5,23550,Average
+3528,Memorial Hospital,York,PA,Private,2,24754,Average
+3529,Upmc St Margaret,Pittsburgh,PA,Private,3,24766,Average
+3531,Upmc Passavant,Pittsburgh,PA,Private,4,23155,Average
+3532,Conemaugh Memorial Medical Center,Johnstown,PA,Proprietary,1,22292,Average
+3533,Hospital Of Univ Of Pennsylvania,Philadelphia,PA,Private,3,25346,Average
+3535,Meadville Medical Center,Meadville,PA,Private,3,24763,Average
+3537,Aria Health,Philadelphia,PA,Private,2,24188,Average
+3540,Bradford Regional Medical Center,Bradford,PA,Private,2,22416,Average
+3541,Moses Taylor Hospital,Scranton,PA,Proprietary,1,24907,Average
+3542,Pottstown Hospital,Pottstown,PA,Proprietary,1,24811,Average
+3543,Wayne Memorial Hospital,Honesdale,PA,Private,4,26320,Average
+3544,Phoenixville Hospital,Phoenixville,PA,Proprietary,3,27895,Average
+3546,Lehigh Valley Hospital,Allentown,PA,Private,3,22673,Better
+3547,Wilkes-barre General Hospital,Wilkes-barre,PA,Private,1,25712,Average
+3548,Waynesboro Hospital,Waynesboro,PA,Private,4,23689,Average
+3549,Main Line Hospital Bryn Mawr Campus,Bryn Mawr,PA,Private,5,26004,Average
+3550,Albert Einstein Medical Center,Philadelphia,PA,Unknown,1,24954,Average
+3551,Excela Health Westmoreland Hospital,Greensburg,PA,Unknown,4,24124,Average
+3553,Monongahela Valley Hospital,Monongahela,PA,Private,3,22823,Average
+3555,Chambersburg Hospital,Chambersburg,PA,Private,4,22917,Average
+3556,Main Line Hospital Paoli,Paoli,PA,Private,5,21983,Average
+3557,Mercy Fitzgerald Hospital,Darby,PA,Private,1,23973,Average
+3560,Easton Hospital,Easton,PA,Proprietary,3,25313,Average
+3561,Acmh Hospital,Kittanning,PA,Private,2,24861,Average
+3562,Upmc Presbyterian Shadyside,Pittsburgh,PA,Private,1,26543,Average
+3563,Butler Memorial Hospital,Butler,PA,Private,4,24674,Average
+3564,Indiana Regional Medical Center,Indiana,PA,Private,3,23917,Average
+3565,Thomas Jefferson University Hospital,Philadelphia,PA,Private,1,23738,Average
+3566,Upmc Horizon,Greenville,PA,Private,3,23662,Average
+3567,Chester County Hospital,West Chester,PA,Private,5,22782,Better
+3568,Crozer Chester Medical Center,Upland,PA,Unknown,1,25602,Average
+3571,Lehigh Valley Hospital - Hazleton,Hazleton,PA,Government,2,24155,Average
+3573,St Luke's Hospital-gnaden Huetten Campus,Lehighton,PA,Private,2,22755,Average
+3574,Main Line Hospital Lankenau,Wynnewood,PA,Private,5,24805,Average
+3575,Sacred Heart Hospital,Allentown,PA,Private,4,24334,Average
+3578,Lehigh Valley Hospital - Pocono,East Stroudsburg,PA,Private,3,24579,Average
+3579,Doylestown Hospital,Doylestown,PA,Private,5,21026,Average
+3580,Nazareth Hospital,Philadelphia,PA,Private,2,24009,Average
+3581,Sharon Regional Health System,Sharon,PA,Proprietary,2,22934,Average
+3582,Excela Health Frick Hospital,Mount Pleasant,PA,Unknown,3,24469,Average
+3583,Excela Health Latrobe Hospital,Latrobe,PA,Private,3,24221,Average
+3584,Jennersville Hospital,West Grove,PA,Unknown,3,25795,Average
+3585,Riddle Memorial Hospital,Media,PA,Private,4,25415,Better
+3586,Penn Presbyterian Medical Center,Philadelphia,PA,Unknown,4,23340,Average
+3587,Wellspan Ephrata Community Hospital,Ephrata,PA,Unknown,4,27020,Average
+3588,Pennsylvania Hospital,Philadelphia,PA,Private,2,24667,Average
+3589,St Clair Hospital,Pittsburgh,PA,Private,5,23627,Average
+3590,Abington Memorial Hospital,Abington,PA,Private,2,23358,Average
+3591,Hanover Hospital,Hanover,PA,Private,4,26129,Average
+3593,Regional Hospital Of Scranton,Scranton,PA,Proprietary,2,22670,Average
+3594,Milton S Hershey Medical Center,Hershey,PA,Unknown,5,21592,Average
+3595,St Mary Medical Center,Langhorne,PA,Church,3,23563,Average
+3596,Lehigh Valley Hospital - Muhlenberg,Bethlehem,PA,Unknown,3,21277,Average
+3597,Jefferson Hospital,Jefferson Hills,PA,Private,3,25324,Average
+3599,Forbes Hospital,Monroeville,PA,Private,2,24613,Average
+3600,Mount Nittany Medical Center,State College,PA,Private,5,24122,Average
+3601,Geisinger Wyoming Valley Medical Center,Wilkes Barre,PA,Private,4,23357,Average
+3604,Hahnemann University Hospital,Philadelphia,PA,Proprietary,1,23575,Average
+3606,Roxborough Memorial Hospital,Philadelphia,PA,Proprietary,2,24743,Average
+3616,St Luke's Hospital - Anderson Campus,Easton,PA,Private,4,24681,Average
+3618,Upmc East,Monroeville,PA,Private,3,24373,Average
+3619,Einstein Medical Center Montgomery,East Norriton,PA,Private,4,23855,Average
+3632,Penn Highlands Brookville,Brookville,PA,Private,3,22636,Average
+3635,Penn Highlands Elk,Saint Marys,PA,Private,3,25008,Average
+3655,Auxilio Mutuo Hospital,Hato Rey,PR,Private,1,20190,Average
+3659,Hospital Damas Inc,Ponce,PR,Private,2,22131,Average
+3661,San Luke's Memorial Hospital Inc,Ponce,PR,Church,2,18271,Average
+3672,Hima San Pablo Bayamon,Bayamon,PR,Proprietary,1,20853,Average
+3681,Hima San Pablo-caguas,Caguas,PR,Proprietary,1,20764,Average
+3695,Roger Williams Medical Center,Providence,RI,Private,3,22491,Average
+3696,Our Lady Of Fatima Hospital,North Providence,RI,Private,2,23331,Average
+3697,Newport Hospital,Newport,RI,Private,5,25192,Average
+3698,Rhode Island Hospital,Providence,RI,Private,2,20326,Average
+3699,South County Hospital Inc,Wakefield,RI,Private,5,23899,Average
+3700,Kent County Memorial Hospital,Warwick,RI,Proprietary,2,22731,Average
+3702,Landmark Medical Center,Woonsocket,RI,Private,3,24674,Average
+3703,The Miriam Hospital,Providence,RI,Private,4,22226,Average
+3704,Westerly Hospital,Westerly,RI,Private,4,23927,Average
+3705,Piedmont Medical Center,Rock Hill,SC,Proprietary,1,22841,Average
+3706,Musc Medical Center,Charleston,SC,Government,2,22772,Average
+3707,Mcleod Medical Center - Dillon,Dillon,SC,Private,4,23291,Average
+3708,Spartanburg Medical Center,Spartanburg,SC,Government,2,22370,Average
+3709,Ghs Oconee Memorial  Hospital,Seneca,SC,Private,4,22800,Average
+3710,Carolina Pines Regional Medical Center,Hartsville,SC,Proprietary,2,22519,Average
+3712,Baptist Easley Hospital,Easley,SC,Private,2,24278,Average
+3713,Palmetto Health Richland,Columbia,SC,Private,2,25227,Average
+3715,Tidelands Health,Georgetown,SC,Private,3,24943,Average
+3716,St Francis-downtown,Greenville,SC,Private,4,26635,Average
+3717,Providence Health,Columbia,SC,Proprietary,4,21847,Average
+3718,Anmed Health,Anderson,SC,Private,3,22050,Average
+3721,Springs Memorial Hospital,Lancaster,SC,Proprietary,2,22488,Average
+3725,Kershawhealth,Camden,SC,Proprietary,4,24279,Average
+3726,Conway Medical Center,Conway,SC,Private,4,24801,Average
+3727,Mcleod Regional Medical Center-pee Dee,Florence,SC,Unknown,3,21265,Average
+3733,Beaufort County Memorial Hospital,Beaufort,SC,Unknown,3,20795,Average
+3734,Trmc Of Orangeburg & Calhoun,Orangeburg,SC,Government,1,22565,Average
+3735,Palmetto Health Tuomey Hospital,Sumter,SC,Private,2,23796,Average
+3736,Self Regional Healthcare,Greenwood,SC,Private,4,23692,Average
+3738,Lexington Medical Center,West Columbia,SC,Government,3,23373,Average
+3739,Ghs Greenville Memorial Hospital,Greenville,SC,Private,3,24740,Average
+3740,Trident Medical Center,Charleston,SC,Proprietary,1,26227,Average
+3741,Hilton Head Regional Medical Center,Hilton Head Island,SC,Proprietary,2,27658,Average
+3742,Aiken Regional Medical Center,Aiken,SC,Proprietary,2,24550,Average
+3743,Mary Black Health System Spartanburg,Spartanburg,SC,Proprietary,3,23556,Average
+3744,Grand Strand Regional Medical Center,Myrtle Beach,SC,Proprietary,3,24848,Average
+3745,Palmetto Health Baptist,Columbia,SC,Private,3,21336,Average
+3746,Roper Hospital,Charleston,SC,Private,5,26486,Average
+3748,Carolinas Hospital System,Florence,SC,Proprietary,2,22894,Average
+3749,Tidelands Waccamaw Community Hospital,Murrells Inlet,SC,Private,5,24445,Average
+3754,Mcleod Loris  Hospital,Loris,SC,Private,4,24674,Average
+3765,Prairie Lakes Hospital,Watertown,SD,Private,3,23128,Average
+3767,Avera Sacred Heart Hospital,Yankton,SD,Private,3,21992,Average
+3769,Avera St Lukes,Aberdeen,SD,Church,4,23384,Average
+3771,Avera Mckennan Hospital & University Health Center,Sioux Falls,SD,Private,3,21603,Average
+3772,Sanford Usd Medical Center,Sioux Falls,SD,Private,4,23518,Average
+3774,Regional Health Rapid City Hospital,Rapid City,SD,Private,3,24911,Average
+3782,Avera Heart Hospital Of South Dakota,Sioux Falls,SD,Proprietary,5,24202,Average
+3783,Sanford Aberdeen Medical Center,Aberdeen,SD,Private,5,25101,Average
+3824,Jackson-madison County General Hospital,Jackson,TN,Government,1,23694,Average
+3825,Sumner Regional Medical Center,Gallatin,TN,Proprietary,2,24819,Average
+3826,Tristar Skyline Medical Center,Nashville,TN,Private,2,22873,Average
+3829,Cumberland Medical Center,Crossville,TN,Private,3,24120,Average
+3831,Blount Memorial Hospital,Maryville,TN,Government,2,20861,Average
+3832,Bristol Regional Medical Center,Bristol,TN,Government,1,22841,Average
+3833,University Of Tn Medical Center (the),Knoxville,TN,Private,2,23796,Average
+3835,Holston Valley Medical Center,Kingsport,TN,Private,2,20214,Average
+3836,Sycamore Shoals Hospital,Elizabethton,TN,Private,3,23185,Average
+3838,"Laughlin Memorial Hospital, Inc",Greeneville,TN,Private,2,22487,Average
+3839,Williamson Medical Center,Franklin,TN,Government,5,23353,Average
+3840,Morristown Hamblen Hospital Association,Morristown,TN,Government,2,21298,Average
+3844,Methodist Medical Center Of Oak Ridge,Oak Ridge,TN,Private,1,23006,Average
+3845,Tennova Healthcare-clarksville,Clarksville,TN,Government,2,24225,Average
+3846,Vanderbilt University Medical Center,Nashville,TN,Private,3,23510,Average
+3848,Tristar Horizon Medical Center,Dickson,TN,Proprietary,3,24667,Average
+3849,Baptist Memorial Hospital,Memphis,TN,Private,1,24251,Average
+3850,Methodist Healthcare Memphis Hospitals,Memphis,TN,Church,2,23882,Average
+3852,Saint Thomas Rutherford Hospital,Murfreesboro,TN,Church,1,23290,Average
+3855,Southern Tennessee Regional Hlth System Winchester,Winchester,TN,Proprietary,3,24006,Average
+3856,Cookeville Regional Medical Center,Cookeville,TN,Government,4,22401,Average
+3858,West Tennessee Healthcare Volunteer Hospital,Martin,TN,Proprietary,4,24863,Average
+3859,Johnson City Medical Center,Johnson City,TN,Private,1,22981,Average
+3860,Northcrest Medical Center,Springfield,TN,Unknown,1,23198,Average
+3861,Lakeway Regional Hospital,Morristown,TN,Proprietary,3,22994,Average
+3864,West Tennessee Healthcare Dyersburg Hospital,Dyersburg,TN,Proprietary,1,25325,Average
+3865,Maury Regional Hospital,Columbia,TN,Government,3,22092,Average
+3866,Leconte Medical Center,Sevierville,TN,Unknown,2,23240,Average
+3867,Saint Thomas West Hospital,Nashville,TN,Church,4,24272,Average
+3870,"Memorial Healthcare System, Inc",Chattanooga,TN,Church,4,24892,Average
+3872,Erlanger Medical Center,Chattanooga,TN,Government,2,24546,Worse
+3876,Tennova Healthcare,Knoxville,TN,Proprietary,2,23834,Worse
+3877,Fort Sanders Regional Medical Center,Knoxville,TN,Private,2,22430,Average
+3880,Henry County Medical Center,Paris,TN,Government,3,22846,Average
+3881,Saint Thomas Midtown Hospital,Nashville,TN,Private,3,20844,Average
+3883,Tennova Healthcare-harton,Tullahoma,TN,Unknown,3,22805,Average
+3885,Tristar Summit Medical Center,Hermitage,TN,Proprietary,2,23612,Average
+3889,Parkridge Medical Center,Chattanooga,TN,Proprietary,3,25966,Average
+3891,Tristar Centennial Medical Center,Nashville,TN,Proprietary,4,25809,Average
+3892,Parkwest Medical Center,Knoxville,TN,Private,2,22207,Average
+3894,Indian Path Community Hospital,Kingsport,TN,Private,4,22606,Average
+3897,St Francis Hospital,Memphis,TN,Proprietary,3,21094,Average
+3899,Tennova Healthcare-cleveland,Cleveland,TN,Proprietary,1,23392,Average
+3902,Tennova Healthcare-lebanon,Lebanon,TN,Private,2,22722,Average
+3903,Tristar Hendersonville Medical Center,Hendersonville,TN,Unknown,3,22818,Average
+3904,Tristar Southern Hills Medical Center,Nashville,TN,Proprietary,2,25988,Average
+3907,Tristar Stonecrest Medical Center,Smyrna,TN,Proprietary,2,21662,Average
+3908,Saint Francis Bartlett Medical Center,Bartlett,TN,Proprietary,3,25930,Average
+3928,The Hospitals Of Providence Memorial Campus,El Paso,TX,Proprietary,3,23115,Average
+3929,Peterson Regional Medical Center,Kerrville,TX,Private,3,26647,Average
+3930,United Regional Health Care System,Wichita Falls,TX,Private,4,22385,Average
+3931,St Joseph Regional Health Center,Bryan,TX,Private,4,23483,Average
+3932,Parkland Health And Hospital System,Dallas,TX,Government,2,25432,Average
+3933,University Of Texas Medical Branch,Galveston,TX,Government,2,25571,Average
+3934,Baylor University Medical Center,Dallas,TX,Church,3,21623,Average
+3935,Citizens Medical Center,Victoria,TX,Unknown,4,25218,Average
+3936,University Medical Center Of El Paso,El Paso,TX,Government,2,21397,Average
+3937,Valley Baptist Medical Center- Brownsville,Brownsville,TX,Proprietary,4,24364,Average
+3938,Laredo Medical Center,Laredo,TX,Proprietary,4,24730,Worse
+3940,Vhs Harlingen Hospital Company Llc,Harlingen,TX,Proprietary,3,23990,Average
+3941,Christus Southeast Texas- St Elizabeth,Beaumont,TX,Church,2,27189,Average
+3942,St Joseph Medical Center,Houston,TX,Proprietary,2,23952,Average
+3943,Jps Health Network,Fort Worth,TX,Government,2,25355,Average
+3944,Covenant Medical Center,Lubbock,TX,Church,3,24193,Average
+3945,Providence Health Center,Waco,TX,Private,2,24213,Average
+3946,Ut Southwestern University Hospital,Dallas,TX,Government,4,23548,Average
+3947,Christus Spohn Hospital Corpus Christi,Corpus Christi,TX,Private,2,23421,Average
+3948,Methodist Dallas Medical Center,Dallas,TX,Unknown,3,24453,Average
+3949,Baylor Scott & White Medical Center - Temple,Temple,TX,Private,2,23941,Average
+3951,Seton Medical Center Austin,Austin,TX,Private,4,25663,Average
+3952,Baptist Medical Center,San Antonio,TX,Proprietary,3,23313,Worse
+3953,Texas Health Arlington Memorial Hospital,Arlington,TX,Private,3,23852,Average
+3954,Memorial Hermann Texas Medical Center,Houston,TX,Private,2,29670,Average
+3955,Brazosport Regional Health System,Lake Jackson,TX,Private,3,21170,Average
+3957,Baylor Medical Center At Irving,Irving,TX,Private,4,23628,Average
+3960,Ut Health East Texas Tyler Regional Hospital,Tyler,TX,Private,3,24194,Worse
+3962,Medical City North Hills,North Richland Hills,TX,Proprietary,2,26139,Average
+3964,Fort Duncan Medical Center,Eagle Pass,TX,Proprietary,4,25478,Average
+3965,Bayshore Medical Center,Pasadena,TX,Proprietary,2,24660,Average
+3966,Pampa Regional Medical Center,Pampa,TX,Private,4,24183,Average
+3967,Baylor Scott & White Medical Center Hillcrest,Waco,TX,Private,3,24380,Average
+3968,Christus Mother Frances Hospital,Tyler,TX,Private,4,24634,Average
+3969,Guadalupe Regional Medical Center,Seguin,TX,Unknown,2,25060,Average
+3970,Las Palmas Medical Center,El Paso,TX,Proprietary,3,24491,Average
+3972,South Texas Health System,Edinburg,TX,Proprietary,3,24667,Average
+3973,Dell Seton  Med Center At The University Of Tx,Austin,TX,Private,1,24140,Average
+3974,Knapp Medical Center,Weslaco,TX,Private,4,26533,Average
+3975,Nix Health Care System,San Antonio,TX,Proprietary,5,23970,Average
+3976,Medical Center Hospital,Odessa,TX,Government,1,23502,Average
+3977,Midland Memorial Hospital,Midland,TX,Government,2,24348,Average
+3978,Texas Health Harris Methodist Fort Worth,Fort Worth,TX,Church,2,22256,Average
+3979,Baylor Scott And White All Saints Medical Center,Fort Worth,TX,Private,4,25173,Average
+3982,Detar Healthcare System,Victoria,TX,Proprietary,4,24461,Average
+3983,Texas Health Harris Methodist Hospital Cleburne,Cleburne,TX,Church,4,23395,Average
+3984,Metroplex Hospital,Killeen,TX,Private,2,23224,Average
+3985,Val Verde Regional Medical Center,Del Rio,TX,Proprietary,3,23890,Average
+3988,Christus Spohn Hospital Kleberg,Kingsville,TX,Private,2,24195,Average
+3990,Mission Regional Medical Center,Mission,TX,Private,3,23649,Average
+3991,Memorial Hermann Hospital System,Houston,TX,Private,4,25456,Average
+3994,Chi St Luke's Health Baylor College Of Medicine Me,Houston,TX,Church,3,27418,Average
+3996,Paris Regional Medical Center,Paris,TX,Proprietary,2,27847,Average
+3997,Wadley Regional Medical Center,Texarkana,TX,Unknown,3,24518,Average
+3998,Medical City Weatherford,Weatherford,TX,Proprietary,2,22873,Average
+3999,Northwest Texas Hospital,Amarillo,TX,Proprietary,2,25316,Average
+4001,Chi St Lukes Health Memorial Lufkin,Lufkin,TX,Private,1,26753,Average
+4002,University Health System,San Antonio,TX,Government,2,25090,Average
+4004,Conroe Regional Medical Center,Conroe,TX,Proprietary,1,25969,Average
+4005,Hendrick Medical Center,Abilene,TX,Private,3,26865,Average
+4006,Baptist St Anthony's Hospital,Amarillo,TX,Proprietary,4,22039,Average
+4008,Christus Mother Frances Hospital Sulphur Springs,Sulphur Springs,TX,Proprietary,3,25062,Average
+4009,Christus Santa Rosa Medical Center,San Antonio,TX,Church,3,26925,Average
+4013,Wise Regional Health System,Decatur,TX,Government,2,28714,Worse
+4014,Central Texas Medical Center,San Marcos,TX,Private,3,24765,Average
+4015,Harris Health System,Houston,TX,Government,1,23595,Average
+4017,College Station Medical Center,College Station,TX,Proprietary,3,23948,Average
+4018,Texoma Medical Center,Denison,TX,Proprietary,2,24743,Average
+4019,Oakbend Medical Center,Richmond,TX,Government,3,25811,Average
+4020,San Angelo Community Medical Center,San Angelo,TX,Proprietary,4,24117,Average
+4021,Baptist Beaumont Hospital,Beaumont,TX,Private,3,24220,Average
+4022,Huntsville Memorial Hospital,Huntsville,TX,Private,1,25174,Average
+4024,Texas Health Harris Methodist Hospital Stephenvill,Stephenville,TX,Private,4,22193,Average
+4025,Hunt Regional Medical Center,Greenville,TX,Government,3,25288,Average
+4026,Houston Methodist Hospital,Houston,TX,Private,5,26056,Average
+4029,Baylor Scott & White Medical Center- Waxahachie,Waxahachie,TX,Private,4,24669,Average
+4031,Methodist Hospital,San Antonio,TX,Proprietary,3,26238,Average
+4032,Ut Health East Texas Athens Hospital,Athens,TX,Private,3,23378,Average
+4036,Medical Center Of Mckinney,Mckinney,TX,Proprietary,2,25317,Average
+4040,Houston Methodist San Jacinto Hospital,Baytown,TX,Private,3,25088,Average
+4041,St David's Medical Center,Austin,TX,Unknown,5,26103,Average
+4042,Navarro Regional Hospital,Corsicana,TX,Unknown,2,21758,Average
+4045,Texas Health Presbyterian Hospital  Dallas,Dallas,TX,Private,4,23909,Average
+4046,Matagorda Regional Medical Center,Bay City,TX,Government,3,25108,Average
+4047,Wilson N Jones Regional Medical Center,Sherman,TX,Proprietary,3,23525,Average
+4049,Woodland Heights Medical Center,Lufkin,TX,Proprietary,4,23220,Average
+4053,Memorial Hospital,Nacogdoches,TX,Government,2,24309,Average
+4054,The Medical Center Of Southeast Texas,Port Arthur,TX,Proprietary,3,24849,Average
+4055,Methodist Richardson Medical Center,Richardson,TX,Government,2,27301,Average
+4057,Abilene Regional Medical Center,Abilene,TX,Proprietary,2,23627,Average
+4058,Baylor Scott & White Medical Center  Grapevine,Grapevine,TX,Private,4,23559,Average
+4060,Shannon Medical Center,San Angelo,TX,Private,4,23345,Average
+4066,Lake Granbury Medical Center,Granbury,TX,Proprietary,4,23819,Average
+4070,Memorial Hermann Memorial City Medical Center,Houston,TX,Private,5,23879,Average
+4071,Clear Lake Regional Medical Center,Webster,TX,Proprietary,3,25122,Average
+4072,Medical City Denton,Denton,TX,Proprietary,4,26645,Average
+4073,Houston Northwest Medical Center,Houston,TX,Proprietary,2,26196,Average
+4074,Texas Health Harris Methodist Hurst-euless-bedford,Bedford,TX,Private,3,25015,Average
+4076,Doctors Hospital Of Laredo,Laredo,TX,Proprietary,3,21705,Average
+4077,West Houston Medical Center,Houston,TX,Proprietary,2,24602,Average
+4078,Medical City Dallas,Dallas,TX,Proprietary,4,25487,Average
+4079,Medical Center Of Plano,Plano,TX,Proprietary,2,25709,Average
+4080,Scenic Mountain Medical Center,Big Spring,TX,Proprietary,2,22775,Average
+4081,Starr County Memorial Hospital,Rio Grande City,TX,Government,3,22004,Average
+4082,Nacogdoches Medical Center,Nacogdoches,TX,Unknown,3,25588,Average
+4085,Odessa Regional Medical Center,Odessa,TX,Proprietary,2,23257,Average
+4086,Valley Regional Medical Center,Brownsville,TX,Proprietary,4,24013,Average
+4087,Sierra Medical Center,El Paso,TX,Proprietary,2,22991,Average
+4088,Medical Center Of Lewisville,Lewisville,TX,Private,2,25756,Average
+4089,Tomball Regional Medical Center,Tomball,TX,Proprietary,2,27906,Average
+4090,Plaza Medical Center Of Fort Worth,Fort Worth,TX,Proprietary,2,26002,Average
+4092,Medical City Arlington,Arlington,TX,Proprietary,4,25462,Average
+4093,Texas Health Huguley Hospital Fort Worth South,Burleson,TX,Church,4,23492,Average
+4094,City Hospital At  White Rock,Dallas,TX,Proprietary,2,24426,Average
+4095,Memorial Hermann Northeast,Humble,TX,Private,1,24570,Average
+4096,University Medical Center,Lubbock,TX,Government,3,24252,Worse
+4097,Dallas Regional Medical Center,Mesquite,TX,Proprietary,2,24042,Average
+4098,University Of Texas Health Science Center At Tyler,Tyler,TX,Government,4,24435,Average
+4100,Southwest General Hospital,San Antonio,TX,Unknown,1,25752,Average
+4102,Longview Regional Medical Center,Longview,TX,Proprietary,4,22930,Average
+4103,Houston Methodist St John Hospital,Nassau Bay,TX,Private,4,28147,Average
+4104,Rio Grande Regional Hospital,Mcallen,TX,Proprietary,4,22824,Average
+4105,St David's South Austin Medical Center,Austin,TX,Proprietary,4,26259,Average
+4106,Cypress Fairbanks Medical Center,Houston,TX,Proprietary,2,24082,Average
+4107,Round Rock Medical Center,Round Rock,TX,Proprietary,4,23258,Average
+4108,Methodist Charlton Medical Center,Dallas,TX,Private,3,25237,Average
+4109,Baylor Scott And White Medical Center Carrollton,Carrollton,TX,Proprietary,3,24431,Average
+4110,Baylor Scott And White Medical Center Lake Pointe,Rowlett,TX,Proprietary,1,23461,Average
+4111,Texas Health Presbyterian Hospital Denton,Denton,TX,Private,3,26671,Average
+4113,Palestine Regional Medical Center,Palestine,TX,Proprietary,2,24766,Average
+4117,Texas Health Presbyterian Hospital Plano,Plano,TX,Private,3,24141,Average
+4119,Kingwood Medical Center,Kingwood,TX,Proprietary,3,27724,Average
+4120,Texas Health Harris Methodist Hospital Southwest F,Fort Worth,TX,Private,5,22474,Average
+4122,"Corpus Christi Medical Center,the",Corpus Christi,TX,Proprietary,4,22969,Average
+4124,Christus St Michael Health System,Texarkana,TX,Church,4,22589,Average
+4128,North Austin Medical Center,Austin,TX,Proprietary,5,24984,Average
+4129,Houston Methodist Sugarland Hospital,Sugar Land,TX,Private,4,24516,Average
+4130,Medical City Las Colinas,Irving,TX,Proprietary,3,23687,Average
+4133,Christus Spohn Hospital Alice,Alice,TX,Private,3,24342,Average
+4137,Texas Health Presbyterian Hospital Allen,Allen,TX,Government,4,23971,Average
+4138,Houston Methodist Willowbrook Hospital,Houston,TX,Private,4,25429,Average
+4140,Memorial Hermann Katy Hospital,Katy,TX,Private,4,23873,Average
+4141,Memorial Hermann Sugar Land Hospital,Sugar Land,TX,Private,3,24437,Average
+4142,Baylor Scott And White Heart And Vascular Hospital,Dallas,TX,Proprietary,5,23905,Average
+4144,Harlingen Medical Center,Harlingen,TX,Proprietary,5,24620,Average
+4147,St Luke's The Woodlands Hospital,The Woodlands,TX,Private,3,23824,Average
+4151,Doctors Hospital At Renaissance,Edinburg,TX,Unknown,2,23719,Average
+4156,Lubbock Heart Hospital Lp,Lubbock,TX,Proprietary,4,24014,Average
+4160,Baylor Scott &  White Medical Center - Centennial,Frisco,TX,Unknown,3,24533,Average
+4163,Baylor Regional Medical Center At Plano,Plano,TX,Unknown,4,23657,Average
+4165,The Heart Hospital Baylor Denton,Denton,TX,Unknown,4,27307,Average
+4266,Utah Valley Hospital,Provo,UT,Private,5,22754,Better
+4267,Salt Lake Regional Medical Center,Salt Lake City,UT,Proprietary,2,24578,Average
+4268,Mckay Dee Hospital,Ogden,UT,Private,3,25665,Average
+4269,Ogden Regional Medical Center,Ogden,UT,Proprietary,4,25125,Average
+4272,University Of Utah Hospitals And Clinics,Salt Lake City,UT,Government,4,24930,Average
+4273,Intermountain Medical Center,Murray,UT,Private,4,22894,Average
+4275,Mountain View Hospital,Payson,UT,Proprietary,4,23896,Average
+4277,Logan Regional Hospital,Logan,UT,Private,4,23297,Average
+4280,Dixie Regional Medical Center,St George,UT,Private,4,23426,Average
+4285,Davis Hospital And Medical Center,Layton,UT,Proprietary,3,25833,Average
+4286,Lakeview Hospital,Bountiful,UT,Proprietary,5,22945,Average
+4289,St Mark's Hospital,Salt Lake City,UT,Proprietary,4,25339,Average
+4291,Jordan Valley Medical Center,West Jordan,UT,Unknown,2,23622,Average
+4292,Timpanogos Regional Hospital,Orem,UT,Proprietary,4,24466,Average
+4312,Central Vermont Medical Center,Barre,VT,Private,4,22283,Average
+4313,University Of Vermont Medical Center,Burlington,VT,Unknown,3,23573,Average
+4314,Rutland Regional Medical Center,Rutland,VT,Private,3,23805,Average
+4315,Brattleboro Memorial Hospital,Brattleboro,VT,Private,3,23851,Average
+4316,Southwestern Vermont Medical Center,Bennington,VT,Private,4,21888,Average
+4317,Northwestern Medical Center Inc,Saint Albans,VT,Unknown,4,22549,Average
+4322,North Country Hospital And Health Center,Newport,VT,Private,3,23467,Average
+4324,Springfield Hospital,Springfield,VT,Private,3,23117,Average
+4326,"Roy Lester Schneider Hospital,the",St Thomas,VI,Government,3,19583,Average
+4327,Gov Juan F Luis Hospital & Medical Ctr,St Croix,VI,Government,2,20088,Average
+4328,Norton Community Hospital,Norton,VA,Private,4,21850,Average
+4329,Russell County Hospital,Lebanon,VA,Private,3,23630,Average
+4330,Sentara Rmh Medical Center,Harrisonburg,VA,Private,4,23131,Average
+4331,Winchester Medical Center,Winchester,VA,Private,2,23376,Average
+4332,Sentara Norfolk General Hospital,Norfolk,VA,Unknown,3,22716,Average
+4333,University Of Virginia Medical Center,Charlottesville,VA,Government,2,22992,Average
+4334,Bon Secours Depaul Medical Center,Norfolk,VA,Private,2,22579,Average
+4335,Sentara Halifax Regional Hospital,South Boston,VA,Private,2,21935,Average
+4336,Bon Secours Maryview Medical Center,Portsmouth,VA,Private,1,21555,Average
+4337,Augusta Health,Fishersville,VA,Private,4,25266,Average
+4338,Novant Health Uva Health System Culpeper Med Cente,Culpeper,VA,Unknown,3,22905,Average
+4339,John Randolph Medical Center,Hopewell,VA,Proprietary,2,24947,Average
+4340,"Centra  Health, Inc",Lynchburg,VA,Private,5,20273,Better
+4341,"Mary Washington Hospital, Inc",Fredericksburg,VA,Private,3,24713,Average
+4342,Fauquier Hospital,Warrenton,VA,Private,2,23774,Average
+4343,Carilion Roanoke Memorial Hospital,Roanoke,VA,Private,2,22530,Average
+4344,Medical College Of Virginia Hospitals,Richmond,VA,Government,2,24483,Average
+4346,Riverside Shore Memorial Hospital,Onancock,VA,Private,4,24651,Average
+4348,Inova Alexandria Hospital,Alexandria,VA,Private,4,23145,Average
+4349,Mary Immaculate Hospital,Newport News,VA,Private,4,23114,Average
+4350,Carilion New River Valley Medical Center,Christiansburg,VA,Private,3,25906,Average
+4351,Inova Loudoun Hospital,Leesburg,VA,Private,5,21171,Average
+4352,Sentara Obici Hospital,Suffolk,VA,Unknown,4,23717,Average
+4353,Novant Health Uva  Prince William Medical Center,Manassas,VA,Private,2,25288,Average
+4354,Sentara Leigh Hospital,Norfolk,VA,Unknown,4,22449,Average
+4355,Lewisgale Medical Center,Salem,VA,Proprietary,3,22426,Average
+4356,Virginia Hospital Center,Arlington,VA,Private,4,22101,Average
+4357,Riverside Regional Medical Center,Newport News,VA,Private,2,20522,Average
+4358,Johnston Memorial Hospital,Abingdon,VA,Private,2,22584,Average
+4359,Sentara Virginia Beach General Hospital,Virginia Beach,VA,Unknown,2,22982,Average
+4360,Bon Secours St Marys Hospital,Richmond,VA,Church,4,22924,Average
+4361,Clinch Valley Medical Center,Richlands,VA,Proprietary,4,20042,Average
+4362,Inova Fairfax Hospital,Falls Church,VA,Private,5,25196,Average
+4363,Sentara Williamsburg Regional Medical Center,Williamsburg,VA,Private,5,22247,Average
+4364,Southside Regional Medical Center,Petersburg,VA,Proprietary,1,27451,Average
+4365,Bon Secours Memorial Regional Medical Center,Mechanicsville,VA,Church,5,22990,Average
+4366,Sovah Health Danville,Danville,VA,Proprietary,1,23296,Average
+4367,Martha Jefferson Hospital,Charlottesville,VA,Private,4,21469,Average
+4368,Riverside Tappahannock Hospital,Tappahannock,VA,Private,3,21872,Average
+4371,"Southside Community Hospital, Inc",Farmville,VA,Unknown,5,23711,Average
+4373,Sentara Careplex Hospital,Hampton,VA,Private,3,22750,Average
+4375,Southern Virginia Regional Medical Center,Emporia,VA,Proprietary,3,23204,Average
+4377,Inova Fair Oaks Hospital,Fairfax,VA,Unknown,5,24836,Average
+4379,Reston Hospital Center,Reston,VA,Private,3,22991,Average
+4380,Lewisgale Hospital Montgomery,Blacksburg,VA,Proprietary,3,26018,Average
+4381,Wythe County Community Hospital,Wytheville,VA,Church,2,21639,Average
+4382,Cjw Medical Center,Richmond,VA,Proprietary,2,22359,Average
+4383,Sentara Northern Virginia Medical Center,Woodbridge,VA,Private,3,24650,Average
+4384,Lonesome Pine Hospital,Big Stone Gap,VA,Private,3,21398,Average
+4385,Twin County Regional Hospital,Galax,VA,Proprietary,3,23202,Average
+4386,Lewisgale Hospital Pulaski,Pulaski,VA,Proprietary,2,23407,Average
+4388,Henrico Doctors' Hospital,Richmond,VA,Unknown,4,22957,Average
+4389,Sentara Princess Anne Hospital,Virginia Beach,VA,Unknown,5,26024,Average
+4390,Chesapeake General Hospital,Chesapeake,VA,Government,3,23089,Average
+4391,Inova Mount Vernon Hospital,Alexandria,VA,Private,5,26178,Average
+4392,Lewisgale Hospital Alleghany,Low Moor,VA,Private,3,23107,Average
+4395,Riverside Walter Reed Hospital,Gloucester,VA,Private,3,22150,Average
+4396,Bon Secours St Francis Medical Center,Midlothian,VA,Church,3,21403,Average
+4397,"Stafford Hospital, Llc",Stafford,VA,Private,3,23948,Average
+4398,Spotsylvania Regional Medical Center,Fredericksburg,VA,Proprietary,3,22478,Average
+4399,Riverside Doctors' Hospital Of Williamsburg,Williamsburg,VA,Private,4,24034,Average
+4405,Carilion Stonewall Jackson Hospital,Lexington,VA,Private,4,24382,Average
+4406,Shenandoah Memorial Hospital,Woodstock,VA,Private,4,21860,Average
+4412,Northwest Hospital,Seattle,WA,Unknown,4,22464,Average
+4413,Providence St Mary Medical Center,Walla Walla,WA,Private,5,22313,Average
+4414,Skagit Valley Hospital,Mount Vernon,WA,Government,1,20989,Average
+4415,Virginia Mason Medical Center,Seattle,WA,Private,4,24884,Average
+4416,Island Hospital,Anacortes,WA,Government,4,23114,Average
+4417,University Of Washington Medical Ctr,Seattle,WA,Government,4,24463,Average
+4418,Highline Medical Center,Burien,WA,Private,2,22086,Average
+4419,Yakima Regional Medical And Cardiac Center,Yakima,WA,Proprietary,2,24166,Average
+4420,Providence Regional Medical Center Everett,Everett,WA,Church,2,20176,Average
+4421,Multicare Auburn Medical Center,Auburn,WA,Private,2,24023,Average
+4422,Central Washington Hospital,Wenatchee,WA,Private,4,20757,Average
+4423,Providence Centralia Hospital,Centralia,WA,Unknown,3,21405,Average
+4424,St Clare Hospital,Lakewood,WA,Church,1,24813,Average
+4425,Providence St Peter Hospital,Olympia,WA,Private,3,21898,Average
+4426,Swedish Medical Center / Cherry Hill,Seattle,WA,Church,4,26238,Average
+4427,Swedish Edmonds Hospital,Edmonds,WA,Private,2,25738,Average
+4428,Swedish Medical Center,Seattle,WA,Private,5,24042,Average
+4429,St Joseph Hospital,Bellingham,WA,Unknown,4,22610,Average
+4430,Grays Harbor Community Hospital,Aberdeen,WA,Private,2,24709,Average
+4431,Samaritan Hospital,Moses Lake,WA,Government,3,21961,Average
+4432,Yakima Valley Memorial Hospital,Yakima,WA,Private,4,23153,Average
+4434,Harrison Memorial Hospital,Bremerton,WA,Private,3,24357,Worse
+4435,Peachealth St John Medical Center,Longview,WA,Church,2,23104,Average
+4436,Multicare Deaconess Hospital,Spokane,WA,Private,3,23622,Average
+4437,Peacehealth Southwest Medical Center,Vancouver,WA,Private,2,22713,Average
+4438,Overlake Hospital Medical Center,Bellevue,WA,Unknown,4,23133,Average
+4440,Trios,Kennewick,WA,Government,2,23810,Average
+4441,Providence Sacred Heart Medical Center,Spokane,WA,Church,4,22082,Average
+4442,Kadlec Regional Medical Center,Richland,WA,Private,4,26174,Average
+4444,Harborview Medical Center,Seattle,WA,Government,3,24660,Average
+4445,Olympic Medical Center,Port Angeles,WA,Government,3,21754,Average
+4446,Providence Holy Family Hospital,Spokane,WA,Private,3,22776,Average
+4447,Multicare Good Samaritan Hospital,Puyallup,WA,Private,2,21432,Average
+4449,Valley Medical Center,Renton,WA,Government,4,22687,Average
+4450,St Joseph Medical Center,Tacoma,WA,Church,2,23644,Average
+4452,Evergreenhealth Medical Center,Kirkland,WA,Government,5,23405,Average
+4453,Tacoma General Allenmore Hospital,Tacoma,WA,Private,2,22616,Average
+4454,Capital Medical Center,Olympia,WA,Private,3,24180,Average
+4455,St Francis Community Hospital,Federal Way,WA,Church,2,25621,Average
+4457,Legacy Salmon Creek Medical Center,Vancouver,WA,Private,5,22308,Average
+4458,St Anthony Hospital,Gig Harbor,WA,Church,4,23588,Average
+4459,Swedish Issaquah,Issaquah,WA,Private,4,22700,Average
+4485,Providence Mount Carmel Hospital,Colville,WA,Church,3,23641,Average
+4495,Mason General Hospital & Family Of Clinics,Shelton,WA,Government,3,22157,Average
+4503,West Virginia University Hospitals,Morgantown,WV,Private,2,23554,Average
+4504,Greenbrier Valley Medical Center,Ronceverte,WV,Proprietary,4,22713,Average
+4505,United Hospital Center,Bridgeport,WV,Private,4,21895,Average
+4506,St Mary's Medical Center,Huntington,WV,Church,4,21940,Average
+4507,Berkeley Medical Center,Martinsburg,WV,Private,3,22782,Average
+4508,Pleasant Valley Hospital,Point Pleasant,WV,Private,3,22977,Average
+4509,Reynolds Memorial Hospital,Glen Dale,WV,Private,2,23428,Average
+4510,Charleston Area Medical Center,Charleston,WV,Private,2,23228,Average
+4511,Weirton Medical Center,Weirton,WV,Government,3,29320,Average
+4512,Monongalia County General Hospital,Morgantown,WV,Private,3,24342,Average
+4513,Thomas Memorial Hospital,South Charleston,WV,Private,3,22688,Average
+4514,Davis Medical Center,Elkins,WV,Private,2,24077,Average
+4515,St Francis Hospital,Charleston,WV,Proprietary,3,23834,Average
+4516,Stonewall Jackson Memorial Hospital,Weston,WV,Private,3,24523,Average
+4517,Ohio Valley Medical Center,Wheeling,WV,Private,1,24919,Average
+4518,Princeton Community Hospital,Princeton,WV,Government,2,22279,Average
+4519,Fairmont Regional Medical Center,Fairmont,WV,Private,2,23236,Average
+4520,Logan Regional Medical Center,Logan,WV,Proprietary,4,22007,Average
+4521,Wheeling Hospital,Wheeling,WV,Church,1,23313,Average
+4522,Cabell Huntington Hospital Inc,Huntington,WV,Private,3,23030,Average
+4523,Camden Clark Medical Center,Parkersburg,WV,Private,2,23603,Average
+4524,Beckley Arh Hospital,Beckley,WV,Private,2,24634,Average
+4525,Raleigh General Hospital,Beckley,WV,Proprietary,2,25303,Average
+4526,Bluefield Regional Medical Center,Bluefield,WV,Proprietary,3,23449,Average
+4552,Ascension St Michaels Hospital,Stevens Point,WI,Church,5,22286,Average
+4553,Mayo Clinic Hlth System  Franciscan Med Ctr,La Crosse,WI,Private,5,23738,Average
+4554,Waukesha Memorial Hospital,Waukesha,WI,Private,5,24280,Average
+4555,Ascension Ne Wisconsin St Elizabeth Hospital,Appleton,WI,Private,4,22163,Average
+4556,Marshfield Medical Center - Rice Lake,Rice Lake,WI,Private,4,25908,Average
+4557,Sacred Heart Hospital,Eau Claire,WI,Church,4,22535,Average
+4559,Ascension St Marys Hospital,Rhinelander,WI,Private,3,24483,Average
+4560,Froedtert South - Kenosha Medical Center,Kenosha,WI,Government,3,24291,Average
+4561,Ascension Columbia St Mary's Hospital Ozaukee,Mequon,WI,Church,4,25259,Average
+4562,The Monroe Clinic,Monroe,WI,Private,5,21603,Average
+4563,Aspirus Wausau Hospital,Wausau,WI,Proprietary,4,23911,Average
+4565,Aurora Medical Ctr Manitowoc County,Two Rivers,WI,Private,5,22578,Average
+4566,Aurora Sheboygan Memorial Medical Ctr,Sheboygan,WI,Private,5,23765,Average
+4567,Marshfield Medical Center,Marshfield,WI,Church,3,25241,Average
+4571,Thedacare Regional Medical Center - Neenah Inc,Neenah,WI,Private,3,22305,Average
+4572,Bellin Memorial Hospital,Green Bay,WI,Private,5,24379,Better
+4573,Ascension Columbia St Mary's Hospital Milwaukee,Milwaukee,WI,Church,3,23698,Average
+4575,Aurora Medical Center Burlington,Burlington,WI,Private,4,23777,Average
+4576,Oconomowoc Memorial Hospital,Oconomowoc,WI,Unknown,4,23803,Average
+4578,Mercy Health System Corp,Janesville,WI,Private,2,23997,Worse
+4579,Mayo Clinic Health System In Eau Claire,Eau Claire,WI,Private,5,24065,Average
+4581,St Vincent Hospital,Green Bay,WI,Church,4,25797,Average
+4583,Wheaton Franciscan Healthcare St Francis Hospital,Milwaukee,WI,Private,2,24756,Average
+4584,Ssm Health St Mary's Hospital - Madison,Madison,WI,Private,5,22347,Average
+4585,Gundersen Lutheran Medical Center,La Crosse,WI,Private,4,23763,Average
+4586,St Agnes Hospital,Fond Du Lac,WI,Private,4,23885,Average
+4587,Unitypoint Health - Meriter,Madison,WI,Private,5,22423,Better
+4588,Howard Young Medical Ctr,Woodruff,WI,Church,4,22874,Average
+4590,Wheaton Franciscan Healthcare All Saints,Racine,WI,Church,1,24166,Average
+4591,St Marys Hospital Medical Ctr,Green Bay,WI,Unknown,4,24186,Average
+4592,University Of Wi  Hospitals & Clinics Authority,Madison,WI,Government,4,24238,Average
+4593,Beloit Memorial Hospital,Beloit,WI,Private,2,24977,Average
+4594,Aurora Lakeland Medical Center,Elkhorn,WI,Private,5,23027,Average
+4595,Community Memorial Hospital,Menomonee Falls,WI,Private,5,24894,Average
+4596,Holy Family Memorial,Manitowoc,WI,Unknown,4,22667,Average
+4598,Bay Area Medical Center,Marinette,WI,Private,3,22127,Average
+4600,Wheaton Franciscan - St Joseph,Milwaukee,WI,Church,3,24096,Average
+4601,Aurora St Lukes Medical Center,Milwaukee,WI,Private,4,22816,Average
+4602,Aurora West Allis Medical Center,West Allis,WI,Private,4,25255,Average
+4603,Thedacare Regional Medical Center - Appleton Inc,Appleton,WI,Private,2,22337,Average
+4604,Froedtert Memorial Lutheran Hospital,Milwaukee,WI,Private,4,24042,Average
+4605,Aurora Medical Ctr Kenosha,Kenosha,WI,Private,4,25768,Average
+4606,Aurora Baycare Medical Ctr,Green Bay,WI,Proprietary,4,23367,Average
+4609,Aurora Medical Ctr Oshkosh,Oshkosh,WI,Private,4,24038,Average
+4610,Ascension St Clares Hospital,Weston,WI,Private,3,25321,Average
+4612,Aurora Medical Center,Summit,WI,Private,4,23588,Average
+4613,Aurora Medical Center,Grafton,WI,Private,5,25216,Average
+4672,Memorial Medical Center,Ashland,WI,Private,4,21684,Average
+4675,Campbell County Memorial Hospital,Gillette,WY,Government,4,22485,Average
+4676,Sheridan Memorial Hospital,Sheridan,WY,Government,4,24393,Average
+4679,Wyoming Medical Center,Casper,WY,Government,3,21915,Average
+4680,Cheyenne Regional Medical Center,Cheyenne,WY,Unknown,3,24962,Average
+4707,St Marks Medical Center,La Grange,TX,Private,3,23482,Average
+4712,Methodist Mansfield Medical Center,Mansfield,TX,Private,4,26024,Average
+4713,North Cypress Medical Center,Cypress,TX,Unknown,2,24801,Average
+4714,The Heart Hospital Baylor Plano,Plano,TX,Proprietary,5,26856,Average
+4715,St Luke's Patients Medical Center,Pasadena,TX,Unknown,4,25382,Average
+4716,Scott & White Hospital-round Rock,Round Rock,TX,Private,5,25946,Average
+4717,Seton Medical Center Williamson,Round Rock,TX,Private,4,23348,Average
+4718,Cedar Park Regional Medical Center,Cedar Park,TX,Proprietary,3,23858,Average
+4722,Sierra Providence East Medical Center,El Paso,TX,Proprietary,2,24610,Average
+4724,St Luke's Sugar Land Hospital,Sugar Land,TX,Private,3,27155,Average
+4726,Methodist Stone Oak Hospital,San Antonio,TX,Proprietary,4,24582,Average
+4727,Seton Medical Center Hays,Kyle,TX,Private,4,26081,Average
+4729,Baylor Scott And White Medical Center Sunnyvale,Sunnyvale,TX,Proprietary,3,22392,Average
+4735,Texas Health Heart & Vascular Hospital Arlington,Arlington,TX,Proprietary,4,26430,Average
+4737,St Luke's Hospital At The Vintage,Houston,TX,Proprietary,3,26089,Average
+4739,Houston Methodist West Hospital,Houston,TX,Private,4,24774,Average
+4741,Seton Medical Center Harker Heights,Harker Heights,TX,Proprietary,3,22619,Average
+4742,Baylor Scott And White  Medical Center  Mckinney,Mc Kinney,TX,Private,3,24175,Average
+4744,Texas Health Harris Methodist Hospital Alliance,Fort Worth,TX,Private,3,24649,Average
+4746,Baylor Scott & White Medical Center- College Stati,College Station,TX,Private,3,27904,Average
+4752,Resolute Health Hospital,New Braunfels,TX,Proprietary,3,29501,Average
