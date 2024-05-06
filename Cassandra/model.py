@@ -10,42 +10,43 @@ CREATE_KEYSPACE = """
         WITH replication = {{ 'class': 'SimpleStrategy', 'replication_factor': {} }}
 """
 
-CREATE_USERS_TABLE = """
-    CREATE TABLE IF NOT EXISTS accounts_by_user (
-        username TEXT,
-        account_number TEXT,
-        cash_balance DECIMAL,
-        name TEXT STATIC,
-        PRIMARY KEY ((username),account_number)
-    )
+CREATE_HOSPITALS_HEART_ATTACK_PROCEDURE_BY_RATING_TABLE = """
+    CREATE TABLE IF NOT EXISTS heart_attack_procedure_by_rating (
+        facility_Name TEXT,
+        city TEXT,
+        state TEXT,
+        facility_type TEXT,
+        rating_overall INT,
+        cost DECIMAL,
+        quality TEXT,
+        PRIMARY KEY ((quality), rating_overall, facility_name, city)
+    ) WITH CLUSTERING ORDER BY (rating_overall DESC, facility_name DESC, city DESC)
 """
 
-CREATE_POSSITIONS_BY_ACCOUNT_TABLE = """
-    CREATE TABLE IF NOT EXISTS positions_by_account (
-        account TEXT,
-        symbol TEXT,
-        quantity DECIMAL,
-        PRIMARY KEY ((account),symbol)
-    )
+CREATE_HOSPITALS_HEART_ATTACK_PROCEDURE_BY_COST_TABLE = """
+    CREATE TABLE IF NOT EXISTS heart_attack_procedure_by_cost (
+        facility_Name TEXT,
+        city TEXT,
+        state TEXT,
+        facility_type TEXT,
+        rating_overall INT,
+        cost DECIMAL,
+        quality TEXT,
+        PRIMARY KEY ((quality), cost, facility_name, city)
+    ) WITH CLUSTERING ORDER BY (cost ASC, facility_name DESC, city DESC)
 """
 
-CREATE_TRADES_BY_ACCOUNT_DATE_TABLE = """
-    CREATE TABLE IF NOT EXISTS trades_by_a_d (
-        account TEXT,
-        trade_id TIMEUUID,
-        type TEXT,
-        symbol TEXT,
-        shares DECIMAL,
-        price DECIMAL,
-        amount DECIMAL,
-        PRIMARY KEY ((account), trade_id)
-    ) WITH CLUSTERING ORDER BY (trade_id DESC)
+
+SELECT_FACILITIES_BY_RATING = """
+    SELECT facility_name, city, state, facility_type, rating_overall, cost
+    FROM heart_attack_procedure_by_rating
+    WHERE quality = ? AND rating_overall >= ?
 """
 
-SELECT_USER_ACCOUNTS = """
-    SELECT username, account_number, name, cash_balance
-    FROM accounts_by_user
-    WHERE username = ?
+SELECT_FACILITIES_BY_COST = """
+    SELECT facility_name, city, state, facility_type, rating_overall, cost
+    FROM heart_attack_procedure_by_cost
+    WHERE quality = ? AND cost >= ? AND cost =< ?
 """
 
 def create_keyspace(session, keyspace, replication_factor):
@@ -55,15 +56,30 @@ def create_keyspace(session, keyspace, replication_factor):
 
 def create_schema(session):
     log.info("Creating model schema")
-    session.execute(CREATE_USERS_TABLE)
-    session.execute(CREATE_POSSITIONS_BY_ACCOUNT_TABLE)
-    session.execute(CREATE_TRADES_BY_ACCOUNT_DATE_TABLE)
+    session.execute(CREATE_HOSPITALS_HEART_ATTACK_PROCEDURE_BY_RATING_TABLE)
+    session.execute(CREATE_HOSPITALS_HEART_ATTACK_PROCEDURE_BY_COST_TABLE)
 
 
-def get_user_accounts(session, username):
-    log.info(f"Retrieving {username} accounts")
-    stmt = session.prepare(SELECT_USER_ACCOUNTS)
-    rows = session.execute(stmt, [username])
+def get_facilities_by_rating(session, quality, rating):
+    log.info(f'Retrieving facilities with {quality} quality procedure and {rating} overall rating or better')
+    stmt = session.prepare(SELECT_FACILITIES_BY_RATING)
+    rows = session.execute(stmt, [quality, int(rating)])
     for row in rows:
-        print(f"=== Account: {row.account_number} ===")
-        print(f"- Cash Balance: {row.cash_balance}")
+        print(f'=== Facility: {row.facility_name} ===')
+        print(f'- Rating overall: {row.rating_overall}')
+        print(f'- Cost: {row.cost}')
+
+    
+def get_facilities_by_cost_range(session, quality, min, max):
+    log.info(f'Retrieving facilities with {quality} quality procedure and {min} - {max} cost range')
+    stmt = session.prepare(SELECT_FACILITIES_BY_COST)
+    rows = session.execute(stmt, [quality, int(min), int(max)])
+    for row in rows:
+        print(f'=== Facility: {row.facility_name} ===')
+        print(f'- Cost: {row.cost}')
+        print(f'- Rating overall: {row.rating_overall}')
+
+
+def load_data(session):
+    stmt = session.prepare("SOURCE '/tools/data.cql'")
+    session.execute(stmt)
