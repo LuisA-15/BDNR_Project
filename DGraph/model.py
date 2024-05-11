@@ -37,7 +37,7 @@ def set_schema(client):
     month: int .
     year: int .
     date: datetime .
-    has: [uid]@reverse .
+    has: [uid] @reverse @count .
     age: int .
     gender: string @index(exact) .
     reason: string @index(term) .
@@ -101,7 +101,10 @@ def airoline_info(client, name):
 				date
         airline
         BusinessTicket: count(has @filter(eq(ticket,"Business")))
+        FirstTicket: count(has @filter(eq(ticket,"First Class")))
+        EconomyTicket: count(has @filter(eq(ticket,"Economy")))
         GenderFemale: count(has @filter(eq(gender,"female"))) 
+        GenderMale: count(has @filter(eq(gender,"male"))) 
         
       }  
     
@@ -113,7 +116,7 @@ def airoline_info(client, name):
     ppl = json.loads(res.json)
 
     # Print results.
-    print(f"Number of people named {name}: {len(ppl['all'])}")
+    print(f"Number of fligths named {name}: {len(ppl['all'])}")
     print(f"Data associated with {name}:\n{json.dumps(ppl, indent=2)}")
 
 

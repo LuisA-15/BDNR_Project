@@ -16,7 +16,7 @@ source ./venv/bin/activate
 # Install and activate virtual env (Windows)
 python3 -m pip install virtualenv
 python3 -m venv ./venv
-.\venv\Scripts\Activate.ps1
+
 
 # Install project python requirements
 pip install -r requirements.txt
