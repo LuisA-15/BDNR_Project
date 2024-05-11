@@ -19,7 +19,7 @@ def create_book(request: Request, fligth: Flight = Body(...)):
 
 
 @router.get("/", response_description="Get all flight", response_model=List)
-def list_books(request: Request, to_airport: str, month: int=0 ):
+def list_Flights(request: Request, to_airport: str, month: int=0 ):
     if month ==0:
         aggrega = [
         {
@@ -33,7 +33,6 @@ def list_books(request: Request, to_airport: str, month: int=0 ):
             }
         },
         {
-           
             "$group": {
                 "_id": "$month", 
                 "More car rental": {"$sum": 1}
@@ -70,10 +69,5 @@ def list_books(request: Request, to_airport: str, month: int=0 ):
     return Flights
 
 
-@router.get("/{id}", response_description="Get a single book by id", response_model=Flight)
-def find_book(id: str, request: Request):
-    if (book := request.app.database["books"].find_one({"_id": id})) is not None:
-        return book
 
-    raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f"Book with ID {id} not found")
 
